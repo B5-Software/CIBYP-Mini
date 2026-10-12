@@ -27,7 +27,10 @@ test(
                 {
                   id: 'file-read',
                   type: 'function',
-                  function: { name: 'readFile', arguments: JSON.stringify({ path: file }) },
+                  function: {
+                    name: 'readFile',
+                    arguments: JSON.stringify({ path: file }),
+                  },
                 },
               ],
             }
@@ -39,7 +42,12 @@ test(
       res.end(
         JSON.stringify({
           id: 'mock-response',
-          choices: [{ message, finish_reason: message.tool_calls ? 'tool_calls' : 'stop' }],
+          choices: [
+            {
+              message,
+              finish_reason: message.tool_calls ? 'tool_calls' : 'stop',
+            },
+          ],
           usage: { prompt_tokens: 40, completion_tokens: 10 },
         }),
       );
@@ -70,7 +78,10 @@ test(
       await host.close();
       fs.rmSync(dir, { recursive: true, force: true });
     });
-    const session = host.runtime.createSession({ mode: 'code', workspacePath: dir });
+    const session = host.runtime.createSession({
+      mode: 'code',
+      workspacePath: dir,
+    });
     await host.runtime.initialize({ key: session.key });
     const result = await host.runtime.sendMessage(session.key, 'read fixture');
     assert.equal(result.ok, true, JSON.stringify(result));
@@ -91,6 +102,29 @@ test(
       assert.equal(child.ok, true, JSON.stringify(child));
     } finally {
       parent.busy = false;
+    }
+    await parent.agent.saveToHistory();
+    const conversationId = parent.agent.conversationId;
+    await host.close();
+    const resumed = await createNodeRuntime({
+      dataDir: path.join(dir, 'profile'),
+      workspaceRoot: dir,
+    });
+    try {
+      const next = resumed.runtime.createSession({
+        mode: 'code',
+        workspacePath: dir,
+      });
+      await resumed.runtime.initialize({ key: next.key });
+      const opened = await resumed.runtime.openHistory(next.key, conversationId);
+      assert.equal(opened.ok, true, JSON.stringify(opened));
+      assert.ok(
+        JSON.stringify(resumed.runtime.getSessionDetails(next.key).messages).includes(
+          'Read the fixture successfully',
+        ),
+      );
+    } finally {
+      await resumed.close();
     }
   },
 );

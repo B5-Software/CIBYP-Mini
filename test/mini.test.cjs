@@ -104,3 +104,17 @@ test("updates reject a tampered binary and stage verified core without running i
   assert.equal((await adapter.check(() => {})).status, "up-to-date");
   assert.throws(() => adapter.install(), /No verified update/);
 });
+
+test("CLI and remote update channels share profile preferences and explicit overrides", (t) => {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), "mini-channel-"));
+  t.after(() => fs.rmSync(dir, { recursive: true, force: true }));
+  const { channel } = require("../src/update");
+  assert.equal(
+    channel(dir),
+    require("../package.json").version.includes("-") ? "preview" : "stable",
+  );
+  save(path.join(dir, "mini.json"), { updateChannel: "stable" });
+  assert.equal(channel(dir), "stable");
+  assert.equal(channel(dir, "preview"), "preview");
+  assert.throws(() => channel(dir, "unknown"), /Invalid update channel/);
+});

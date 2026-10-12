@@ -5,6 +5,16 @@ const fs = require("node:fs"),
   crypto = require("node:crypto");
 const { save, load } = require("./cli");
 const REPO = "B5-Software/CIBYP-Mini";
+function channel(dataDir, override) {
+  const configured =
+    override || load(path.join(dataDir, "mini.json"), {}).updateChannel;
+  if (configured && !["stable", "preview"].includes(configured))
+    throw new Error("Invalid update channel");
+  return (
+    configured ||
+    (require("../package.json").version.includes("-") ? "preview" : "stable")
+  );
+}
 async function get(url, limit, fetchImpl) {
   const response = await fetchImpl(url, {
     headers: { "User-Agent": "CIBYP-Mini" },
@@ -87,10 +97,7 @@ async function update(dataDir, { preview = false, fetchImpl = fetch } = {}) {
 function adapter(dataDir, { fetchImpl = fetch } = {}) {
   let state = { status: "idle" },
     pending;
-  const preview = () =>
-    load(path.join(dataDir, "mini.json"), {}).updateChannel === "preview" ||
-    (load(path.join(dataDir, "mini.json"), {}).updateChannel !== "stable" &&
-      require("../package.json").version.includes("-"));
+  const preview = () => channel(dataDir) === "preview";
   return {
     status: () => state,
     async check(publish) {
@@ -153,4 +160,4 @@ function adapter(dataDir, { fetchImpl = fetch } = {}) {
     },
   };
 }
-module.exports = { update, check, adapter };
+module.exports = { update, check, adapter, channel };

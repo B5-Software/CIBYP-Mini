@@ -8,7 +8,10 @@ const root = path.resolve(__dirname, '..');
 function save(file, value) {
   fs.mkdirSync(path.dirname(file), { recursive: true, mode: 0o700 });
   const tmp = file + '.' + crypto.randomUUID();
-  fs.writeFileSync(tmp, JSON.stringify(value, null, 2) + '\n', { mode: 0o600, flag: 'wx' });
+  fs.writeFileSync(tmp, JSON.stringify(value, null, 2) + '\n', {
+    mode: 0o600,
+    flag: 'wx',
+  });
   try {
     fs.renameSync(tmp, file);
   } finally {
@@ -37,7 +40,10 @@ async function rpc(config, method, params) {
   const id = crypto.randomUUID();
   const response = await fetch(config.url, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + config.token },
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: 'Bearer ' + config.token,
+    },
     body: JSON.stringify({ jsonrpc: '2.0', id, method, params }),
     signal: AbortSignal.timeout(30000),
     redirect: 'error',
@@ -114,17 +120,27 @@ async function main(argv = process.argv.slice(2)) {
     const password = await require('./password').readPassword();
     if (password.length < 12 || Buffer.byteLength(password) > 72)
       throw new Error('Use 12–72 UTF-8 bytes for the access password');
-    save(configFile, { ...config, passwordHash: await require('bcryptjs').hash(password, 12) });
+    save(configFile, {
+      ...config,
+      passwordHash: await require('bcryptjs').hash(password, 12),
+    });
     console.log('Access password changed. Restart Mini to apply.');
     return;
   }
-  const connection = { ...config, url: 'http://127.0.0.1:' + config.port + '/remote/v2/rpc' };
+  const connection = {
+    ...config,
+    url: 'http://127.0.0.1:' + config.port + '/remote/v2/rpc',
+  };
   if (command === 'status') {
     console.log(JSON.stringify(await rpc(connection, 'system.health', {}), null, 2));
     return;
   }
   if (command === 'stop') {
-    console.log(await rpc(connection, 'system.stop', { operationId: crypto.randomUUID() }));
+    console.log(
+      await rpc(connection, 'system.stop', {
+        operationId: crypto.randomUUID(),
+      }),
+    );
     return;
   }
   if (command === 'doctor') {
@@ -146,13 +162,12 @@ async function main(argv = process.argv.slice(2)) {
     return;
   }
   if (command === 'update') {
-    if (options.channel && !['stable', 'preview'].includes(options.channel))
-      throw new Error('Invalid update channel');
-    const result = await require('./update').update(dataDir, {
-      preview: options.channel === 'preview',
+    const updater = require('./update');
+    const result = await updater.update(dataDir, {
+      preview: updater.channel(dataDir, options.channel) === 'preview',
     });
     console.log(
-      'Core ' +
+      'Mini ' +
         result.version +
         ' verified. Restart Mini to install. Use rollback to return to the previous core.',
     );
@@ -175,7 +190,10 @@ async function main(argv = process.argv.slice(2)) {
       scopes: (options.scopes || 'system.read,sessions.read,events.read').split(','),
       operationId: crypto.randomUUID(),
     });
-    save(path.resolve(options.output), { ...result, url: 'http://127.0.0.1:' + config.port });
+    save(path.resolve(options.output), {
+      ...result,
+      url: 'http://127.0.0.1:' + config.port,
+    });
     console.log('Scoped credentials saved to ' + path.resolve(options.output));
     return;
   }
@@ -210,7 +228,11 @@ async function main(argv = process.argv.slice(2)) {
     core = readCore(options.core || config.core);
   } catch (error) {
     if (options.core || !config.core) throw error;
-    config = { ...config, core: config.previousCore || null, previousCore: null };
+    config = {
+      ...config,
+      core: config.previousCore || null,
+      previousCore: null,
+    };
     save(configFile, config);
     console.error('Selected core failed verification; previous core restored: ' + error.message);
     core = readCore(config.core);
@@ -220,7 +242,10 @@ async function main(argv = process.argv.slice(2)) {
     workspaceRoot: config.workspaceRoot,
     plugins: config.plugins || [],
     updateAdapter: require('./update').adapter(dataDir),
-    product: { name: 'CIBYP Mini', version: require('../package.json').version },
+    product: {
+      name: 'CIBYP Mini',
+      version: require('../package.json').version,
+    },
   });
   let closing = false,
     stopGpio;
@@ -245,7 +270,11 @@ async function main(argv = process.argv.slice(2)) {
         totpSecret: config.totpSecret,
       },
     });
-    save(path.join(dataDir, 'endpoint.json'), { ...address, protocol: 2, pid: process.pid });
+    save(path.join(dataDir, 'endpoint.json'), {
+      ...address,
+      protocol: 2,
+      pid: process.pid,
+    });
     console.log('CIBYP Mini listening at ' + address.url + '\nProfile: ' + dataDir);
   } catch (error) {
     await close();
