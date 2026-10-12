@@ -1,0 +1,15 @@
+[Unit]
+Description=Could I Be Your Partner Mini
+After=network-online.target
+
+[Service]
+Type=simple
+ExecStart=%h/.local/bin/cibyp-mini serve
+Restart=on-failure
+RestartSec=5
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=default.target

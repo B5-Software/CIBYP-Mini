@@ -1,0 +1,51 @@
+name: Mini
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  node:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, ubuntu-24.04-arm, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - uses: actions/checkout@v4
+        with:
+          repository: B5-Software/CIBYP-Micro
+          ref: cc5483bbb35dc684f090c0f6f134cd5894f36d26
+          path: conformance/micro
+      - run: cmake -S conformance/micro -B conformance/micro/build -DCMAKE_BUILD_TYPE=Debug
+      - run: cmake --build conformance/micro/build --config Debug
+      - name: Locate C simulator
+        shell: pwsh
+        run: |
+          $relative = if ($IsWindows) { 'conformance/micro/build/Debug/micro-simulator.exe' } else { 'conformance/micro/build/micro-simulator' }
+          "CIBYP_MICRO_SIMULATOR=$(Join-Path $env:GITHUB_WORKSPACE $relative)" >> $env:GITHUB_ENV
+      - run: npm test
+      - run: cc -std=c11 -O2 -Wall -Wextra -Werror native/gpio.c -o build-gpio
+        if: runner.os == 'Linux'
+      - run: npm audit --omit=dev --audit-level=high
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: node
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish portable Node package and independently verified core
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tar -czf cibyp-mini.tar.gz package.json package-lock.json bin src core deploy native examples scripts README.md LICENSE
+          sha256sum cibyp-mini.tar.gz core/core.cjs > SHA256SUMS
+          flag=""
+          case "$GITHUB_REF_NAME" in *-*) flag="--prerelease";; esac
+          gh release create "$GITHUB_REF_NAME" cibyp-mini.tar.gz SHA256SUMS core/core.cjs core/manifest.json --title "$GITHUB_REF_NAME" --generate-notes $flag

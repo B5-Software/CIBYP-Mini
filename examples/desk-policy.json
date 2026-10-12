@@ -1,0 +1,1 @@
+{"tools":{"gpio_read":{"resources":["gpio:17"]},"gpio_write":{"resources":["gpio:17"],"write":true,"timeoutMs":2000}}}

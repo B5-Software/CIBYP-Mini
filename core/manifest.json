@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "protocol": 2,
+  "version": "1.9.0-alpha.25",
+  "node": ">=24",
+  "sha256": "9d569fcd1e4f60829cb852c08bfca88fc3a5dd36327453cc0c3b86e94c6936e1",
+  "source": {
+    "repository": "https://github.com/B5-Software/Could-I-Be-Your-Partner",
+    "revision": "943a868e63a82194c89fcbcec5d3bb8640726725",
+    "dirty": true,
+    "sourceMap": "core.cjs.map"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-ws": "^5.0.2",
+    "ws": "^8.18.0",
+    "bcryptjs": "^3.0.3",
+    "otpauth": "^9.5.1"
+  }
+}

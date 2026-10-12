@@ -1,0 +1,13 @@
+{
+  "name": "cibyp-mini",
+  "version": "0.1.0-alpha.1",
+  "private": true,
+  "description": "Pure Node CIBYP Agent host for SBCs and headless servers",
+  "license": "GPL-3.0-or-later",
+  "bin": {"cibyp-mini": "bin/cibyp-mini.cjs"},
+  "engines": {"node": ">=24"},
+  "scripts": {"test": "node --test test/*.test.cjs", "start": "node bin/cibyp-mini.cjs serve"},
+  "dependencies": {"express": "5.2.1", "express-ws": "5.0.2", "ws": "8.21.0", "bcryptjs": "3.0.3", "otpauth": "9.5.1"},
+  "optionalDependencies": {"node-pty": "1.1.0"},
+  "repository": {"type": "git", "url": "https://github.com/B5-Software/CIBYP-Mini.git"}
+}
