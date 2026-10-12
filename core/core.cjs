@@ -43,6 +43,14 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
 ));
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 
+// <define:CIBYP_AVATAR_FRAMES>
+var define_CIBYP_AVATAR_FRAMES_default;
+var init_define_CIBYP_AVATAR_FRAMES = __esm({
+  "<define:CIBYP_AVATAR_FRAMES>"() {
+    define_CIBYP_AVATAR_FRAMES_default = { "frame-001": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#1a1a4e"/>\n      <stop offset="50%" stop-color="#3d2c8d"/>\n      <stop offset="100%" stop-color="#0c0c2e"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#9d8cd6" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#9d8cd6" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#9d8cd6" stroke-width="0.8" opacity="0.6"/>\n  <circle cx="50" cy="50" r="47.8" fill="none" stroke="#6b5bb3" stroke-width="0.4" opacity="0.4"/>\n  <g fill="#ffffff">\n    <circle cx="50" cy="5" r="1.2"/>\n    <circle cx="68" cy="8" r="0.7"/>\n    <circle cx="83" cy="20" r="1"/>\n    <circle cx="93" cy="38" r="1.1"/>\n    <circle cx="95" cy="58" r="0.8"/>\n    <circle cx="87" cy="76" r="1"/>\n    <circle cx="73" cy="89" r="1.1"/>\n    <circle cx="55" cy="94" r="0.9"/>\n    <circle cx="36" cy="92" r="1"/>\n    <circle cx="20" cy="84" r="1"/>\n    <circle cx="9" cy="68" r="0.9"/>\n    <circle cx="5" cy="50" r="1.2"/>\n    <circle cx="8" cy="32" r="0.8"/>\n    <circle cx="17" cy="17" r="1"/>\n    <circle cx="32" cy="8" r="0.9"/>\n  </g>\n  <g fill="#ffe66d" opacity="0.95">\n    <path d="M50,2 L50.7,4.2 L52.9,4.9 L50.7,5.6 L50,7.8 L49.3,5.6 L47.1,4.9 L49.3,4.2 Z"/>\n    <path d="M91,46 L91.6,47.6 L93.2,48.2 L91.6,48.8 L91,50.4 L90.4,48.8 L88.8,48.2 L90.4,47.6 Z"/>\n    <path d="M9,30 L9.6,31.6 L11.2,32.2 L9.6,32.8 L9,34.4 L8.4,32.8 L6.8,32.2 L8.4,31.6 Z"/>\n    <path d="M73,91 L73.6,92.6 L75.2,93.2 L73.6,93.8 L73,95.4 L72.4,93.8 L70.8,93.2 L72.4,92.6 Z"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.25"/>\n</svg>\n', "frame-002": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#ffd1dc"/>\n      <stop offset="50%" stop-color="#ff9ebb"/>\n      <stop offset="100%" stop-color="#f06292"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#fff0f5" stop-opacity="0.6"/>\n      <stop offset="100%" stop-color="#fff0f5" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#ffffff" opacity="0.85">\n    <path d="M50,2 C52,5 52,8 50,10 C48,8 48,5 50,2 Z" transform="rotate(0 50 50)"/>\n    <path d="M50,2 C52,5 52,8 50,10 C48,8 48,5 50,2 Z" transform="rotate(45 50 50)"/>\n    <path d="M50,2 C52,5 52,8 50,10 C48,8 48,5 50,2 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,2 C52,5 52,8 50,10 C48,8 48,5 50,2 Z" transform="rotate(135 50 50)"/>\n    <path d="M50,2 C52,5 52,8 50,10 C48,8 48,5 50,2 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,2 C52,5 52,8 50,10 C48,8 48,5 50,2 Z" transform="rotate(225 50 50)"/>\n    <path d="M50,2 C52,5 52,8 50,10 C48,8 48,5 50,2 Z" transform="rotate(270 50 50)"/>\n    <path d="M50,2 C52,5 52,8 50,10 C48,8 48,5 50,2 Z" transform="rotate(315 50 50)"/>\n  </g>\n  <g fill="#ff6b9d" opacity="0.9">\n    <circle cx="50" cy="4" r="1.5"/>\n    <circle cx="85" cy="50" r="1.5"/>\n    <circle cx="50" cy="96" r="1.5"/>\n    <circle cx="15" cy="50" r="1.5"/>\n  </g>\n  <g fill="#ffe0ec" opacity="0.9">\n    <ellipse cx="96" cy="50" rx="2.2" ry="1.1" transform="rotate(0 96 50)"/>\n    <ellipse cx="50" cy="96" rx="2.2" ry="1.1" transform="rotate(90 50 96)"/>\n    <ellipse cx="4" cy="50" rx="2.2" ry="1.1" transform="rotate(0 4 50)"/>\n    <ellipse cx="50" cy="4" rx="2.2" ry="1.1" transform="rotate(90 50 4)"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-003": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#006994"/>\n      <stop offset="50%" stop-color="#00a8cc"/>\n      <stop offset="100%" stop-color="#003459"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#7fdbff" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#7fdbff" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#7fdbff" stroke-width="0.8" opacity="0.7"/>\n  <g fill="none" stroke="#b3ecff" stroke-width="1" opacity="0.85">\n    <path d="M10,50 Q20,46 30,50 T50,50 T70,50 T90,50"/>\n    <path d="M10,40 Q20,36 30,40 T50,40 T70,40 T90,40" opacity="0.6"/>\n    <path d="M10,60 Q20,56 30,60 T50,60 T70,60 T90,60" opacity="0.6"/>\n  </g>\n  <g fill="#ffffff" opacity="0.9">\n    <circle cx="50" cy="6" r="1.3"/>\n    <circle cx="85" cy="22" r="1.1"/>\n    <circle cx="93" cy="55" r="1.2"/>\n    <circle cx="78" cy="88" r="1.1"/>\n    <circle cx="22" cy="88" r="1.2"/>\n    <circle cx="7" cy="55" r="1.1"/>\n    <circle cx="15" cy="22" r="1.2"/>\n  </g>\n  <g fill="#7fdbff" opacity="0.9">\n    <path d="M50,1 L49,4 L50,7 L51,4 Z"/>\n    <path d="M94,50 L91,49 L88,50 L91,51 Z"/>\n    <path d="M50,99 L51,96 L50,93 L49,96 Z"/>\n    <path d="M6,50 L9,51 L12,50 L9,49 Z"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.3"/>\n</svg>\n', "frame-004": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#ff4e00"/>\n      <stop offset="50%" stop-color="#ec9f05"/>\n      <stop offset="100%" stop-color="#8b0000"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#ffd700" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#ffd700" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#ffd700" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#ffd700" opacity="0.95">\n    <path d="M50,3 C46,8 47,14 50,18 C53,14 54,8 50,3 Z"/>\n    <path d="M50,3 C46,8 47,14 50,18 C53,14 54,8 50,3 Z" transform="rotate(60 50 50)"/>\n    <path d="M50,3 C46,8 47,14 50,18 C53,14 54,8 50,3 Z" transform="rotate(120 50 50)"/>\n    <path d="M50,3 C46,8 47,14 50,18 C53,14 54,8 50,3 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,3 C46,8 47,14 50,18 C53,14 54,8 50,3 Z" transform="rotate(240 50 50)"/>\n    <path d="M50,3 C46,8 47,14 50,18 C53,14 54,8 50,3 Z" transform="rotate(300 50 50)"/>\n  </g>\n  <g fill="#ff6b35" opacity="0.9">\n    <path d="M50,0 L48,5 L50,10 L52,5 Z" transform="rotate(30 50 50)"/>\n    <path d="M50,0 L48,5 L50,10 L52,5 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,0 L48,5 L50,10 L52,5 Z" transform="rotate(150 50 50)"/>\n    <path d="M50,0 L48,5 L50,10 L52,5 Z" transform="rotate(210 50 50)"/>\n    <path d="M50,0 L48,5 L50,10 L52,5 Z" transform="rotate(270 50 50)"/>\n    <path d="M50,0 L48,5 L50,10 L52,5 Z" transform="rotate(330 50 50)"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffe082" stroke-width="0.3" opacity="0.5"/>\n</svg>\n', "frame-005": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#2e0249"/>\n      <stop offset="50%" stop-color="#5b2d8e"/>\n      <stop offset="100%" stop-color="#a663cc"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#f9c80e" stop-opacity="0.4"/>\n      <stop offset="100%" stop-color="#f9c80e" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#f9c80e" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#f9c80e" opacity="0.95">\n    <path d="M50,2 L47,8 L50,12 L53,8 Z"/>\n    <path d="M50,2 L47,8 L50,12 L53,8 Z" transform="rotate(72 50 50)"/>\n    <path d="M50,2 L47,8 L50,12 L53,8 Z" transform="rotate(144 50 50)"/>\n    <path d="M50,2 L47,8 L50,12 L53,8 Z" transform="rotate(216 50 50)"/>\n    <path d="M50,2 L47,8 L50,12 L53,8 Z" transform="rotate(288 50 50)"/>\n  </g>\n  <g fill="none" stroke="#e0e7ff" stroke-width="0.7" opacity="0.9">\n    <path d="M50,6 L44,14 L48,22 L42,30" />\n    <path d="M50,6 L44,14 L48,22 L42,30" transform="rotate(72 50 50)"/>\n    <path d="M50,6 L44,14 L48,22 L42,30" transform="rotate(144 50 50)"/>\n    <path d="M50,6 L44,14 L48,22 L42,30" transform="rotate(216 50 50)"/>\n    <path d="M50,6 L44,14 L48,22 L42,30" transform="rotate(288 50 50)"/>\n  </g>\n  <g fill="#ffffff" opacity="0.8">\n    <circle cx="50" cy="50" r="0.5" transform="translate(46 4)"/>\n    <circle cx="50" cy="50" r="0.5" transform="translate(96 50)"/>\n    <circle cx="50" cy="50" r="0.5" transform="translate(4 50)"/>\n    <circle cx="50" cy="50" r="0.5" transform="translate(50 96)"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#f9c80e" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-006": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#cfd8dc"/>\n      <stop offset="50%" stop-color="#90a4ae"/>\n      <stop offset="100%" stop-color="#37474f"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#e1f5fe" stop-opacity="0.6"/>\n      <stop offset="100%" stop-color="#e1f5fe" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#eceff1" stroke-width="0.8" opacity="0.8"/>\n  <g fill="#e1f5fe" opacity="0.95">\n    <path d="M54,2 A8,8 0 1 0 54,12 A6,6 0 1 1 54,2 Z" transform="rotate(0 50 50)"/>\n    <path d="M54,2 A8,8 0 1 0 54,12 A6,6 0 1 1 54,2 Z" transform="rotate(90 50 50)"/>\n    <path d="M54,2 A8,8 0 1 0 54,12 A6,6 0 1 1 54,2 Z" transform="rotate(180 50 50)"/>\n    <path d="M54,2 A8,8 0 1 0 54,12 A6,6 0 1 1 54,2 Z" transform="rotate(270 50 50)"/>\n  </g>\n  <g fill="#ffffff" opacity="0.9">\n    <circle cx="22" cy="12" r="0.8"/>\n    <circle cx="78" cy="12" r="0.9"/>\n    <circle cx="88" cy="50" r="0.8"/>\n    <circle cx="78" cy="88" r="0.9"/>\n    <circle cx="22" cy="88" r="0.8"/>\n    <circle cx="12" cy="50" r="0.9"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.4"/>\n  <circle cx="50" cy="50" r="47.8" fill="none" stroke="#cfd8dc" stroke-width="0.4" opacity="0.5"/>\n</svg>\n', "frame-007": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#ff6b6b"/>\n      <stop offset="25%" stop-color="#feca57"/>\n      <stop offset="50%" stop-color="#48dbfb"/>\n      <stop offset="75%" stop-color="#1dd1a1"/>\n      <stop offset="100%" stop-color="#a55eea"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <g fill="none" stroke-width="1.2" opacity="0.85">\n    <circle cx="50" cy="50" r="48" stroke="#ff6b6b"/>\n    <circle cx="50" cy="50" r="47" stroke="#feca57"/>\n    <circle cx="50" cy="50" r="46" stroke="#48dbfb"/>\n  </g>\n  <g opacity="0.9">\n    <path d="M50,0 L52,6 L48,6 Z" fill="#ff6b6b"/>\n    <path d="M50,100 L52,94 L48,94 Z" fill="#a55eea"/>\n    <path d="M0,50 L6,52 L6,48 Z" fill="#1dd1a1"/>\n    <path d="M100,50 L94,52 L94,48 Z" fill="#48dbfb"/>\n  </g>\n  <g fill="#ffffff" opacity="0.8">\n    <circle cx="85" cy="15" r="1"/>\n    <circle cx="15" cy="85" r="1"/>\n    <circle cx="85" cy="85" r="1"/>\n    <circle cx="15" cy="15" r="1"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-008": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#f5f7fa"/>\n      <stop offset="50%" stop-color="#b8c6db"/>\n      <stop offset="100%" stop-color="#78909c"/>\n    </linearGradient>\n    <linearGradient id="g2" x1="0%" y1="0%" x2="0%" y2="100%">\n      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.8"/>\n      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>\n    </linearGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g2)" mask="url(#m1)" opacity="0.5"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#eceff1" stroke-width="0.8" opacity="0.8"/>\n  <circle cx="50" cy="50" r="47.5" fill="none" stroke="#90a4ae" stroke-width="0.5" opacity="0.6"/>\n  <g fill="none" stroke="#cfd8dc" stroke-width="0.6" opacity="0.7">\n    <circle cx="50" cy="50" r="48.5"/>\n    <circle cx="50" cy="50" r="49.5" opacity="0.5"/>\n  </g>\n  <g fill="#b0bec5" opacity="0.9">\n    <circle cx="50" cy="3" r="1.3"/>\n    <circle cx="85" cy="22" r="1.3"/>\n    <circle cx="97" cy="50" r="1.3"/>\n    <circle cx="85" cy="78" r="1.3"/>\n    <circle cx="50" cy="97" r="1.3"/>\n    <circle cx="15" cy="78" r="1.3"/>\n    <circle cx="3" cy="50" r="1.3"/>\n    <circle cx="15" cy="22" r="1.3"/>\n  </g>\n  <g fill="#ffffff" opacity="0.7">\n    <circle cx="50" cy="2" r="0.5"/>\n    <circle cx="84" cy="21" r="0.5"/>\n    <circle cx="98" cy="50" r="0.5"/>\n    <circle cx="84" cy="79" r="0.5"/>\n    <circle cx="50" cy="98" r="0.5"/>\n    <circle cx="16" cy="79" r="0.5"/>\n    <circle cx="2" cy="50" r="0.5"/>\n    <circle cx="16" cy="21" r="0.5"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.4" opacity="0.5"/>\n</svg>\n', "frame-009": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#6a1b9a"/>\n      <stop offset="50%" stop-color="#c2185b"/>\n      <stop offset="100%" stop-color="#283593"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#e040fb" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#e040fb" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#e040fb" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#f8bbd0" opacity="0.95">\n    <path d="M50,2 L46,8 L50,14 L54,8 Z"/>\n    <path d="M50,2 L46,8 L50,14 L54,8 Z" transform="rotate(45 50 50)"/>\n    <path d="M50,2 L46,8 L50,14 L54,8 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,2 L46,8 L50,14 L54,8 Z" transform="rotate(135 50 50)"/>\n    <path d="M50,2 L46,8 L50,14 L54,8 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,2 L46,8 L50,14 L54,8 Z" transform="rotate(225 50 50)"/>\n    <path d="M50,2 L46,8 L50,14 L54,8 Z" transform="rotate(270 50 50)"/>\n    <path d="M50,2 L46,8 L50,14 L54,8 Z" transform="rotate(315 50 50)"/>\n  </g>\n  <g fill="none" stroke="#ce93d8" stroke-width="0.5" opacity="0.8">\n    <path d="M50,0 L44,6 L50,12 L56,6 Z" transform="rotate(22.5 50 50)"/>\n    <path d="M50,0 L44,6 L50,12 L56,6 Z" transform="rotate(67.5 50 50)"/>\n    <path d="M50,0 L44,6 L50,12 L56,6 Z" transform="rotate(112.5 50 50)"/>\n    <path d="M50,0 L44,6 L50,12 L56,6 Z" transform="rotate(157.5 50 50)"/>\n    <path d="M50,0 L44,6 L50,12 L56,6 Z" transform="rotate(202.5 50 50)"/>\n    <path d="M50,0 L44,6 L50,12 L56,6 Z" transform="rotate(247.5 50 50)"/>\n    <path d="M50,0 L44,6 L50,12 L56,6 Z" transform="rotate(292.5 50 50)"/>\n    <path d="M50,0 L44,6 L50,12 L56,6 Z" transform="rotate(337.5 50 50)"/>\n  </g>\n  <g fill="#ffffff" opacity="0.9">\n    <circle cx="50" cy="50" r="1" transform="translate(0 -48)"/>\n    <circle cx="50" cy="50" r="1" transform="translate(48 0)"/>\n    <circle cx="50" cy="50" r="1" transform="translate(0 48)"/>\n    <circle cx="50" cy="50" r="1" transform="translate(-48 0)"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-010": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#0d0221"/>\n      <stop offset="50%" stop-color="#190b28"/>\n      <stop offset="100%" stop-color="#2a0944"/>\n    </linearGradient>\n    <linearGradient id="ng" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#00f5d4"/>\n      <stop offset="50%" stop-color="#ff00aa"/>\n      <stop offset="100%" stop-color="#f15bb5"/>\n    </linearGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#00f5d4" stroke-width="1.2" opacity="0.9"/>\n  <circle cx="50" cy="50" r="48" fill="none" stroke="#ff00aa" stroke-width="0.6" opacity="0.7"/>\n  <g fill="none" stroke="url(#ng)" stroke-width="0.8" opacity="0.95">\n    <path d="M50,4 L52,8 L56,10 L52,12 L50,16 L48,12 L44,10 L48,8 Z"/>\n    <path d="M50,4 L52,8 L56,10 L52,12 L50,16 L48,12 L44,10 L48,8 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,4 L52,8 L56,10 L52,12 L50,16 L48,12 L44,10 L48,8 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,4 L52,8 L56,10 L52,12 L50,16 L48,12 L44,10 L48,8 Z" transform="rotate(270 50 50)"/>\n  </g>\n  <g fill="#00f5d4" opacity="0.9">\n    <circle cx="85" cy="15" r="1.5"/>\n    <circle cx="15" cy="85" r="1.5"/>\n  </g>\n  <g fill="#ff00aa" opacity="0.9">\n    <circle cx="85" cy="85" r="1.5"/>\n    <circle cx="15" cy="15" r="1.5"/>\n  </g>\n  <g fill="#f15bb5" opacity="0.8">\n    <circle cx="96" cy="50" r="1"/>\n    <circle cx="4" cy="50" r="1"/>\n    <circle cx="50" cy="96" r="1"/>\n    <circle cx="50" cy="4" r="1"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#00f5d4" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-011": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#2d5016"/>\n      <stop offset="50%" stop-color="#4a7c2e"/>\n      <stop offset="100%" stop-color="#1a3409"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#a8d08d" stop-opacity="0.4"/>\n      <stop offset="100%" stop-color="#a8d08d" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#7cb342" stroke-width="0.8" opacity="0.7"/>\n  <g fill="none" stroke="#558b2f" stroke-width="1" opacity="0.9">\n    <path d="M50,2 Q52,10 50,18 Q48,26 50,34"/>\n    <path d="M50,2 Q52,10 50,18 Q48,26 50,34" transform="rotate(60 50 50)"/>\n    <path d="M50,2 Q52,10 50,18 Q48,26 50,34" transform="rotate(120 50 50)"/>\n    <path d="M50,2 Q52,10 50,18 Q48,26 50,34" transform="rotate(180 50 50)"/>\n    <path d="M50,2 Q52,10 50,18 Q48,26 50,34" transform="rotate(240 50 50)"/>\n    <path d="M50,2 Q52,10 50,18 Q48,26 50,34" transform="rotate(300 50 50)"/>\n  </g>\n  <g fill="#8bc34a" opacity="0.95">\n    <path d="M50,0 C53,2 53,5 50,7 C47,5 47,2 50,0 Z" transform="rotate(30 50 50)"/>\n    <path d="M50,0 C53,2 53,5 50,7 C47,5 47,2 50,0 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,0 C53,2 53,5 50,7 C47,5 47,2 50,0 Z" transform="rotate(150 50 50)"/>\n    <path d="M50,0 C53,2 53,5 50,7 C47,5 47,2 50,0 Z" transform="rotate(210 50 50)"/>\n    <path d="M50,0 C53,2 53,5 50,7 C47,5 47,2 50,0 Z" transform="rotate(270 50 50)"/>\n    <path d="M50,0 C53,2 53,5 50,7 C47,5 47,2 50,0 Z" transform="rotate(330 50 50)"/>\n  </g>\n  <g fill="#dcedc8" opacity="0.8">\n    <circle cx="50" cy="50" r="0.8" transform="translate(0 -46)"/>\n    <circle cx="50" cy="50" r="0.8" transform="translate(40 -23)"/>\n    <circle cx="50" cy="50" r="0.8" transform="translate(40 23)"/>\n    <circle cx="50" cy="50" r="0.8" transform="translate(0 46)"/>\n    <circle cx="50" cy="50" r="0.8" transform="translate(-40 23)"/>\n    <circle cx="50" cy="50" r="0.8" transform="translate(-40 -23)"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#a8d08d" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-012": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#311b92"/>\n      <stop offset="50%" stop-color="#5e35b1"/>\n      <stop offset="100%" stop-color="#1a237e"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#b39ddb" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#b39ddb" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#b39ddb" stroke-width="0.8" opacity="0.7"/>\n  <g fill="none" stroke="#e040fb" stroke-width="0.8" opacity="0.9">\n    <polygon points="50,2 54,8 50,12 46,8"/>\n    <polygon points="50,2 54,8 50,12 46,8" transform="rotate(45 50 50)"/>\n    <polygon points="50,2 54,8 50,12 46,8" transform="rotate(90 50 50)"/>\n    <polygon points="50,2 54,8 50,12 46,8" transform="rotate(135 50 50)"/>\n    <polygon points="50,2 54,8 50,12 46,8" transform="rotate(180 50 50)"/>\n    <polygon points="50,2 54,8 50,12 46,8" transform="rotate(225 50 50)"/>\n    <polygon points="50,2 54,8 50,12 46,8" transform="rotate(270 50 50)"/>\n    <polygon points="50,2 54,8 50,12 46,8" transform="rotate(315 50 50)"/>\n  </g>\n  <g fill="#7c4dff" opacity="0.85">\n    <polygon points="50,14 53,20 50,24 47,20" transform="rotate(22.5 50 50)"/>\n    <polygon points="50,14 53,20 50,24 47,20" transform="rotate(67.5 50 50)"/>\n    <polygon points="50,14 53,20 50,24 47,20" transform="rotate(112.5 50 50)"/>\n    <polygon points="50,14 53,20 50,24 47,20" transform="rotate(157.5 50 50)"/>\n    <polygon points="50,14 53,20 50,24 47,20" transform="rotate(202.5 50 50)"/>\n    <polygon points="50,14 53,20 50,24 47,20" transform="rotate(247.5 50 50)"/>\n    <polygon points="50,14 53,20 50,24 47,20" transform="rotate(292.5 50 50)"/>\n    <polygon points="50,14 53,20 50,24 47,20" transform="rotate(337.5 50 50)"/>\n  </g>\n  <g stroke="#b39ddb" stroke-width="0.4" opacity="0.6" fill="none">\n    <polygon points="50,4 84,24 84,76 50,96 16,76 16,24"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.3"/>\n</svg>\n', "frame-013": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#4fc3f7"/>\n      <stop offset="50%" stop-color="#81d4fa"/>\n      <stop offset="100%" stop-color="#0277bd"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>\n      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.8"/>\n  <g fill="none" stroke="#ffffff" stroke-width="0.9" opacity="0.95">\n    <g transform="translate(50 50)">\n      <line x1="0" y1="-48" x2="0" y2="-40"/>\n      <line x1="0" y1="48" x2="0" y2="40"/>\n      <line x1="-48" y1="0" x2="-40" y2="0"/>\n      <line x1="48" y1="0" x2="40" y2="0"/>\n      <line x1="-34" y1="-34" x2="-28" y2="-28"/>\n      <line x1="34" y1="-34" x2="28" y2="-28"/>\n      <line x1="-34" y1="34" x2="-28" y2="28"/>\n      <line x1="34" y1="34" x2="28" y2="28"/>\n      <g>\n        <line x1="0" y1="-48" x2="-2" y2="-44"/>\n        <line x1="0" y1="-48" x2="2" y2="-44"/>\n        <line x1="0" y1="-48" x2="-4" y2="-45"/>\n        <line x1="0" y1="-48" x2="4" y2="-45"/>\n      </g>\n      <g transform="rotate(90)">\n        <line x1="0" y1="-48" x2="-2" y2="-44"/>\n        <line x1="0" y1="-48" x2="2" y2="-44"/>\n        <line x1="0" y1="-48" x2="-4" y2="-45"/>\n        <line x1="0" y1="-48" x2="4" y2="-45"/>\n      </g>\n      <g transform="rotate(180)">\n        <line x1="0" y1="-48" x2="-2" y2="-44"/>\n        <line x1="0" y1="-48" x2="2" y2="-44"/>\n        <line x1="0" y1="-48" x2="-4" y2="-45"/>\n        <line x1="0" y1="-48" x2="4" y2="-45"/>\n      </g>\n      <g transform="rotate(270)">\n        <line x1="0" y1="-48" x2="-2" y2="-44"/>\n        <line x1="0" y1="-48" x2="2" y2="-44"/>\n        <line x1="0" y1="-48" x2="-4" y2="-45"/>\n        <line x1="0" y1="-48" x2="4" y2="-45"/>\n      </g>\n    </g>\n  </g>\n  <g fill="#e1f5fe" opacity="0.9">\n    <circle cx="20" cy="15" r="0.8"/>\n    <circle cx="80" cy="15" r="0.7"/>\n    <circle cx="15" cy="80" r="0.8"/>\n    <circle cx="85" cy="80" r="0.7"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-014": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#bf360c"/>\n      <stop offset="50%" stop-color="#e65100"/>\n      <stop offset="100%" stop-color="#6d4c41"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#ffab91" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#ffab91" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#ffb74d" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#ff8a65" opacity="0.95">\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(0 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(40 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(80 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(120 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(160 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(200 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(240 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(280 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(320 50 50)"/>\n  </g>\n  <g fill="#d84315" opacity="0.9">\n    <path d="M50,0 L51,4 L50,8 L49,4 Z" transform="rotate(20 50 50)"/>\n    <path d="M50,0 L51,4 L50,8 L49,4 Z" transform="rotate(60 50 50)"/>\n    <path d="M50,0 L51,4 L50,8 L49,4 Z" transform="rotate(100 50 50)"/>\n    <path d="M50,0 L51,4 L50,8 L49,4 Z" transform="rotate(140 50 50)"/>\n    <path d="M50,0 L51,4 L50,8 L49,4 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,0 L51,4 L50,8 L49,4 Z" transform="rotate(220 50 50)"/>\n    <path d="M50,0 L51,4 L50,8 L49,4 Z" transform="rotate(260 50 50)"/>\n    <path d="M50,0 L51,4 L50,8 L49,4 Z" transform="rotate(300 50 50)"/>\n    <path d="M50,0 L51,4 L50,8 L49,4 Z" transform="rotate(340 50 50)"/>\n  </g>\n  <g fill="#ffe0b2" opacity="0.8">\n    <circle cx="85" cy="15" r="0.9"/>\n    <circle cx="15" cy="85" r="0.9"/>\n    <circle cx="50" cy="3" r="0.7"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffd180" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-015": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#1b5e20"/>\n      <stop offset="50%" stop-color="#2e7d32"/>\n      <stop offset="100%" stop-color="#0d3b0f"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#a5d6a7" stop-opacity="0.4"/>\n      <stop offset="100%" stop-color="#a5d6a7" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#ffd54f" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#388e3c" opacity="0.9" stroke="#ffd54f" stroke-width="0.3">\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(30 50 50)"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(60 50 50)"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(120 50 50)"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(150 50 50)"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(210 50 50)"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(240 50 50)"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(270 50 50)"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(300 50 50)"/>\n    <path d="M50,4 Q44,4 44,10 Q44,14 50,16 Q56,14 56,10 Q56,4 50,4 Z" transform="rotate(330 50 50)"/>\n  </g>\n  <g fill="#ffd54f" opacity="0.85">\n    <circle cx="50" cy="3" r="1"/>\n    <circle cx="85" cy="22" r="1"/>\n    <circle cx="97" cy="50" r="1"/>\n    <circle cx="85" cy="78" r="1"/>\n    <circle cx="50" cy="97" r="1"/>\n    <circle cx="15" cy="78" r="1"/>\n    <circle cx="3" cy="50" r="1"/>\n    <circle cx="15" cy="22" r="1"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffd54f" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-016": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#5e35b1"/>\n      <stop offset="50%" stop-color="#7986cb"/>\n      <stop offset="100%" stop-color="#283593"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#c5cae9" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#c5cae9" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#e8eaf6" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#9fa8da" opacity="0.95">\n    <path d="M50,2 Q44,8 42,16 Q40,24 44,30 Q50,26 54,20 Q56,12 50,2 Z"/>\n    <path d="M50,2 Q44,8 42,16 Q40,24 44,30 Q50,26 54,20 Q56,12 50,2 Z" transform="rotate(60 50 50)"/>\n    <path d="M50,2 Q44,8 42,16 Q40,24 44,30 Q50,26 54,20 Q56,12 50,2 Z" transform="rotate(120 50 50)"/>\n    <path d="M50,2 Q44,8 42,16 Q40,24 44,30 Q50,26 54,20 Q56,12 50,2 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,2 Q44,8 42,16 Q40,24 44,30 Q50,26 54,20 Q56,12 50,2 Z" transform="rotate(240 50 50)"/>\n    <path d="M50,2 Q44,8 42,16 Q40,24 44,30 Q50,26 54,20 Q56,12 50,2 Z" transform="rotate(300 50 50)"/>\n  </g>\n  <g fill="#e8eaf6" opacity="0.8">\n    <path d="M50,4 Q48,8 48,14 Q50,18 52,14 Q52,8 50,4 Z"/>\n    <path d="M50,4 Q48,8 48,14 Q50,18 52,14 Q52,8 50,4 Z" transform="rotate(60 50 50)"/>\n    <path d="M50,4 Q48,8 48,14 Q50,18 52,14 Q52,8 50,4 Z" transform="rotate(120 50 50)"/>\n    <path d="M50,4 Q48,8 48,14 Q50,18 52,14 Q52,8 50,4 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,4 Q48,8 48,14 Q50,18 52,14 Q52,8 50,4 Z" transform="rotate(240 50 50)"/>\n    <path d="M50,4 Q48,8 48,14 Q50,18 52,14 Q52,8 50,4 Z" transform="rotate(300 50 50)"/>\n  </g>\n  <g fill="#ffffff" opacity="0.85">\n    <circle cx="50" cy="2" r="0.8"/>\n    <circle cx="85" cy="22" r="0.8"/>\n    <circle cx="98" cy="50" r="0.8"/>\n    <circle cx="85" cy="78" r="0.8"/>\n    <circle cx="50" cy="98" r="0.8"/>\n    <circle cx="15" cy="78" r="0.8"/>\n    <circle cx="2" cy="50" r="0.8"/>\n    <circle cx="15" cy="22" r="0.8"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-017": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#fff59d"/>\n      <stop offset="50%" stop-color="#ffd54f"/>\n      <stop offset="100%" stop-color="#ff8f00"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#fffde7" stop-opacity="0.8"/>\n      <stop offset="60%" stop-color="#fff176" stop-opacity="0.3"/>\n      <stop offset="100%" stop-color="#fff176" stop-opacity="0"/>\n    </radialGradient>\n    <radialGradient id="g3" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>\n      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="50" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#fff9c4" stroke-width="1" opacity="0.8"/>\n  <circle cx="50" cy="50" r="48" fill="none" stroke="#ffd54f" stroke-width="0.5" opacity="0.6"/>\n  <circle cx="50" cy="50" r="49.5" fill="none" stroke="#fff" stroke-width="0.3" opacity="0.5"/>\n  <g fill="url(#g3)" opacity="0.9">\n    <circle cx="50" cy="2" r="1.8"/>\n    <circle cx="95" cy="50" r="1.8"/>\n    <circle cx="50" cy="98" r="1.8"/>\n    <circle cx="5" cy="50" r="1.8"/>\n  </g>\n  <g fill="#fffde7" opacity="0.85">\n    <circle cx="85" cy="15" r="1.2"/>\n    <circle cx="15" cy="85" r="1.2"/>\n    <circle cx="85" cy="85" r="1.2"/>\n    <circle cx="15" cy="15" r="1.2"/>\n  </g>\n  <g fill="none" stroke="#fff9c4" stroke-width="0.3" opacity="0.6">\n    <circle cx="50" cy="50" r="47"/>\n    <circle cx="50" cy="50" r="42"/>\n  </g>\n</svg>\n', "frame-018": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#006064"/>\n      <stop offset="50%" stop-color="#00838f"/>\n      <stop offset="100%" stop-color="#1a237e"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#18ffff" stop-opacity="0.4"/>\n      <stop offset="100%" stop-color="#18ffff" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#18ffff" stroke-width="0.8" opacity="0.7"/>\n  <g fill="none" stroke="#18ffff" stroke-width="0.5" opacity="0.7">\n    <ellipse cx="50" cy="50" rx="48" ry="20" transform="rotate(0 50 50)"/>\n    <ellipse cx="50" cy="50" rx="48" ry="20" transform="rotate(60 50 50)"/>\n    <ellipse cx="50" cy="50" rx="48" ry="20" transform="rotate(120 50 50)"/>\n  </g>\n  <g fill="#e0f7fa" opacity="0.95">\n    <circle cx="50" cy="3" r="1.2"/>\n    <circle cx="85" cy="22" r="1"/>\n    <circle cx="96" cy="50" r="1.2"/>\n    <circle cx="85" cy="78" r="1"/>\n    <circle cx="50" cy="97" r="1.2"/>\n    <circle cx="15" cy="78" r="1"/>\n    <circle cx="4" cy="50" r="1.2"/>\n    <circle cx="15" cy="22" r="1"/>\n  </g>\n  <g fill="#18ffff" opacity="0.9">\n    <circle cx="72" cy="10" r="0.7"/>\n    <circle cx="90" cy="32" r="0.7"/>\n    <circle cx="90" cy="68" r="0.7"/>\n    <circle cx="72" cy="90" r="0.7"/>\n    <circle cx="28" cy="90" r="0.7"/>\n    <circle cx="10" cy="68" r="0.7"/>\n    <circle cx="10" cy="32" r="0.7"/>\n    <circle cx="28" cy="10" r="0.7"/>\n  </g>\n  <g stroke="#b2ebf2" stroke-width="0.3" opacity="0.5" fill="none">\n    <circle cx="50" cy="50" r="42"/>\n    <circle cx="50" cy="50" r="48"/>\n  </g>\n</svg>\n', "frame-019": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#000051"/>\n      <stop offset="50%" stop-color="#1a0a47"/>\n      <stop offset="100%" stop-color="#000000"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#b388ff" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#b388ff" stop-opacity="0"/>\n    </radialGradient>\n    <radialGradient id="neb" cx="30%" cy="30%">\n      <stop offset="0%" stop-color="#ff80ab" stop-opacity="0.6"/>\n      <stop offset="100%" stop-color="#ff80ab" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#neb)" mask="url(#m1)" opacity="0.5"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#b388ff" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#ffffff">\n    <circle cx="50" cy="3" r="1.3"/>\n    <circle cx="68" cy="7" r="0.8"/>\n    <circle cx="82" cy="18" r="1"/>\n    <circle cx="92" cy="36" r="1.1"/>\n    <circle cx="95" cy="56" r="0.8"/>\n    <circle cx="88" cy="74" r="1"/>\n    <circle cx="74" cy="88" r="1.1"/>\n    <circle cx="56" cy="93" r="0.9"/>\n    <circle cx="38" cy="91" r="1"/>\n    <circle cx="22" cy="83" r="1"/>\n    <circle cx="10" cy="66" r="0.9"/>\n    <circle cx="5" cy="48" r="1.2"/>\n    <circle cx="9" cy="30" r="0.8"/>\n    <circle cx="18" cy="16" r="1"/>\n    <circle cx="32" cy="7" r="0.9"/>\n  </g>\n  <g fill="#b388ff" opacity="0.95">\n    <path d="M50,1 L50.6,3 L52.6,3.6 L50.6,4.2 L50,6.2 L49.4,4.2 L47.4,3.6 L49.4,3 Z"/>\n    <path d="M50,1 L50.6,3 L52.6,3.6 L50.6,4.2 L50,6.2 L49.4,4.2 L47.4,3.6 L49.4,3 Z" transform="rotate(120 50 50)"/>\n    <path d="M50,1 L50.6,3 L52.6,3.6 L50.6,4.2 L50,6.2 L49.4,4.2 L47.4,3.6 L49.4,3 Z" transform="rotate(240 50 50)"/>\n  </g>\n  <g fill="#ff80ab" opacity="0.8">\n    <circle cx="72" cy="12" r="1"/>\n    <circle cx="28" cy="88" r="1"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#b388ff" stroke-width="0.3" opacity="0.3"/>\n</svg>\n', "frame-020": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#33691e"/>\n      <stop offset="50%" stop-color="#689f38"/>\n      <stop offset="100%" stop-color="#1b5e20"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#dcedc8" stop-opacity="0.4"/>\n      <stop offset="100%" stop-color="#dcedc8" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#aed581" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#8bc34a" opacity="0.9">\n    <ellipse cx="50" cy="6" rx="3" ry="1.5" transform="rotate(-30 50 6)"/>\n    <ellipse cx="50" cy="6" rx="3" ry="1.5" transform="rotate(30 50 6)"/>\n    <ellipse cx="85" cy="22" rx="3" ry="1.5" transform="rotate(60 85 22)"/>\n    <ellipse cx="94" cy="50" rx="3" ry="1.5" transform="rotate(90 94 50)"/>\n    <ellipse cx="85" cy="78" rx="3" ry="1.5" transform="rotate(120 85 78)"/>\n    <ellipse cx="50" cy="94" rx="3" ry="1.5" transform="rotate(-30 50 94)"/>\n    <ellipse cx="15" cy="78" rx="3" ry="1.5" transform="rotate(-60 15 78)"/>\n    <ellipse cx="6" cy="50" rx="3" ry="1.5" transform="rotate(90 6 50)"/>\n    <ellipse cx="15" cy="22" rx="3" ry="1.5" transform="rotate(-120 15 22)"/>\n  </g>\n  <g fill="#f48fb1" opacity="0.95">\n    <circle cx="50" cy="4" r="1.8"/>\n    <circle cx="85" cy="22" r="1.8"/>\n    <circle cx="96" cy="50" r="1.8"/>\n    <circle cx="85" cy="78" r="1.8"/>\n    <circle cx="50" cy="96" r="1.8"/>\n    <circle cx="15" cy="78" r="1.8"/>\n    <circle cx="4" cy="50" r="1.8"/>\n    <circle cx="15" cy="22" r="1.8"/>\n  </g>\n  <g fill="#fff59d" opacity="0.9">\n    <circle cx="50" cy="4" r="0.7"/>\n    <circle cx="85" cy="22" r="0.7"/>\n    <circle cx="96" cy="50" r="0.7"/>\n    <circle cx="85" cy="78" r="0.7"/>\n    <circle cx="50" cy="96" r="0.7"/>\n    <circle cx="15" cy="78" r="0.7"/>\n    <circle cx="4" cy="50" r="0.7"/>\n    <circle cx="15" cy="22" r="0.7"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#aed581" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-021": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#00838f"/>\n      <stop offset="50%" stop-color="#26c6da"/>\n      <stop offset="100%" stop-color="#006064"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#b2ebf2" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#b2ebf2" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <g fill="none" stroke="#80deea" stroke-width="0.6" opacity="0.8">\n    <circle cx="50" cy="50" r="45"/>\n    <circle cx="50" cy="50" r="46.5"/>\n    <circle cx="50" cy="50" r="48"/>\n    <circle cx="50" cy="50" r="49.5" opacity="0.5"/>\n  </g>\n  <g fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.7">\n    <path d="M10,50 Q30,44 50,50 T90,50"/>\n    <path d="M10,50 Q30,44 50,50 T90,50" transform="rotate(45 50 50)"/>\n    <path d="M10,50 Q30,44 50,50 T90,50" transform="rotate(90 50 50)"/>\n    <path d="M10,50 Q30,44 50,50 T90,50" transform="rotate(135 50 50)"/>\n    <path d="M10,50 Q30,44 50,50 T90,50" transform="rotate(180 50 50)"/>\n    <path d="M10,50 Q30,44 50,50 T90,50" transform="rotate(225 50 50)"/>\n    <path d="M10,50 Q30,44 50,50 T90,50" transform="rotate(270 50 50)"/>\n    <path d="M10,50 Q30,44 50,50 T90,50" transform="rotate(315 50 50)"/>\n  </g>\n  <g fill="#ffffff" opacity="0.9">\n    <circle cx="50" cy="3" r="1"/>\n    <circle cx="97" cy="50" r="1"/>\n    <circle cx="50" cy="97" r="1"/>\n    <circle cx="3" cy="50" r="1"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-022": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#4dd0e1"/>\n      <stop offset="50%" stop-color="#26c6da"/>\n      <stop offset="100%" stop-color="#00838f"/>\n    </linearGradient>\n    <linearGradient id="crys" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#b2ebf2"/>\n      <stop offset="100%" stop-color="#0097a7"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#e0f7fa" stop-opacity="0.6"/>\n      <stop offset="100%" stop-color="#e0f7fa" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#80deea" stroke-width="0.8" opacity="0.7"/>\n  <g fill="url(#crys)" opacity="0.9" stroke="#b2ebf2" stroke-width="0.3">\n    <polygon points="50,2 54,10 50,18 46,10"/>\n    <polygon points="50,2 54,10 50,18 46,10" transform="rotate(60 50 50)"/>\n    <polygon points="50,2 54,10 50,18 46,10" transform="rotate(120 50 50)"/>\n    <polygon points="50,2 54,10 50,18 46,10" transform="rotate(180 50 50)"/>\n    <polygon points="50,2 54,10 50,18 46,10" transform="rotate(240 50 50)"/>\n    <polygon points="50,2 54,10 50,18 46,10" transform="rotate(300 50 50)"/>\n  </g>\n  <g fill="#e0f7fa" opacity="0.85">\n    <polygon points="50,0 51.5,4 50,8 48.5,4" transform="rotate(30 50 50)"/>\n    <polygon points="50,0 51.5,4 50,8 48.5,4" transform="rotate(90 50 50)"/>\n    <polygon points="50,0 51.5,4 50,8 48.5,4" transform="rotate(150 50 50)"/>\n    <polygon points="50,0 51.5,4 50,8 48.5,4" transform="rotate(210 50 50)"/>\n    <polygon points="50,0 51.5,4 50,8 48.5,4" transform="rotate(270 50 50)"/>\n    <polygon points="50,0 51.5,4 50,8 48.5,4" transform="rotate(330 50 50)"/>\n  </g>\n  <g fill="#ffffff" opacity="0.7">\n    <polygon points="50,4 51,8 50,12 49,8" transform="rotate(60 50 50)"/>\n    <polygon points="50,4 51,8 50,12 49,8" transform="rotate(180 50 50)"/>\n    <polygon points="50,4 51,8 50,12 49,8" transform="rotate(300 50 50)"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-023": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#6d4c41"/>\n      <stop offset="50%" stop-color="#8d6e63"/>\n      <stop offset="100%" stop-color="#3e2723"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#ffb74d" stop-opacity="0.3"/>\n      <stop offset="100%" stop-color="#ffb74d" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#ffb74d" stroke-width="0.8" opacity="0.7"/>\n  <g fill="none" stroke="#a1887f" stroke-width="0.6" opacity="0.8">\n    <circle cx="50" cy="8" r="4"/>\n    <circle cx="80" cy="22" r="4"/>\n    <circle cx="92" cy="50" r="4"/>\n    <circle cx="80" cy="78" r="4"/>\n    <circle cx="50" cy="92" r="4"/>\n    <circle cx="20" cy="78" r="4"/>\n    <circle cx="8" cy="50" r="4"/>\n    <circle cx="20" cy="22" r="4"/>\n  </g>\n  <g fill="#ffb74d" opacity="0.9">\n    <circle cx="50" cy="8" r="1.5"/>\n    <circle cx="80" cy="22" r="1.5"/>\n    <circle cx="92" cy="50" r="1.5"/>\n    <circle cx="80" cy="78" r="1.5"/>\n    <circle cx="50" cy="92" r="1.5"/>\n    <circle cx="20" cy="78" r="1.5"/>\n    <circle cx="8" cy="50" r="1.5"/>\n    <circle cx="20" cy="22" r="1.5"/>\n  </g>\n  <g fill="#6d4c41" opacity="0.9" stroke="#ffb74d" stroke-width="0.3">\n    <rect x="48" y="2" width="4" height="6" rx="0.5"/>\n    <rect x="48" y="2" width="4" height="6" rx="0.5" transform="rotate(45 50 50)"/>\n    <rect x="48" y="2" width="4" height="6" rx="0.5" transform="rotate(90 50 50)"/>\n    <rect x="48" y="2" width="4" height="6" rx="0.5" transform="rotate(135 50 50)"/>\n    <rect x="48" y="2" width="4" height="6" rx="0.5" transform="rotate(180 50 50)"/>\n    <rect x="48" y="2" width="4" height="6" rx="0.5" transform="rotate(225 50 50)"/>\n    <rect x="48" y="2" width="4" height="6" rx="0.5" transform="rotate(270 50 50)"/>\n    <rect x="48" y="2" width="4" height="6" rx="0.5" transform="rotate(315 50 50)"/>\n  </g>\n  <g stroke="#ffd54f" stroke-width="0.4" opacity="0.6" fill="none">\n    <circle cx="50" cy="50" r="48"/>\n    <circle cx="50" cy="50" r="42"/>\n  </g>\n</svg>\n', "frame-024": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#001021"/>\n      <stop offset="50%" stop-color="#013e5e"/>\n      <stop offset="100%" stop-color="#000814"/>\n    </linearGradient>\n    <linearGradient id="tech" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#00e5ff"/>\n      <stop offset="100%" stop-color="#00b8d4"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.4"/>\n      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#00e5ff" stroke-width="0.8" opacity="0.8"/>\n  <g fill="none" stroke="url(#tech)" stroke-width="0.7" opacity="0.9">\n    <path d="M50,3 L50,8 M46,5.5 L54,5.5"/>\n    <path d="M50,3 L50,8 M46,5.5 L54,5.5" transform="rotate(45 50 50)"/>\n    <path d="M50,3 L50,8 M46,5.5 L54,5.5" transform="rotate(90 50 50)"/>\n    <path d="M50,3 L50,8 M46,5.5 L54,5.5" transform="rotate(135 50 50)"/>\n    <path d="M50,3 L50,8 M46,5.5 L54,5.5" transform="rotate(180 50 50)"/>\n    <path d="M50,3 L50,8 M46,5.5 L54,5.5" transform="rotate(225 50 50)"/>\n    <path d="M50,3 L50,8 M46,5.5 L54,5.5" transform="rotate(270 50 50)"/>\n    <path d="M50,3 L50,8 M46,5.5 L54,5.5" transform="rotate(315 50 50)"/>\n  </g>\n  <g fill="none" stroke="#00e5ff" stroke-width="0.5" opacity="0.7">\n    <polygon points="50,6 78,22 78,78 50,94 22,78 22,22"/>\n    <polygon points="50,6 78,22 78,78 50,94 22,78 22,22" transform="rotate(30 50 50)"/>\n  </g>\n  <g fill="#00e5ff" opacity="0.95">\n    <rect x="49" y="1" width="2" height="3"/>\n    <rect x="49" y="1" width="2" height="3" transform="rotate(90 50 50)"/>\n    <rect x="49" y="1" width="2" height="3" transform="rotate(180 50 50)"/>\n    <rect x="49" y="1" width="2" height="3" transform="rotate(270 50 50)"/>\n  </g>\n  <g fill="#18ffff" opacity="0.8">\n    <circle cx="22" cy="22" r="0.9"/>\n    <circle cx="78" cy="22" r="0.9"/>\n    <circle cx="78" cy="78" r="0.9"/>\n    <circle cx="22" cy="78" r="0.9"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#00e5ff" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-025": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#8d6e63"/>\n      <stop offset="50%" stop-color="#bcaaa4"/>\n      <stop offset="100%" stop-color="#5d4037"/>\n    </linearGradient>\n    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#fff8e1"/>\n      <stop offset="50%" stop-color="#ffd54f"/>\n      <stop offset="100%" stop-color="#bf8f00"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#ffe0b2" stop-opacity="0.4"/>\n      <stop offset="100%" stop-color="#ffe0b2" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="44" fill="none" stroke="url(#gold)" stroke-width="1.2" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#ffd54f" stroke-width="0.6" opacity="0.8"/>\n  <circle cx="50" cy="50" r="48" fill="none" stroke="#bf8f00" stroke-width="0.4" opacity="0.6"/>\n  <g fill="url(#gold)" opacity="0.95">\n    <path d="M50,2 C54,4 56,8 54,12 C52,10 50,6 48,8 C46,6 48,4 50,2 Z"/>\n    <path d="M50,2 C54,4 56,8 54,12 C52,10 50,6 48,8 C46,6 48,4 50,2 Z" transform="rotate(45 50 50)"/>\n    <path d="M50,2 C54,4 56,8 54,12 C52,10 50,6 48,8 C46,6 48,4 50,2 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,2 C54,4 56,8 54,12 C52,10 50,6 48,8 C46,6 48,4 50,2 Z" transform="rotate(135 50 50)"/>\n    <path d="M50,2 C54,4 56,8 54,12 C52,10 50,6 48,8 C46,6 48,4 50,2 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,2 C54,4 56,8 54,12 C52,10 50,6 48,8 C46,6 48,4 50,2 Z" transform="rotate(225 50 50)"/>\n    <path d="M50,2 C54,4 56,8 54,12 C52,10 50,6 48,8 C46,6 48,4 50,2 Z" transform="rotate(270 50 50)"/>\n    <path d="M50,2 C54,4 56,8 54,12 C52,10 50,6 48,8 C46,6 48,4 50,2 Z" transform="rotate(315 50 50)"/>\n  </g>\n  <g fill="#ffd54f" opacity="0.9">\n    <circle cx="50" cy="3" r="1.2"/>\n    <circle cx="85" cy="22" r="1.2"/>\n    <circle cx="97" cy="50" r="1.2"/>\n    <circle cx="85" cy="78" r="1.2"/>\n    <circle cx="50" cy="97" r="1.2"/>\n    <circle cx="15" cy="78" r="1.2"/>\n    <circle cx="3" cy="50" r="1.2"/>\n    <circle cx="15" cy="22" r="1.2"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffd54f" stroke-width="0.3" opacity="0.5"/>\n</svg>\n', "frame-026": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#f8bbd0"/>\n      <stop offset="50%" stop-color="#ce93d8"/>\n      <stop offset="100%" stop-color="#b39ddb"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>\n      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.8"/>\n  <g fill="#ffffff" opacity="0.95">\n    <path d="M50,2 L52,6 L56,7 L53,10 L54,14 L50,12 L46,14 L47,10 L44,7 L48,6 Z"/>\n    <path d="M50,2 L52,6 L56,7 L53,10 L54,14 L50,12 L46,14 L47,10 L44,7 L48,6 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,2 L52,6 L56,7 L53,10 L54,14 L50,12 L46,14 L47,10 L44,7 L48,6 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,2 L52,6 L56,7 L53,10 L54,14 L50,12 L46,14 L47,10 L44,7 L48,6 Z" transform="rotate(270 50 50)"/>\n  </g>\n  <g fill="#f48fb1" opacity="0.9">\n    <circle cx="50" cy="4" r="1.5"/>\n    <circle cx="85" cy="22" r="1.5"/>\n    <circle cx="96" cy="50" r="1.5"/>\n    <circle cx="85" cy="78" r="1.5"/>\n    <circle cx="50" cy="96" r="1.5"/>\n    <circle cx="15" cy="78" r="1.5"/>\n    <circle cx="4" cy="50" r="1.5"/>\n    <circle cx="15" cy="22" r="1.5"/>\n  </g>\n  <g fill="#fff59d" opacity="0.85">\n    <circle cx="72" cy="12" r="0.9"/>\n    <circle cx="28" cy="12" r="0.9"/>\n    <circle cx="88" cy="38" r="0.9"/>\n    <circle cx="88" cy="62" r="0.9"/>\n    <circle cx="72" cy="88" r="0.9"/>\n    <circle cx="28" cy="88" r="0.9"/>\n    <circle cx="12" cy="62" r="0.9"/>\n    <circle cx="12" cy="38" r="0.9"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.5"/>\n</svg>\n', "frame-027": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#1a1a2e"/>\n      <stop offset="50%" stop-color="#16213e"/>\n      <stop offset="100%" stop-color="#0f0f1e"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#7c4dff" stop-opacity="0.3"/>\n      <stop offset="100%" stop-color="#7c4dff" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#7c4dff" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#b39ddb" opacity="0.95">\n    <path d="M50,2 L50.7,4 L52.7,4.7 L50.7,5.4 L50,7.4 L49.3,5.4 L47.3,4.7 L49.3,4 Z"/>\n    <path d="M50,2 L50.7,4 L52.7,4.7 L50.7,5.4 L50,7.4 L49.3,5.4 L47.3,4.7 L49.3,4 Z" transform="rotate(60 50 50)"/>\n    <path d="M50,2 L50.7,4 L52.7,4.7 L50.7,5.4 L50,7.4 L49.3,5.4 L47.3,4.7 L49.3,4 Z" transform="rotate(120 50 50)"/>\n    <path d="M50,2 L50.7,4 L52.7,4.7 L50.7,5.4 L50,7.4 L49.3,5.4 L47.3,4.7 L49.3,4 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,2 L50.7,4 L52.7,4.7 L50.7,5.4 L50,7.4 L49.3,5.4 L47.3,4.7 L49.3,4 Z" transform="rotate(240 50 50)"/>\n    <path d="M50,2 L50.7,4 L52.7,4.7 L50.7,5.4 L50,7.4 L49.3,5.4 L47.3,4.7 L49.3,4 Z" transform="rotate(300 50 50)"/>\n  </g>\n  <g fill="#ffffff" opacity="0.8">\n    <circle cx="22" cy="14" r="0.7"/>\n    <circle cx="78" cy="14" r="0.8"/>\n    <circle cx="88" cy="35" r="0.7"/>\n    <circle cx="88" cy="65" r="0.8"/>\n    <circle cx="78" cy="86" r="0.7"/>\n    <circle cx="22" cy="86" r="0.8"/>\n    <circle cx="12" cy="65" r="0.7"/>\n    <circle cx="12" cy="35" r="0.8"/>\n  </g>\n  <g fill="#7c4dff" opacity="0.9">\n    <circle cx="50" cy="3" r="1.3"/>\n    <circle cx="97" cy="50" r="1.3"/>\n    <circle cx="50" cy="97" r="1.3"/>\n    <circle cx="3" cy="50" r="1.3"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#7c4dff" stroke-width="0.3" opacity="0.3"/>\n</svg>\n', "frame-028": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#ffd6a5"/>\n      <stop offset="50%" stop-color="#ffadad"/>\n      <stop offset="100%" stop-color="#bdb2ff"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#fff5e6" stop-opacity="0.6"/>\n      <stop offset="100%" stop-color="#fff5e6" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#ffe8d6" stroke-width="0.8" opacity="0.8"/>\n  <g fill="#ffffff" opacity="0.9">\n    <circle cx="50" cy="4" r="1.4"/>\n    <circle cx="85" cy="22" r="1.2"/>\n    <circle cx="96" cy="50" r="1.4"/>\n    <circle cx="85" cy="78" r="1.2"/>\n    <circle cx="50" cy="96" r="1.4"/>\n    <circle cx="15" cy="78" r="1.2"/>\n    <circle cx="4" cy="50" r="1.4"/>\n    <circle cx="15" cy="22" r="1.2"/>\n  </g>\n  <g fill="#ffd6a5" opacity="0.85">\n    <path d="M50,8 C53,11 52,15 50,17 C48,15 47,11 50,8 Z" transform="rotate(30 50 50)"/>\n    <path d="M50,8 C53,11 52,15 50,17 C48,15 47,11 50,8 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,8 C53,11 52,15 50,17 C48,15 47,11 50,8 Z" transform="rotate(150 50 50)"/>\n    <path d="M50,8 C53,11 52,15 50,17 C48,15 47,11 50,8 Z" transform="rotate(210 50 50)"/>\n    <path d="M50,8 C53,11 52,15 50,17 C48,15 47,11 50,8 Z" transform="rotate(270 50 50)"/>\n    <path d="M50,8 C53,11 52,15 50,17 C48,15 47,11 50,8 Z" transform="rotate(330 50 50)"/>\n  </g>\n  <g fill="#fff5e6" opacity="0.8">\n    <path d="M50,1 L50.8,3 L52.8,3.6 L50.8,4.2 L50,6 L49.2,4.2 L47.2,3.6 L49.2,3 Z" transform="rotate(45 50 50)"/>\n    <path d="M50,1 L50.8,3 L52.8,3.6 L50.8,4.2 L50,6 L49.2,4.2 L47.2,3.6 L49.2,3 Z" transform="rotate(135 50 50)"/>\n    <path d="M50,1 L50.8,3 L52.8,3.6 L50.8,4.2 L50,6 L49.2,4.2 L47.2,3.6 L49.2,3 Z" transform="rotate(225 50 50)"/>\n    <path d="M50,1 L50.8,3 L52.8,3.6 L50.8,4.2 L50,6 L49.2,4.2 L47.2,3.6 L49.2,3 Z" transform="rotate(315 50 50)"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.5"/>\n</svg>\n', "frame-029": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#ff6f61"/>\n      <stop offset="50%" stop-color="#d62828"/>\n      <stop offset="100%" stop-color="#6a0572"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#ffb997" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#ffb997" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#ffb997" stroke-width="0.8" opacity="0.7"/>\n  <g fill="#ffd166" opacity="0.95">\n    <path d="M50,2 Q54,6 52,12 Q50,10 48,12 Q46,6 50,2 Z"/>\n    <path d="M50,2 Q54,6 52,12 Q50,10 48,12 Q46,6 50,2 Z" transform="rotate(60 50 50)"/>\n    <path d="M50,2 Q54,6 52,12 Q50,10 48,12 Q46,6 50,2 Z" transform="rotate(120 50 50)"/>\n    <path d="M50,2 Q54,6 52,12 Q50,10 48,12 Q46,6 50,2 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,2 Q54,6 52,12 Q50,10 48,12 Q46,6 50,2 Z" transform="rotate(240 50 50)"/>\n    <path d="M50,2 Q54,6 52,12 Q50,10 48,12 Q46,6 50,2 Z" transform="rotate(300 50 50)"/>\n  </g>\n  <g fill="#ffe066" opacity="0.9">\n    <circle cx="50" cy="3" r="1.3"/>\n    <circle cx="85" cy="22" r="1.2"/>\n    <circle cx="96" cy="50" r="1.3"/>\n    <circle cx="85" cy="78" r="1.2"/>\n    <circle cx="50" cy="97" r="1.3"/>\n    <circle cx="15" cy="78" r="1.2"/>\n    <circle cx="4" cy="50" r="1.3"/>\n    <circle cx="15" cy="22" r="1.2"/>\n  </g>\n  <g fill="#fcbf49" opacity="0.8">\n    <path d="M72,10 L74,13 L72,16 L70,13 Z"/>\n    <path d="M28,84 L30,87 L28,90 L26,87 Z"/>\n    <path d="M10,28 L13,30 L10,32 L7,30 Z"/>\n    <path d="M90,68 L87,70 L90,72 L93,70 Z"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffe066" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-030": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#004d40"/>\n      <stop offset="50%" stop-color="#00897b"/>\n      <stop offset="100%" stop-color="#001b1a"/>\n    </linearGradient>\n    <linearGradient id="em" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#a7ffeb"/>\n      <stop offset="50%" stop-color="#1de9b6"/>\n      <stop offset="100%" stop-color="#00bfa5"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#64ffda" stop-opacity="0.4"/>\n      <stop offset="100%" stop-color="#64ffda" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#1de9b6" stroke-width="0.8" opacity="0.7"/>\n  <g fill="url(#em)" opacity="0.95" stroke="#a7ffeb" stroke-width="0.3">\n    <polygon points="50,3 54,9 52,15 48,15 46,9"/>\n    <polygon points="50,3 54,9 52,15 48,15 46,9" transform="rotate(60 50 50)"/>\n    <polygon points="50,3 54,9 52,15 48,15 46,9" transform="rotate(120 50 50)"/>\n    <polygon points="50,3 54,9 52,15 48,15 46,9" transform="rotate(180 50 50)"/>\n    <polygon points="50,3 54,9 52,15 48,15 46,9" transform="rotate(240 50 50)"/>\n    <polygon points="50,3 54,9 52,15 48,15 46,9" transform="rotate(300 50 50)"/>\n  </g>\n  <g fill="#64ffda" opacity="0.9">\n    <circle cx="50" cy="3" r="1"/>\n    <circle cx="85" cy="22" r="1"/>\n    <circle cx="97" cy="50" r="1"/>\n    <circle cx="85" cy="78" r="1"/>\n    <circle cx="50" cy="97" r="1"/>\n    <circle cx="15" cy="78" r="1"/>\n    <circle cx="3" cy="50" r="1"/>\n    <circle cx="15" cy="22" r="1"/>\n  </g>\n  <g fill="#a7ffeb" opacity="0.8">\n    <path d="M50,0 L50.8,2.5 L53.3,3.3 L50.8,4.1 L50,6.6 L49.2,4.1 L46.7,3.3 L49.2,2.5 Z" transform="rotate(30 50 50)"/>\n    <path d="M50,0 L50.8,2.5 L53.3,3.3 L50.8,4.1 L50,6.6 L49.2,4.1 L46.7,3.3 L49.2,2.5 Z" transform="rotate(150 50 50)"/>\n    <path d="M50,0 L50.8,2.5 L53.3,3.3 L50.8,4.1 L50,6.6 L49.2,4.1 L46.7,3.3 L49.2,2.5 Z" transform="rotate(270 50 50)"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#1de9b6" stroke-width="0.3" opacity="0.4"/>\n</svg>\n', "frame-031": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#f8c8c8"/>\n      <stop offset="50%" stop-color="#e8b4a0"/>\n      <stop offset="100%" stop-color="#b76e79"/>\n    </linearGradient>\n    <linearGradient id="rg" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#ffe1e1"/>\n      <stop offset="50%" stop-color="#f7b2bd"/>\n      <stop offset="100%" stop-color="#c08081"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#fff0f0" stop-opacity="0.5"/>\n      <stop offset="100%" stop-color="#fff0f0" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="44" fill="none" stroke="url(#rg)" stroke-width="1.2" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="#f7b2bd" stroke-width="0.6" opacity="0.8"/>\n  <circle cx="50" cy="50" r="48" fill="none" stroke="#b76e79" stroke-width="0.4" opacity="0.6"/>\n  <g fill="url(#rg)" opacity="0.95">\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(45 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(135 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(225 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(270 50 50)"/>\n    <path d="M50,2 C53,5 52,9 49,11 C46,9 47,5 50,2 Z" transform="rotate(315 50 50)"/>\n  </g>\n  <g fill="#fff0f0" opacity="0.9">\n    <circle cx="50" cy="3" r="1"/>\n    <circle cx="85" cy="22" r="1"/>\n    <circle cx="97" cy="50" r="1"/>\n    <circle cx="85" cy="78" r="1"/>\n    <circle cx="50" cy="97" r="1"/>\n    <circle cx="15" cy="78" r="1"/>\n    <circle cx="3" cy="50" r="1"/>\n    <circle cx="15" cy="22" r="1"/>\n  </g>\n  <g fill="#f7b2bd" opacity="0.85">\n    <path d="M50,0 L50.6,2 L52.6,2.6 L50.6,3.2 L50,5 L49.4,3.2 L47.4,2.6 L49.4,2 Z" transform="rotate(22.5 50 50)"/>\n    <path d="M50,0 L50.6,2 L52.6,2.6 L50.6,3.2 L50,5 L49.4,3.2 L47.4,2.6 L49.4,2 Z" transform="rotate(112.5 50 50)"/>\n    <path d="M50,0 L50.6,2 L52.6,2.6 L50.6,3.2 L50,5 L49.4,3.2 L47.4,2.6 L49.4,2 Z" transform="rotate(202.5 50 50)"/>\n    <path d="M50,0 L50.6,2 L52.6,2.6 L50.6,3.2 L50,5 L49.4,3.2 L47.4,2.6 L49.4,2 Z" transform="rotate(292.5 50 50)"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.5"/>\n</svg>\n', "frame-032": '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">\n  <defs>\n    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#001219"/>\n      <stop offset="50%" stop-color="#0a1f2e"/>\n      <stop offset="100%" stop-color="#000000"/>\n    </linearGradient>\n    <linearGradient id="aurora" x1="0%" y1="0%" x2="100%" y2="100%">\n      <stop offset="0%" stop-color="#00ff9f"/>\n      <stop offset="50%" stop-color="#00d4ff"/>\n      <stop offset="100%" stop-color="#b388ff"/>\n    </linearGradient>\n    <radialGradient id="g2" cx="50%" cy="50%">\n      <stop offset="0%" stop-color="#00ff9f" stop-opacity="0.35"/>\n      <stop offset="100%" stop-color="#00ff9f" stop-opacity="0"/>\n    </radialGradient>\n    <mask id="m1">\n      <rect width="100" height="100" fill="white"/>\n      <circle cx="50" cy="50" r="38" fill="black"/>\n    </mask>\n  </defs>\n  <circle cx="50" cy="50" r="46" fill="url(#g2)"/>\n  <circle cx="50" cy="50" r="44" fill="url(#g1)" mask="url(#m1)"/>\n  <circle cx="50" cy="50" r="46" fill="none" stroke="url(#aurora)" stroke-width="0.8" opacity="0.8"/>\n  <g fill="none" stroke="url(#aurora)" stroke-width="1" opacity="0.7">\n    <path d="M10,30 Q30,20 50,25 T90,30" opacity="0.8"/>\n    <path d="M10,40 Q30,30 50,35 T90,40" opacity="0.6"/>\n    <path d="M10,60 Q30,70 50,65 T90,60" opacity="0.8"/>\n    <path d="M10,70 Q30,80 50,75 T90,70" opacity="0.6"/>\n  </g>\n  <g fill="none" stroke="url(#aurora)" stroke-width="0.6" opacity="0.85">\n    <path d="M50,4 Q56,8 50,14 Q44,8 50,4 Z"/>\n    <path d="M50,4 Q56,8 50,14 Q44,8 50,4 Z" transform="rotate(90 50 50)"/>\n    <path d="M50,4 Q56,8 50,14 Q44,8 50,4 Z" transform="rotate(180 50 50)"/>\n    <path d="M50,4 Q56,8 50,14 Q44,8 50,4 Z" transform="rotate(270 50 50)"/>\n  </g>\n  <g fill="#00ff9f" opacity="0.9">\n    <circle cx="50" cy="3" r="1.2"/>\n    <circle cx="85" cy="22" r="1"/>\n    <circle cx="97" cy="50" r="1.2"/>\n    <circle cx="85" cy="78" r="1"/>\n    <circle cx="50" cy="97" r="1.2"/>\n    <circle cx="15" cy="78" r="1"/>\n    <circle cx="3" cy="50" r="1.2"/>\n    <circle cx="15" cy="22" r="1"/>\n  </g>\n  <g fill="#b388ff" opacity="0.8">\n    <circle cx="72" cy="12" r="0.8"/>\n    <circle cx="28" cy="12" r="0.8"/>\n    <circle cx="88" cy="38" r="0.8"/>\n    <circle cx="88" cy="62" r="0.8"/>\n    <circle cx="72" cy="88" r="0.8"/>\n    <circle cx="28" cy="88" r="0.8"/>\n    <circle cx="12" cy="62" r="0.8"/>\n    <circle cx="12" cy="38" r="0.8"/>\n  </g>\n  <circle cx="50" cy="50" r="42" fill="none" stroke="#00ff9f" stroke-width="0.3" opacity="0.4"/>\n</svg>\n' };
+  }
+});
+
 // <define:CIBYP_I18N_SOURCES>
 var define_CIBYP_I18N_SOURCES_default;
 var init_define_CIBYP_I18N_SOURCES = __esm({
@@ -4937,6 +4945,8 @@ Object.assign(EN_DICT._textMap, {"\u67E5\u770B\u534F\u4F5C Agent": "View collabo
 
 Object.assign(EN_DICT, Object.fromEntries(Object.entries(EN_DICT.ui.remoteDevices).map(([key, value]) => ['ui.remoteDevices.' + key, value])));
 Object.assign(EN_DICT._textMap, Object.fromEntries(Object.entries({"title":"Remote \u8BBE\u5907","hint":"Micro \u4E3B\u52A8\u8FDE\u63A5\u5F53\u524D\u540E\u53F0\u3002\u8BBE\u5907\u4EC5\u83B7\u5F97\u4E0B\u65B9\u660E\u786E\u6388\u4E88\u7684\u5DE5\u5177\u548C\u8D44\u6E90\u6743\u9650\u3002","refresh":"\u5237\u65B0\u8BBE\u5907","pair":"\u914D\u5BF9 / \u4FEE\u6539\u6743\u9650","id":"\u8BBE\u5907 ID","add":"\u6DFB\u52A0\u5DE5\u5177\u6388\u6743","save":"\u4FDD\u5B58\u8BBE\u5907","private":"\u65B0\u51ED\u636E\u4EC5\u5728\u5F53\u524D\u542F\u52A8\u671F\u95F4\u53EF\u53D6\u56DE\u3002\u8BF7\u901A\u8FC7\u53EF\u4FE1 USB / \u4E32\u53E3\u914D\u7F6E\u5230\u8BBE\u5907\uFF0C\u52FF\u53D1\u9001\u7ED9 Agent\u3002"}).map(([key, source]) => [source, EN_DICT.ui.remoteDevices[key]])));
+
+EN_DICT['ui.remoteDevices.authorizedTools'] = "Authorized tools";
 `, "de.js": `/*\r
  * SPDX-License-Identifier: GPL-3.0-or-later\r
  * Copyright (c) 2026 B5-Software\r
@@ -9223,6 +9233,8 @@ Object.assign(DE_DICT._textMap, {"\u67E5\u770B\u534F\u4F5C Agent": "Zusammenarbe
 
 Object.assign(DE_DICT, Object.fromEntries(Object.entries(DE_DICT.ui.remoteDevices).map(([key, value]) => ['ui.remoteDevices.' + key, value])));
 Object.assign(DE_DICT._textMap, Object.fromEntries(Object.entries({"title":"Remote \u8BBE\u5907","hint":"Micro \u4E3B\u52A8\u8FDE\u63A5\u5F53\u524D\u540E\u53F0\u3002\u8BBE\u5907\u4EC5\u83B7\u5F97\u4E0B\u65B9\u660E\u786E\u6388\u4E88\u7684\u5DE5\u5177\u548C\u8D44\u6E90\u6743\u9650\u3002","refresh":"\u5237\u65B0\u8BBE\u5907","pair":"\u914D\u5BF9 / \u4FEE\u6539\u6743\u9650","id":"\u8BBE\u5907 ID","add":"\u6DFB\u52A0\u5DE5\u5177\u6388\u6743","save":"\u4FDD\u5B58\u8BBE\u5907","private":"\u65B0\u51ED\u636E\u4EC5\u5728\u5F53\u524D\u542F\u52A8\u671F\u95F4\u53EF\u53D6\u56DE\u3002\u8BF7\u901A\u8FC7\u53EF\u4FE1 USB / \u4E32\u53E3\u914D\u7F6E\u5230\u8BBE\u5907\uFF0C\u52FF\u53D1\u9001\u7ED9 Agent\u3002"}).map(([key, source]) => [source, DE_DICT.ui.remoteDevices[key]])));
+
+DE_DICT['ui.remoteDevices.authorizedTools'] = "Autorisierte Werkzeuge";
 ` };
   }
 });
@@ -9231,6 +9243,7 @@ Object.assign(DE_DICT._textMap, Object.fromEntries(Object.entries({"title":"Remo
 var require_contract = __commonJS({
   "packages/remote/src/contract.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var PROTOCOL = Object.freeze({ major: 2, minor: 0 });
     var LIMITS = Object.freeze({ maxMessageBytes: 262144, maxInFlight: 8, maxDepth: 24 });
@@ -9333,6 +9346,7 @@ var require_contract = __commonJS({
 var require_store = __commonJS({
   "packages/remote/src/store.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -9446,6 +9460,7 @@ var require_store = __commonJS({
 var require_events = __commonJS({
   "packages/remote/src/events.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { randomUUID: randomUUID7 } = require("node:crypto");
     var { publicValue, RemoteError: RemoteError3 } = require_contract();
@@ -9507,6 +9522,7 @@ var require_events = __commonJS({
 var require_service = __commonJS({
   "packages/remote/src/service.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { randomUUID: randomUUID7 } = require("node:crypto");
     var {
@@ -9604,6 +9620,7 @@ var require_service = __commonJS({
 var require_tools = __commonJS({
   "packages/remote/src/tools.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { randomUUID: randomUUID7, createHash: createHash2 } = require("node:crypto");
     var { RemoteError: RemoteError3, requireScope, identifier, record: record3, publicValue } = require_contract();
@@ -9848,7 +9865,10 @@ var require_tools = __commonJS({
         }
       }
       attach(service) {
-        service.register("tool.list", "tools.read", (p) => this.list(p));
+        service.register("tool.list", "tools.read", (p) => {
+          const page = this.list(p);
+          return { ...page, items: page.items.map(({ inputSchema: _schema, ...summary }) => summary) };
+        });
         service.register("tool.describe", "tools.read", (p) => this.describe(p.name));
         service.register("tool.result", "tools.invoke", (p, c) => this.result(p, c));
         service.register("tool.cancel", "tools.invoke", (p, c) => this.cancel(p, c), { write: true });
@@ -9875,6 +9895,7 @@ var require_tools = __commonJS({
 var require_frame = __commonJS({
   "packages/remote/src/frame.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { RemoteError: RemoteError3, bounded } = require_contract();
     function decodeFrame(data, maximum) {
@@ -9912,6 +9933,7 @@ var require_frame = __commonJS({
 var require_devices = __commonJS({
   "packages/remote/src/devices.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { randomBytes, randomUUID: randomUUID7, createHash: createHash2 } = require("node:crypto");
     var { RemoteError: RemoteError3, identifier, record: record3, publicValue } = require_contract();
@@ -10016,6 +10038,25 @@ var require_devices = __commonJS({
       }
       attach(service) {
         service.register("device.list", "devices.read", () => this.list());
+        service.register("device.page", "devices.read", (p) => {
+          const offset = p.offset ?? 0, limit = p.limit ?? 20;
+          if (!Number.isInteger(offset) || offset < 0 || !Number.isInteger(limit) || limit < 1 || limit > 32)
+            throw new RemoteError3("INVALID_PARAMS");
+          const all = this.list(), items = all.slice(offset, offset + limit).map(({ policy, ...value }) => ({
+            ...value,
+            toolCount: Object.keys(policy.tools || {}).length
+          }));
+          return {
+            items,
+            total: all.length,
+            nextOffset: offset + items.length < all.length ? offset + items.length : null
+          };
+        });
+        service.register("device.get", "devices.read", (p) => {
+          const id = identifier(p.deviceId), value = this.list().find((device) => device.id === id);
+          if (!value) throw new RemoteError3("INVALID_PARAMS", "Unknown device");
+          return value;
+        });
         service.register(
           "device.provision",
           "devices.manage",
@@ -10272,6 +10313,7 @@ var require_devices = __commonJS({
 var require_credentials = __commonJS({
   "packages/remote/src/credentials.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { randomBytes, randomUUID: randomUUID7, createHash: createHash2 } = require("node:crypto");
     var { read: read2, atomic: atomic2 } = require_store();
@@ -10364,6 +10406,7 @@ var require_credentials = __commonJS({
 var require_express = __commonJS({
   "packages/remote/src/express.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var {
       PROTOCOL,
@@ -10537,6 +10580,7 @@ var require_express = __commonJS({
 var require_client = __commonJS({
   "packages/remote/src/client.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var RemoteClient = class {
       constructor({
@@ -10724,6 +10768,7 @@ var require_client = __commonJS({
 var require_src = __commonJS({
   "packages/remote/src/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = {
       ...require_contract(),
@@ -10743,6 +10788,7 @@ var require_src = __commonJS({
 var require_event_bus = __commonJS({
   "src/main/core/event-bus.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function createEventBus2({ onError } = {}) {
       const subscribers = /* @__PURE__ */ new Map();
@@ -10840,6 +10886,7 @@ var require_event_bus = __commonJS({
 var require_channel_subscriptions = __commonJS({
   "src/preload/channel-subscriptions.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function createChannelSubscriptions(ipcRenderer) {
       const channels = /* @__PURE__ */ new Map();
@@ -10891,6 +10938,7 @@ var require_channel_subscriptions = __commonJS({
 var require_api_facade = __commonJS({
   "src/preload/api-facade.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { createChannelSubscriptions } = require_channel_subscriptions();
     function createApiFacade2(ipcRenderer) {
@@ -11606,6 +11654,7 @@ var require_api_facade = __commonJS({
 var require_host = __commonJS({
   "src/agent/host.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var GUI_UNAVAILABLE = "\u8BE5\u529F\u80FD\u4EC5\u5728\u684C\u9762\u56FE\u5F62\u754C\u9762\uFF08Electron \u7A97\u53E3\uFF09\u4E2D\u53EF\u7528\uFF1B\u5F53\u524D\u4E3A\u65E0\u5934/WebUI \u8FD0\u884C\u73AF\u5883\uFF0C\u65E0\u6CD5\u6267\u884C\u6B64\u64CD\u4F5C\u3002";
     var SESSION_STATUS = Object.freeze({
@@ -11933,6 +11982,7 @@ var require_host = __commonJS({
 var require_preload_api = __commonJS({
   "src/agent/preload-api.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -12019,6 +12069,7 @@ var require_preload_api = __commonJS({
 var require_i18n_loader = __commonJS({
   "src/agent/i18n-loader.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -12125,6 +12176,7 @@ var require_i18n_loader = __commonJS({
 var require_tools_def = __commonJS({
   "src/renderer/js/tools-def.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var MCP_DYNAMIC_TOOLS = [];
     var MCP_DYNAMIC_SCHEMAS = {};
@@ -13484,6 +13536,7 @@ var require_tools_def = __commonJS({
 var require_tool_exposure = __commonJS({
   "src/renderer/js/tool-exposure.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(root) {
       "use strict";
@@ -13789,6 +13842,7 @@ var require_tool_exposure = __commonJS({
 var require_privacy_filter = __commonJS({
   "src/renderer/js/privacy-filter.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function() {
       "use strict";
@@ -14174,6 +14228,7 @@ var require_privacy_filter = __commonJS({
 var require_goal_state = __commonJS({
   "src/renderer/js/goal-state.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var MAX_GOAL_TURNS = 150;
     var BLOCKED_CONSECUTIVE_THRESHOLD = 3;
@@ -14425,6 +14480,7 @@ Report the blocker to the user and suggest workarounds. Do not retry the same ap
 var require_context_manager = __commonJS({
   "src/renderer/js/context-manager.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var TOKENS_PER_CJK_CHAR = 1.5;
     var TOKENS_PER_OTHER_CHAR = 0.4;
@@ -15604,6 +15660,7 @@ ${text}
 var require_title_utils = __commonJS({
   "src/renderer/js/title-utils.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(root, factory) {
       if (typeof module2 === "object" && module2.exports) {
@@ -15774,6 +15831,7 @@ ${modeHint}
 var require_bundled_skills = __commonJS({
   "src/data/bundled-skills.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var BUNDLED_SKILLS2 = [
       {
@@ -16249,6 +16307,7 @@ var require_bundled_skills = __commonJS({
 var require_token_usage = __commonJS({
   "src/shared/token-usage.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(root) {
       "use strict";
@@ -16284,6 +16343,7 @@ var require_token_usage = __commonJS({
 var require_provider_limits = __commonJS({
   "src/shared/provider-limits.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(root) {
       "use strict";
@@ -16313,6 +16373,7 @@ var require_provider_limits = __commonJS({
 var require_token_policy = __commonJS({
   "src/shared/token-policy.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(root) {
       "use strict";
@@ -16461,6 +16522,7 @@ var require_token_policy = __commonJS({
 var require_attachments = __commonJS({
   "src/shared/attachments.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(root) {
       "use strict";
@@ -16513,6 +16575,7 @@ var require_attachments = __commonJS({
 var require_text_extra = __commonJS({
   "src/tui/text-extra.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = {
       en: {
@@ -16817,6 +16880,7 @@ var require_text_extra = __commonJS({
 var require_text = __commonJS({
   "src/tui/text.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var language = "zh-CN";
     var globalTranslator = null;
@@ -17194,6 +17258,7 @@ var require_text = __commonJS({
 var require_babe_relationship = __commonJS({
   "src/shared/babe-relationship.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(root) {
       const opening = "<cibyp-relationship>";
@@ -17241,6 +17306,7 @@ var require_babe_relationship = __commonJS({
 var require_agent = __commonJS({
   "src/renderer/js/agent.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var INTERNAL_REOPTIMIZE_TOOL_SCHEMA = {
       type: "function",
@@ -22013,6 +22079,7 @@ ${agentCount} \u4F4D AI \u73A9\u5BB6\u5DF2\u5C31\u7EEA\uFF0C\u8BF7\u5728\u6E38\u
 var require_index = __commonJS({
   "src/agent/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var hostKit = require_host();
     var { loadPreloadApi } = require_preload_api();
@@ -22123,6 +22190,7 @@ var require_index = __commonJS({
 var require_ipc_dispatch = __commonJS({
   "src/main/core/ipc-dispatch.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function createLocalIpcEvent({ publishEvent } = {}) {
       const sender = {
@@ -22192,6 +22260,7 @@ var require_ipc_dispatch = __commonJS({
 var require_pricing = __commonJS({
   "src/shared/generated/pricing.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __defProp2 = Object.defineProperty;
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
@@ -22262,6 +22331,7 @@ var require_pricing = __commonJS({
 var require_model_pricing = __commonJS({
   "src/main/services/model-pricing.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var catalog = null;
     var fetchedAt = null;
@@ -22321,6 +22391,7 @@ var require_model_pricing = __commonJS({
 var require_settings_assistant_tools = __commonJS({
   "src/shared/settings-assistant-tools.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(root) {
       const tools = [
@@ -22338,30 +22409,83 @@ var require_settings_assistant_tools = __commonJS({
 var require_runtime_tools = __commonJS({
   "src/main/services/runtime-tools.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { createHash: createHash2, randomUUID: randomUUID7 } = require("node:crypto");
     var { RemoteError: RemoteError3 } = require_src();
     function decorateRuntimeTools(agent2, getService, profile) {
       if (profile === "settings-assistant") return;
       const permitted = (name7) => !agent2._toolScope || agent2._toolScope.has(name7);
-      const definitions = () => agent2.minimalMode ? [] : [...getService()?.tools.entries.values() || []].map(({ manifest }) => manifest).filter((t) => permitted(t.name));
+      const selected = /* @__PURE__ */ new Set();
+      const discovery = [
+        {
+          name: "listHardwareTools",
+          description: "List authorized external hardware tools. Describe a tool before using it.",
+          parameters: {
+            type: "object",
+            properties: {
+              offset: { type: "integer", minimum: 0 },
+              limit: { type: "integer", minimum: 1, maximum: 32 }
+            },
+            additionalProperties: false
+          }
+        },
+        {
+          name: "describeHardwareTool",
+          description: "Read one authorized hardware tool schema and enable it for this Agent. At most 16 external tools are loaded at a time.",
+          parameters: {
+            type: "object",
+            properties: { name: { type: "string" } },
+            required: ["name"],
+            additionalProperties: false
+          }
+        }
+      ];
+      const available = () => [...getService()?.tools.entries.values() || []].map(({ manifest }) => manifest).filter((tool) => permitted(tool.name));
+      const definitions = () => agent2.minimalMode ? [] : available().filter((tool) => selected.has(tool.name));
+      const discoverable = () => !agent2.minimalMode && available().length ? discovery : [];
       const schemas = agent2.getRuntimeToolSchemas.bind(agent2), enabled = agent2.getEnabledToolDefinitions.bind(agent2), execute = agent2.executeTool.bind(agent2);
       agent2.getEnabledToolDefinitions = () => [
         ...enabled(),
+        ...discoverable(),
         ...definitions().map((t) => ({
           name: t.name,
           description: t.description,
           parameters: t.inputSchema
         }))
       ];
-      agent2.getRuntimeToolSchemas = () => [
-        ...schemas(),
-        ...definitions().map((t) => ({
-          type: "function",
-          function: { name: t.name, description: t.description, parameters: t.inputSchema }
-        }))
-      ];
+      agent2.getRuntimeToolSchemas = () => {
+        const tools = [
+          ...schemas(),
+          ...discoverable().map((tool) => ({ type: "function", function: tool })),
+          ...definitions().map((t) => ({
+            type: "function",
+            function: { name: t.name, description: t.description, parameters: t.inputSchema }
+          }))
+        ];
+        agent2.contextManager?.setToolSchemaTokens(Math.ceil(JSON.stringify(tools).length / 4));
+        return tools;
+      };
       agent2.executeTool = async (name7, input2, invocation) => {
+        if (name7 === "listHardwareTools" || name7 === "describeHardwareTool") {
+          if (agent2.minimalMode || !getService()) throw new RemoteError3("CAPABILITY_UNAVAILABLE");
+          if (name7 === "listHardwareTools") {
+            const offset = input2.offset ?? 0, limit = input2.limit ?? 20, all = available();
+            if (!Number.isInteger(offset) || offset < 0 || !Number.isInteger(limit) || limit < 1 || limit > 32)
+              throw new RemoteError3("INVALID_PARAMS");
+            return {
+              items: all.slice(offset, offset + limit).map(({ inputSchema: _schema, ...summary }) => summary),
+              total: all.length,
+              nextOffset: offset + limit < all.length ? offset + limit : null
+            };
+          }
+          const tool = available().find((entry2) => entry2.name === input2.name);
+          if (!tool) throw new RemoteError3("FORBIDDEN", "Tool was not delegated to this Agent");
+          selected.delete(tool.name);
+          selected.add(tool.name);
+          if (selected.size > 16) selected.delete(selected.values().next().value);
+          return tool;
+        }
         const service = getService(), entry = service?.tools.entries.get(name7);
         if (!entry) return execute(name7, input2, invocation);
         if (!permitted(name7))
@@ -22397,6 +22521,7 @@ var require_runtime_tools = __commonJS({
 var require_reasoning = __commonJS({
   "src/shared/reasoning.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(root, factory) {
       const api = factory();
@@ -27774,6 +27899,7 @@ var require_settings_catalog = __commonJS({
 var require_settings_assistant = __commonJS({
   "src/main/services/settings-assistant.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var FIELDS = [
       ["babe.relationship.enabled", "babe", "setting-babe-relationship-enabled", "\u5173\u7CFB\u6210\u957F", "boolean"],
@@ -28031,6 +28157,7 @@ var require_settings_assistant = __commonJS({
 var require_settings_catalog2 = __commonJS({
   "src/main/core/settings-catalog.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var catalog = require_settings_catalog();
     var { FIELDS } = require_settings_assistant();
@@ -28110,6 +28237,7 @@ var require_settings_catalog2 = __commonJS({
 var require_native_subagents = __commonJS({
   "src/main/services/native-subagents.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -28378,6 +28506,7 @@ var require_native_subagents = __commonJS({
 var require_agent_runtime = __commonJS({
   "src/main/agent-runtime.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var {
       loadAgentCore,
@@ -30312,6 +30441,7 @@ var require_ipc_capabilities = __commonJS({
 var require_remote_projection = __commonJS({
   "src/main/services/remote-projection.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { publicValue } = require_src();
     function publicSettings(settings) {
@@ -30770,6 +30900,7 @@ var require_package = __commonJS({
 var require_remote_control = __commonJS({
   "src/main/services/remote-control.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var path2 = require("node:path");
     var crypto2 = require("node:crypto");
@@ -31032,9 +31163,11 @@ var require_remote_control = __commonJS({
           const interaction = runtime.getSessionDetails(key(p))?.pendingInteraction;
           if (!interaction || interaction.id !== p.interactionId || interaction.revision !== p.revision)
             throw new RemoteError3("REVISION_CONFLICT", "Interaction is no longer pending");
+          if (interaction.kind === "questions" && p.response !== false && !Array.isArray(p.answers))
+            throw new RemoteError3("INVALID_PARAMS", "Question answers are required");
           return runtime.respond(
             p.sessionId,
-            interaction.kind === "questions" ? { answers: p.answers || [] } : p.response
+            interaction.kind === "questions" && p.response !== false ? { answers: p.answers } : p.response
           );
         },
         { write: true }
@@ -31116,6 +31249,7 @@ var require_remote_control = __commonJS({
 var require_backend_dispatch = __commonJS({
   "src/main/core/backend-dispatch.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { createIpcDispatch } = require_ipc_dispatch();
     function createBackendDispatch2({
@@ -31245,6 +31379,7 @@ var require_backend_dispatch = __commonJS({
 var require_wire_values = __commonJS({
   "src/shared/wire-values.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var MAX_BYTES = 12 * 1024 * 1024;
     function replacer(_key, value) {
@@ -31278,6 +31413,7 @@ var require_wire_values = __commonJS({
 var require_browser_pages = __commonJS({
   "src/shared/browser-pages.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = {
       "skill-editor": "skill-editor",
@@ -31298,6 +31434,7 @@ var require_browser_pages = __commonJS({
 var require_backend_server = __commonJS({
   "src/main/core/backend-server.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var express = require("express");
     var expressWs = require("express-ws");
@@ -31776,6 +31913,7 @@ var require_backend_server = __commonJS({
 var require_instance_lock = __commonJS({
   "src/main/core/instance-lock.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var net = require("node:net");
     var path2 = require("node:path");
@@ -31866,6 +32004,7 @@ var require_instance_lock = __commonJS({
 var require_defaults = __commonJS({
   "src/main/settings/defaults.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = function createDefaultSettings({ DEFAULT_DECISION_SETTINGS }) {
       const DEFAULT_SETTINGS = {
@@ -32256,6 +32395,7 @@ var require_defaults = __commonJS({
 var require_opencode_headers = __commonJS({
   "src/main/opencode-headers.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var crypto2 = require("crypto");
     var OPENCODE_DEFAULT_VERSION = "1.18.34";
@@ -32450,6 +32590,7 @@ var require_opencode_headers = __commonJS({
 var require_req_log = __commonJS({
   "src/main/req-log.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function pad4(n) {
       return String(n).padStart(2, "0");
@@ -32514,6 +32655,7 @@ var require_req_log = __commonJS({
 var require_system_one_protocol = __commonJS({
   "src/main/services/system-one-protocol.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var PROVIDERS = Object.freeze({
       zen: {
@@ -32674,6 +32816,7 @@ var require_system_one_protocol = __commonJS({
 var require_decision_service = __commonJS({
   "src/main/decision-service.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var crypto2 = require("crypto");
     var ocHeaders = require_opencode_headers();
@@ -33016,6 +33159,7 @@ var require_decision_service = __commonJS({
 var require_backend_transport = __commonJS({
   "src/main/services/backend-transport.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function createBackendTransport({
       getRuntime,
@@ -33473,6 +33617,7 @@ function sanitize(source) {
 var write, Binary, base64ToArrayBuffer, arrayBufferToBase64, hexToArrayBuffer, arrayBufferToHex, camelize, hyphenate, Time;
 var init_lib = __esm({
   "node_modules/@deepseek-ai/cosmokit/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     write = /* @__PURE__ */ Symbol.for("cosmokit.volatile.write");
     (function(Binary2) {
@@ -33835,6 +33980,7 @@ function Inject(name7, config2) {
 var DisposableList, symbols, GeneratorFunction, AsyncGeneratorFunction, EventsService, defaultFormatters, Logger, c16, c256, LoggerService, RESERVED_WORDS, ReflectService, kValidationError, ValidationError, effectInertia, CordisError, INACTIVE, Fiber, RegistryService, Context, Service;
 var init_lib2 = __esm({
   "node_modules/@deepseek-ai/cordis/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib();
     DisposableList = class {
@@ -35353,6 +35499,7 @@ var init_lib2 = __esm({
 var require_execution_context = __commonJS({
   "src/main/ds-compat/execution-context.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { AsyncLocalStorage: AsyncLocalStorage2 } = require("node:async_hooks");
     var execution = new AsyncLocalStorage2();
@@ -35465,6 +35612,7 @@ function validateName(subject, value) {
 var RemoteError, TYPERT_REMOTE_SEGMENT_PATTERN, REMOTE_METHOD_DESCRIPTOR, TypertRemoteService;
 var init_lib3 = __esm({
   "node_modules/@deepseek-ai/dsh-typert-protocol/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     RemoteError = class extends Error {
@@ -35716,6 +35864,7 @@ function deepFreeze(value) {
 var SIMPLE_ESCAPES, CONTENT_ESCAPE, PartialArguments, WeakMapWithValues;
 var init_lib4 = __esm({
   "node_modules/@deepseek-ai/dsh-util-values/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     SIMPLE_ESCAPES = {
       '"': '"',
@@ -36395,6 +36544,7 @@ function randomUUID() {
 }
 var init_lib5 = __esm({
   "node_modules/@deepseek-ai/dsh-util-crypto/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
   }
 });
@@ -36413,6 +36563,7 @@ function brandNumber(value) {
 }
 var init_lib6 = __esm({
   "node_modules/@deepseek-ai/dsh-brand/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
   }
 });
@@ -36535,6 +36686,7 @@ function defineMethod(name7, keys, format) {
 var kSchema, kValidationError2, ValidationError2, Schema, resolvers, checkedVolatile, formatters;
 var init_lib7 = __esm({
   "node_modules/@deepseek-ai/schemastery/lib/index.mjs"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib();
     kSchema = /* @__PURE__ */ Symbol.for("schemastery");
@@ -37099,6 +37251,7 @@ function timeoutOf(x, code) {
 var TimeoutReason, MAX_TIMER_DELAY_MS;
 var init_lib8 = __esm({
   "node_modules/@deepseek-ai/dsh-timeout/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     TimeoutReason = class extends Error {
       code;
@@ -37957,6 +38110,7 @@ function adapterFailureChunk(error62, signal) {
 var CONTEXT_SUMMARY_MAX_CHARS, HarnessError, CONTEXT_WINDOW_EXCEEDED_CODE, QUOTA_EXCEEDED_CODE, ACCOUNT_QUOTA_EXCEEDED_CODE, EMPTY_RESPONSE_CODE, INVALID_CREDENTIAL_CODE, STRUCTURED_CONTEXT_OVERFLOW, TOO_LARGE_FOR_CONTEXT, EXCEEDS_MODEL_CONTEXT, IMAGE_OFFLOAD_REQUIRED_CODE, DEFAULT_MAX_RETRIES, DEFAULT_INITIAL_DELAY_MS, DEFAULT_MAX_DELAY_MS, DEFAULT_JITTER_RATIO, DEFAULT_RETRYABLE_CODES, backoffSchema, normalPolicySchema, alwaysPolicySchema, RetryPolicySchema, NORMAL_POLICY_KEYS, ALWAYS_POLICY_KEYS, BACKOFF_KEYS, AGENT_LOOP_REQUESTS, LEGAL_API_KEY, version, APP_IDENTITY, BlockAssembler, AssistantStreamAccumulator, __runInitializers, __esDecorate, LlmError, LlmAdapter, LlmRuntime;
 var init_lib9 = __esm({
   "node_modules/@deepseek-ai/dsh-llm/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib3();
     init_lib4();
@@ -39528,6 +39682,7 @@ var JsonSchemaError, CONSTRAINT_KEYWORDS, ANNOTATION_KEYWORDS, SCHEMA_TYPES, ONE
 var init_json_schema = __esm({
   "src/main/ds-compat/shims/dsh-tools/upstream/json-schema.mjs"() {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib9();
     init_lib4();
@@ -39860,6 +40015,7 @@ var ANNOTATION_KEYS, ToolArgsError;
 var init_schema = __esm({
   "src/main/ds-compat/shims/dsh-tools/upstream/schema.mjs"() {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib9();
     init_json_schema();
@@ -40116,6 +40272,7 @@ var IDENTIFIER, SDK_INSTRUCTIONS, SDK_PROGRAM_INSTRUCTIONS;
 var init_ts_types = __esm({
   "src/main/ds-compat/shims/dsh-tools/upstream/ts-types.mjs"() {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_json_schema();
     IDENTIFIER = /^[A-Za-z_$][A-Za-z0-9_$]*$/;
@@ -40402,6 +40559,7 @@ var IDENTIFIER2, RESERVED, TYPING_ORDER, UNPRINTABLE, LONE_SURROGATE, MAX_CLASS_
 var init_py_types = __esm({
   "src/main/ds-compat/shims/dsh-tools/upstream/py-types.mjs"() {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_json_schema();
     IDENTIFIER2 = new RegExp("^[\\p{XID_Start}_]\\p{XID_Continue}*$", "u");
@@ -40540,6 +40698,7 @@ function carrierKeyOf(value) {
 var NamedEntries, AnonymousEntries, ScopedLayers, kScope, carrierKeys, scopeParents;
 var init_lib10 = __esm({
   "node_modules/@deepseek-ai/dsh-scope/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     NamedEntries = class {
@@ -40860,6 +41019,7 @@ function matchesSignature(exitCode, stderr, signatures) {
 var import_node_fs, import_node_os, WIDER_MODES, ESCALATION_TARGETS, EXECUTABLE_SPAWN_CODES, SANDBOX_UNAVAILABLE, SandboxUnavailableError, SandboxProvider;
 var init_lib11 = __esm({
   "node_modules/@deepseek-ai/dsh-sandbox/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib9();
@@ -42770,6 +42930,7 @@ function toolAbortedBeforeDispatchResult(prior) {
 var JsonSchemaError2, CONSTRAINT_KEYWORDS2, ANNOTATION_KEYWORDS2, SCHEMA_TYPES2, ONE_OF_SIBLING_KEYWORDS2, ANNOTATION_KEYS2, ToolArgsError2, RUN_CODE_NAME, TYPESCRIPT_FLAVOR, RUN_CODE_FLAVORS, RUN_CODE_DESCRIPTION_PARAM_DESCRIPTION, RUN_CODE_CONTROLS, CodeRunFailedError, JSON_INDENT, MAX_JSON_INDENT_CHARS, IDENTIFIER$1, SDK_INSTRUCTIONS$1, SDK_PROGRAM_INSTRUCTIONS2, IDENTIFIER3, RESERVED2, TYPING_ORDER2, UNPRINTABLE2, LONE_SURROGATE2, MAX_CLASS_NAME_BASE2, MAX_LIST_NESTING2, SDK_INSTRUCTIONS3, CONTENT_VALUE_SCHEMA, PTC_ONLY_INSTRUCTION, SDK_RENDERERS, TOOL_RUNTIME_SCHEDULER, TOOL_ABORTED, TOOL_ABORTED_BEFORE_DISPATCH, ToolNotFoundError, ToolOutputError, ToolLayer, ToolRuntime;
 var init_lib12 = __esm({
   "node_modules/@deepseek-ai/dsh-tools/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib7();
@@ -43964,6 +44125,7 @@ The available tools:`;
 var require_native_tools = __commonJS({
   "src/main/ds-compat/native-tools.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = (init_lib12(), __toCommonJS(lib_exports8));
   }
@@ -43991,6 +44153,7 @@ var CONTENT_VALUE_SCHEMA2;
 var init_testing = __esm({
   "src/main/ds-compat/shims/dsh-tools/upstream/testing.mjs"() {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_schema();
     CONTENT_VALUE_SCHEMA2 = { type: "array", items: { type: "json" } };
@@ -44001,6 +44164,7 @@ var init_testing = __esm({
 var require_dsh_tools = __commonJS({
   "src/main/ds-compat/shims/dsh-tools/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var upstream = (init_schema(), __toCommonJS(schema_exports));
     var jsonSchema = (init_json_schema(), __toCommonJS(json_schema_exports));
@@ -44213,6 +44377,7 @@ function interpolate(input2, variables, kind) {
 var SECTION_ORDERS, CONTEXT_ORDERS, PERSONA_PREFIX_SECTION, PERSONA_SUFFIX_SECTION, VARIABLE_NAME, GROUP_AT, TOOL_ORDER_REST, PromptLayer, SystemPrompt;
 var init_lib13 = __esm({
   "node_modules/@deepseek-ai/dsh-system-prompt/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib7();
@@ -44645,6 +44810,7 @@ function errorMessage3(error62) {
 var SKILL_NAME, DEFAULT_COLLECT_CACHE_ENTRIES, MAX_COLLECT_ATTEMPTS, RUNTIME_PROVIDER, RUNTIME_RANK, BUNDLED_SKILL_RANK, SkillLayer, SkillRegistry, RUNTIME_SKILL_PROVIDER;
 var init_lib14 = __esm({
   "node_modules/@deepseek-ai/dsh-skill/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib4();
@@ -44993,6 +45159,7 @@ function storageBackendServiceKey(name7) {
 var StorageError, BackendRegistry, UNIT_NAME_RE, Storage;
 var init_lib15 = __esm({
   "node_modules/@deepseek-ai/dsh-storage/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     StorageError = class extends Error {
@@ -45306,6 +45473,7 @@ function apply(ctx, config2) {
 var import_promises, import_node_path, import_node_crypto, SingleJsonUnit, SAFE_KEY_RE, PerRecordJsonUnit, name, inject, Config, JsonStorageBackend;
 var init_lib16 = __esm({
   "node_modules/@deepseek-ai/dsh-storage-json/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     import_promises = require("node:fs/promises");
     init_lib7();
@@ -45602,6 +45770,7 @@ function apply2(ctx, config2) {
 var DomainError, noop2, DomainImpl, KvTableImpl, name2, inject2, Config2, DomainFacility;
 var init_lib17 = __esm({
   "node_modules/@deepseek-ai/dsh-storage-domain/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib7();
     init_lib15();
@@ -45953,6 +46122,7 @@ function JobId(id) {
 var JobRegistry;
 var init_lib18 = __esm({
   "node_modules/@deepseek-ai/dsh-jobs/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     JobRegistry = class JobRegistry2 extends Service {
@@ -46030,6 +46200,7 @@ function isTerminal(status) {
 var JobLayer, JobEventHub, OutputRing, __addDisposableResource, __disposeResources, TASK_WAIT_TIMEOUT, DEFAULT_MAX_CONCURRENT_JOBS_PER_OWNER, DEFAULT_RETAIN_BYTES, DEFAULT_SETTLED_RETAIN_BYTES, DEFAULT_PUMP_POLL_MS, LocalJobRegistry;
 var init_lib19 = __esm({
   "node_modules/@deepseek-ai/dsh-jobs-local/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib7();
     init_lib10();
@@ -46748,6 +46919,7 @@ function capSources(result, maxResults) {
 var WebError, WebRuntime;
 var init_lib20 = __esm({
   "node_modules/@deepseek-ai/dsh-web/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib7();
@@ -46930,6 +47102,7 @@ function longEdgeDimensions(width, height, longEdge) {
 var import_node_buffer, IMAGE_ADMISSION_ERROR_CODES, ATTACHMENT_ERROR_CODES, IMAGE_ADMISSION_ERROR_CODE_SET, ATTACHMENT_ERROR_CODE_SET, AttachmentError, AttachmentStore;
 var init_lib21 = __esm({
   "node_modules/@deepseek-ai/dsh-attachment/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     import_node_buffer = require("node:buffer");
@@ -47715,6 +47888,7 @@ function invokeContainedSessionObservers(ctx, name7, id, args, callbacks) {
 var import_node_path2, SESSION_FORMAT_VERSION, KNOWN_SESSION_EVENT_TYPES, MESSAGE_PROJECTION_EVENT_TYPES, SURFACE_EVENT_TYPES, SurfaceManager, ToolHistoryProjection, TOOL_NOT_STARTED, TOOL_OUTCOME_UNKNOWN, CLOSER_TEXT, ToolCallRecovery, SessionPreparation, allowedAdapterKeys, MESSAGE_ROLE_BY_TYPE, attachments, Session, SessionForkError, SessionStore;
 var init_lib22 = __esm({
   "node_modules/@deepseek-ai/dsh-session/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     import_node_path2 = require("node:path");
@@ -48921,6 +49095,7 @@ async function admitCommandAttachments(store, attachments2, resolveFileReceipt) 
 var __runInitializers2, __esDecorate2, name3, COMMAND_NAME, NO_ATTACHMENTS, CommandLayer, CommandRuntime;
 var init_lib23 = __esm({
   "node_modules/@deepseek-ai/dsh-commands/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib5();
     init_lib21();
@@ -49948,6 +50123,7 @@ function constantCatch(value) {
 var Cached, EVALUATING, captureStackTrace, allowsEval, getParsedType, propertyKeyTypes, primitiveTypes, NUMBER_FORMAT_RANGES, BIGINT_FORMAT_RANGES, highSurrogate, Class, installing, broke, breaker, CONSTANT_CATCH;
 var init_util = __esm({
   "node_modules/zod/v4/core/util.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core();
     Cached = class {
@@ -50167,6 +50343,7 @@ function config(newConfig) {
 var _a, NEVER, _zodDesc, _E, $brand, $ZodAsyncError, $ZodEncodeError, globalConfig;
 var init_core = __esm({
   "node_modules/zod/v4/core/core.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     NEVER = /* @__PURE__ */ Object.freeze({
@@ -50350,6 +50527,7 @@ function prettifyError(error62) {
 var _messageDesc, _issuesDesc, _installedToString, initializer, $ZodError, $ZodRealError;
 var init_errors = __esm({
   "node_modules/zod/v4/core/errors.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core();
     init_util();
@@ -50432,6 +50610,7 @@ function validateFallback(schema, value, _ctx) {
 var _parse, parse2, _parseAsync, parseAsync, _safeParse, safeParse, _safeParseAsync, safeParseAsync, COMPILE_INVALID, COMPILE_FALLBACK, validate, validateAsync, _encode, encode, _decode, decode, _encodeAsync, encodeAsync, _decodeAsync, decodeAsync, _safeEncode, safeEncode, _safeDecode, safeDecode, _safeEncodeAsync, safeEncodeAsync, _safeDecodeAsync, safeDecodeAsync;
 var init_parse = __esm({
   "node_modules/zod/v4/core/parse.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core();
     init_errors();
@@ -50662,6 +50841,7 @@ function fixedBase64url(length) {
 var cuid, cuid2, ulid, xid, ksuid, nanoid, duration, extendedDuration, guid, uuid, uuid4, uuid6, uuid7, email, html5Email, rfc5322Email, unicodeEmail, idnEmail, browserEmail, _emoji, ipv4, ipv6, mac, cidrv4, cidrv6, base64, base64url, hostname, domain, httpProtocol, e164, creditCard, currencyCode, iban, dateSource, date2, anyString, string, bigint, integer, number, boolean, _null, _undefined, lowercase, uppercase, hex, md5_hex, md5_base64, md5_base64url, sha1_hex, sha1_base64, sha1_base64url, sha256_hex, sha256_base64, sha256_base64url, sha384_hex, sha384_base64, sha384_base64url, sha512_hex, sha512_base64, sha512_base64url;
 var init_regexes = __esm({
   "node_modules/zod/v4/core/regexes.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     cuid = /^[cC][0-9a-z]{6,}$/;
@@ -50748,6 +50928,7 @@ function handleCheckPropertyResult(result, payload, property2) {
 var $ZodCheck, _whenHasSize, _whenHasLength, numericOriginMap, $ZodCheckLessThan, $ZodCheckGreaterThan, $ZodCheckMultipleOf, $ZodCheckNumberFormat, $ZodCheckBigIntFormat, $ZodCheckMaxSize, $ZodCheckMinSize, $ZodCheckSizeEquals, $ZodCheckMaxLength, $ZodCheckMinLength, $ZodCheckLengthEquals, $ZodCheckStringFormat, $ZodCheckRegex, $ZodCheckLowerCase, $ZodCheckUpperCase, $ZodCheckIncludes, $ZodCheckStartsWith, $ZodCheckEndsWith, $ZodCheckProperty, $ZodCheckProperties, $ZodCheckMimeType, $ZodCheckOverwrite;
 var init_checks = __esm({
   "node_modules/zod/v4/core/checks.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core();
     init_regexes();
@@ -51228,6 +51409,7 @@ var init_checks = __esm({
 var Doc;
 var init_doc = __esm({
   "node_modules/zod/v4/core/doc.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Doc = class {
       constructor(args = [], closed = {}) {
@@ -51275,6 +51457,7 @@ ${content.join("\n")}
 var version2;
 var init_versions = __esm({
   "node_modules/zod/v4/core/versions.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     version2 = {
       major: 4,
@@ -51944,6 +52127,7 @@ function handleRefineResult(result, payload, input2, inst) {
 var $ZodType, toStandardResult, $ZodString, $ZodStringFormat, $ZodGUID, $ZodUUID, $ZodEmail, URL_BAD_FORMAT, URL_UNPARSEABLE, asciiTabOrNewline, $ZodURL, $ZodEmoji, $ZodNanoID, $ZodCUID, $ZodCUID2, $ZodULID, $ZodXID, $ZodKSUID, $ZodISODateTime, $ZodISODate, $ZodISOTime, $ZodISODuration, $ZodIPv4, ipv6Alphabet, $ZodIPv6, $ZodMAC, $ZodCIDRv4, $ZodCIDRv6, base64Charset, $ZodBase64, base64urlCharset, $ZodBase64URL, $ZodE164, CC_SANITIZE, $ZodCreditCard, $ZodIBAN, $ZodJWT, $ZodCustomStringFormat, $ZodNumber, $ZodNumberFormat, $ZodBoolean, $ZodBigInt, $ZodBigIntFormat, $ZodSymbol, $ZodUndefined, $ZodNull, $ZodAny, $ZodUnknown, $ZodNever, $ZodVoid, $ZodDate, $ZodArray, NO_SYMBOL_KEYS, $ZodObject, $ZodObjectJIT, $ZodUnion, $ZodXor, $ZodDiscriminatedUnion, $ZodIntersection, $ZodTuple, $ZodRecord, $ZodMap, $ZodSet, $ZodEnum, $ZodLiteral, $ZodFile, $ZodTransform, $ZodOptional, $ZodExactOptional, $ZodNullable, $ZodDefault, $ZodPrefault, $ZodNonOptional, $ZodSuccess, $ZodCatch, $ZodNaN, $ZodPipe, $ZodCodec, $ZodPreprocess, $ZodReadonly, $ZodTemplateLiteral, $ZodFunction, $ZodPromise, $ZodLazy, $ZodCustom;
 var init_schemas = __esm({
   "node_modules/zod/v4/core/schemas.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_checks();
     init_core();
@@ -53877,6 +54061,7 @@ function isBackEdge(ctx, value) {
 var $ZodCyclicError, STATE, NO_ISSUES, recursive, NONE, ASSUMED, PROVEN, handoff, open2, memo;
 var init_memoizer = __esm({
   "node_modules/zod/v4/core/memoizer.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     $ZodCyclicError = class extends Error {
@@ -54004,6 +54189,7 @@ function ar_default() {
 var error;
 var init_ar = __esm({
   "node_modules/zod/v4/locales/ar.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error = () => {
@@ -54123,6 +54309,7 @@ function az_default() {
 var error2;
 var init_az = __esm({
   "node_modules/zod/v4/locales/az.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error2 = () => {
@@ -54256,6 +54443,7 @@ function be_default() {
 var error3;
 var init_be = __esm({
   "node_modules/zod/v4/locales/be.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error3 = () => {
@@ -54417,6 +54605,7 @@ function bg_default() {
 var error4;
 var init_bg = __esm({
   "node_modules/zod/v4/locales/bg.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error4 = () => {
@@ -54550,6 +54739,7 @@ function bn_default() {
 var error5;
 var init_bn = __esm({
   "node_modules/zod/v4/locales/bn.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error5 = () => {
@@ -54671,6 +54861,7 @@ function ca_default() {
 var error6;
 var init_ca = __esm({
   "node_modules/zod/v4/locales/ca.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error6 = () => {
@@ -54792,6 +54983,7 @@ function ckb_default() {
 var error7;
 var init_ckb = __esm({
   "node_modules/zod/v4/locales/ckb.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error7 = () => {
@@ -54932,6 +55124,7 @@ function cs_default() {
 var error8;
 var init_cs = __esm({
   "node_modules/zod/v4/locales/cs.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error8 = () => {
@@ -55056,6 +55249,7 @@ function da_default() {
 var error9;
 var init_da = __esm({
   "node_modules/zod/v4/locales/da.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error9 = () => {
@@ -55184,6 +55378,7 @@ function de_default() {
 var error10;
 var init_de = __esm({
   "node_modules/zod/v4/locales/de.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error10 = () => {
@@ -55305,6 +55500,7 @@ function el_default() {
 var error11;
 var init_el = __esm({
   "node_modules/zod/v4/locales/el.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error11 = () => {
@@ -55425,6 +55621,7 @@ function en_default() {
 var error12;
 var init_en = __esm({
   "node_modules/zod/v4/locales/en.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error12 = () => {
@@ -55557,6 +55754,7 @@ function eo_default() {
 var error13;
 var init_eo = __esm({
   "node_modules/zod/v4/locales/eo.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error13 = () => {
@@ -55679,6 +55877,7 @@ function es_default() {
 var error14;
 var init_es = __esm({
   "node_modules/zod/v4/locales/es.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error14 = () => {
@@ -55823,6 +56022,7 @@ function fa_default() {
 var error15;
 var init_fa = __esm({
   "node_modules/zod/v4/locales/fa.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error15 = () => {
@@ -55950,6 +56150,7 @@ function fi_default() {
 var error16;
 var init_fi = __esm({
   "node_modules/zod/v4/locales/fi.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error16 = () => {
@@ -56075,6 +56276,7 @@ function fr_default() {
 var error17;
 var init_fr = __esm({
   "node_modules/zod/v4/locales/fr.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error17 = () => {
@@ -56212,6 +56414,7 @@ function fr_CA_default() {
 var error18;
 var init_fr_CA = __esm({
   "node_modules/zod/v4/locales/fr-CA.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error18 = () => {
@@ -56332,6 +56535,7 @@ function gu_default() {
 var error19;
 var init_gu = __esm({
   "node_modules/zod/v4/locales/gu.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error19 = () => {
@@ -56453,6 +56657,7 @@ function he_default() {
 var error20;
 var init_he = __esm({
   "node_modules/zod/v4/locales/he.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error20 = () => {
@@ -56662,6 +56867,7 @@ function hi_default() {
 var error21;
 var init_hi = __esm({
   "node_modules/zod/v4/locales/hi.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error21 = () => {
@@ -56781,6 +56987,7 @@ function hr_default() {
 var error22;
 var init_hr = __esm({
   "node_modules/zod/v4/locales/hr.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error22 = () => {
@@ -56915,6 +57122,7 @@ function hu_default() {
 var error23;
 var init_hu = __esm({
   "node_modules/zod/v4/locales/hu.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error23 = () => {
@@ -57046,6 +57254,7 @@ function hy_default() {
 var error24;
 var init_hy = __esm({
   "node_modules/zod/v4/locales/hy.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error24 = () => {
@@ -57202,6 +57411,7 @@ function id_default() {
 var error25;
 var init_id = __esm({
   "node_modules/zod/v4/locales/id.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error25 = () => {
@@ -57321,6 +57531,7 @@ function is_default() {
 var error26;
 var init_is = __esm({
   "node_modules/zod/v4/locales/is.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error26 = () => {
@@ -57443,6 +57654,7 @@ function it_default() {
 var error27;
 var init_it = __esm({
   "node_modules/zod/v4/locales/it.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error27 = () => {
@@ -57564,6 +57776,7 @@ function ja_default() {
 var error28;
 var init_ja = __esm({
   "node_modules/zod/v4/locales/ja.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error28 = () => {
@@ -57684,6 +57897,7 @@ function ka_default() {
 var error29;
 var init_ka = __esm({
   "node_modules/zod/v4/locales/ka.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error29 = () => {
@@ -57809,6 +58023,7 @@ function km_default() {
 var error30;
 var init_km = __esm({
   "node_modules/zod/v4/locales/km.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error30 = () => {
@@ -57929,6 +58144,7 @@ function kh_default() {
 }
 var init_kh = __esm({
   "node_modules/zod/v4/locales/kh.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_km();
   }
@@ -57943,6 +58159,7 @@ function kn_default() {
 var error31;
 var init_kn = __esm({
   "node_modules/zod/v4/locales/kn.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error31 = () => {
@@ -58066,6 +58283,7 @@ function ko_default() {
 var error32;
 var init_ko = __esm({
   "node_modules/zod/v4/locales/ko.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error32 = () => {
@@ -58200,6 +58418,7 @@ function lt_default() {
 var capitalizeFirstCharacter, error33;
 var init_lt = __esm({
   "node_modules/zod/v4/locales/lt.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     capitalizeFirstCharacter = (text) => {
@@ -58405,6 +58624,7 @@ function mk_default() {
 var error34;
 var init_mk = __esm({
   "node_modules/zod/v4/locales/mk.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error34 = () => {
@@ -58527,6 +58747,7 @@ function ms_default() {
 var error35;
 var init_ms = __esm({
   "node_modules/zod/v4/locales/ms.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error35 = () => {
@@ -58647,6 +58868,7 @@ function ne_default() {
 var error36;
 var init_ne = __esm({
   "node_modules/zod/v4/locales/ne.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error36 = () => {
@@ -58766,6 +58988,7 @@ function nl_default() {
 var error37;
 var init_nl = __esm({
   "node_modules/zod/v4/locales/nl.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error37 = () => {
@@ -58889,6 +59112,7 @@ function nn_default() {
 var error38;
 var init_nn = __esm({
   "node_modules/zod/v4/locales/nn.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error38 = () => {
@@ -59010,6 +59234,7 @@ function no_default() {
 var error39;
 var init_no = __esm({
   "node_modules/zod/v4/locales/no.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error39 = () => {
@@ -59131,6 +59356,7 @@ function ota_default() {
 var error40;
 var init_ota = __esm({
   "node_modules/zod/v4/locales/ota.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error40 = () => {
@@ -59253,6 +59479,7 @@ function ps_default() {
 var error41;
 var init_ps = __esm({
   "node_modules/zod/v4/locales/ps.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error41 = () => {
@@ -59380,6 +59607,7 @@ function pl_default() {
 var error42;
 var init_pl = __esm({
   "node_modules/zod/v4/locales/pl.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error42 = () => {
@@ -59502,6 +59730,7 @@ function pt_default() {
 var error43;
 var init_pt = __esm({
   "node_modules/zod/v4/locales/pt.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error43 = () => {
@@ -59653,6 +59882,7 @@ function pt_BR_default() {
 var error44;
 var init_pt_BR = __esm({
   "node_modules/zod/v4/locales/pt-BR.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error44 = () => {
@@ -59805,6 +60035,7 @@ function ro_default() {
 var error45;
 var init_ro = __esm({
   "node_modules/zod/v4/locales/ro.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error45 = () => {
@@ -59950,6 +60181,7 @@ function ru_default() {
 var error46;
 var init_ru = __esm({
   "node_modules/zod/v4/locales/ru.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error46 = () => {
@@ -60111,6 +60343,7 @@ function sk_default() {
 var error47;
 var init_sk = __esm({
   "node_modules/zod/v4/locales/sk.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error47 = () => {
@@ -60235,6 +60468,7 @@ function sl_default() {
 var error48;
 var init_sl = __esm({
   "node_modules/zod/v4/locales/sl.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error48 = () => {
@@ -60357,6 +60591,7 @@ function sv_default() {
 var error49;
 var init_sv = __esm({
   "node_modules/zod/v4/locales/sv.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error49 = () => {
@@ -60480,6 +60715,7 @@ function ta_default() {
 var error50;
 var init_ta = __esm({
   "node_modules/zod/v4/locales/ta.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error50 = () => {
@@ -60603,6 +60839,7 @@ function tg_default() {
 var error51;
 var init_tg = __esm({
   "node_modules/zod/v4/locales/tg.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error51 = () => {
@@ -60727,6 +60964,7 @@ function th_default() {
 var error52;
 var init_th = __esm({
   "node_modules/zod/v4/locales/th.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error52 = () => {
@@ -60850,6 +61088,7 @@ function tk_default() {
 var error53;
 var init_tk = __esm({
   "node_modules/zod/v4/locales/tk.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error53 = () => {
@@ -60965,6 +61204,7 @@ function tr_default() {
 var error54;
 var init_tr = __esm({
   "node_modules/zod/v4/locales/tr.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error54 = () => {
@@ -61083,6 +61323,7 @@ function uk_default() {
 var error55;
 var init_uk = __esm({
   "node_modules/zod/v4/locales/uk.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error55 = () => {
@@ -61201,6 +61442,7 @@ function ua_default() {
 }
 var init_ua = __esm({
   "node_modules/zod/v4/locales/ua.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_uk();
   }
@@ -61215,6 +61457,7 @@ function ur_default() {
 var error56;
 var init_ur = __esm({
   "node_modules/zod/v4/locales/ur.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error56 = () => {
@@ -61338,6 +61581,7 @@ function uz_default() {
 var error57;
 var init_uz = __esm({
   "node_modules/zod/v4/locales/uz.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error57 = () => {
@@ -61459,6 +61703,7 @@ function vi_default() {
 var error58;
 var init_vi = __esm({
   "node_modules/zod/v4/locales/vi.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error58 = () => {
@@ -61580,6 +61825,7 @@ function zh_CN_default() {
 var error59;
 var init_zh_CN = __esm({
   "node_modules/zod/v4/locales/zh-CN.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error59 = () => {
@@ -61702,6 +61948,7 @@ function zh_TW_default() {
 var error60;
 var init_zh_TW = __esm({
   "node_modules/zod/v4/locales/zh-TW.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error60 = () => {
@@ -61822,6 +62069,7 @@ function yo_default() {
 var error61;
 var init_yo = __esm({
   "node_modules/zod/v4/locales/yo.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     error61 = () => {
@@ -62002,6 +62250,7 @@ __export(locales_exports, {
 });
 var init_locales = __esm({
   "node_modules/zod/v4/locales/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_ar();
     init_az();
@@ -62076,6 +62325,7 @@ function registry() {
 var _a2, $output, $input, $ZodRegistry, globalRegistry;
 var init_registries = __esm({
   "node_modules/zod/v4/core/registries.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     $output = /* @__PURE__ */ Symbol("ZodOutput");
     $input = /* @__PURE__ */ Symbol("ZodInput");
@@ -63679,6 +63929,7 @@ function generateTransformCheck(doc, ctx, schema, accessor) {
 var INVALID, FALLBACK_FLAG, ZodCompileAsyncError, ZodCompileUnsupportedError, WHEN_DEFAULTED_CHECKS, PATTERN_IS_COMPLETE;
 var init_compile = __esm({
   "node_modules/zod/v4/core/compile.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core();
     init_doc();
@@ -64792,6 +65043,7 @@ function _stringFormat(Class2, format, fnOrRegex, _params = {}) {
 var TimePrecision;
 var init_api = __esm({
   "node_modules/zod/v4/core/api.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_checks();
     init_registries();
@@ -65324,6 +65576,7 @@ function isTransforming(_schema, _ctx) {
 var FOLDABLE_KEYS, UNION_KEYS, createToJSONSchemaMethod, createStandardJSONSchemaMethod;
 var init_to_json_schema = __esm({
   "node_modules/zod/v4/core/to-json-schema.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_registries();
     init_util();
@@ -65496,6 +65749,7 @@ function toJSONSchema(input2, params) {
 var narrowMin, narrowMax, narrowBoth, addDivisor, addPattern, intersectMime, setFormat, minContributor, maxContributor, formatContributor, contributors, formatMap, exactPatterns, exactPattern, stringProcessor, numberProcessor, booleanProcessor, bigintProcessor, symbolProcessor, nullProcessor, undefinedProcessor, voidProcessor, neverProcessor, anyProcessor, unknownProcessor, dateProcessor, enumProcessor, literalProcessor, nanProcessor, templateLiteralProcessor, fileProcessor, successProcessor, customProcessor, functionProcessor, transformProcessor, mapProcessor, setProcessor, arrayProcessor, objectProcessor, unionProcessor, intersectionProcessor, tupleProcessor, pendingRecords, recordProcessor, nullableProcessor, nonoptionalProcessor, UNREPRESENTABLE_DEFAULT, defaultProcessor, prefaultProcessor, catchProcessor, pipeProcessor, readonlyProcessor, promiseProcessor, optionalProcessor, lazyProcessor, allProcessors;
 var init_json_schema_processors = __esm({
   "node_modules/zod/v4/core/json-schema-processors.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_regexes();
     init_schemas();
@@ -66107,6 +66361,7 @@ var init_json_schema_processors = __esm({
 var JSONSchemaGenerator;
 var init_json_schema_generator = __esm({
   "node_modules/zod/v4/core/json-schema-generator.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_json_schema_processors();
     init_to_json_schema();
@@ -66193,6 +66448,7 @@ var init_json_schema_generator = __esm({
 var json_schema_exports2 = {};
 var init_json_schema2 = __esm({
   "node_modules/zod/v4/core/json-schema.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
   }
 });
@@ -66515,6 +66771,7 @@ __export(core_exports2, {
 });
 var init_core2 = __esm({
   "node_modules/zod/v4/core/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core();
     init_parse();
@@ -66574,6 +66831,7 @@ __export(checks_exports2, {
 });
 var init_checks2 = __esm({
   "node_modules/zod/v4/classic/checks.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core2();
   }
@@ -66597,6 +66855,7 @@ function _lazyMethod(proto, key, make) {
 var _installedErrorProtos, initializer2, ZodError, ZodRealError;
 var init_errors2 = __esm({
   "node_modules/zod/v4/classic/errors.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core2();
     init_core2();
@@ -66638,6 +66897,7 @@ var init_errors2 = __esm({
 var parse3, parseAsync2, safeParse2, safeParseAsync2, encode2, decode2, encodeAsync2, decodeAsync2, safeEncode2, safeDecode2, safeEncodeAsync2, safeDecodeAsync2;
 var init_parse2 = __esm({
   "node_modules/zod/v4/classic/parse.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core2();
     init_errors2();
@@ -67332,6 +67592,7 @@ function preprocess(fn, schema) {
 var ZodType, _ZodString, ZodString, ZodStringFormat, ZodISODateTime, ZodISODate, ZodISOTime, ZodISODuration, ZodEmail, ZodGUID, ZodUUID, ZodURL, ZodEmoji, ZodNanoID, ZodCUID, ZodCUID2, ZodULID, ZodXID, ZodKSUID, ZodIPv4, ZodMAC, ZodIPv6, ZodCIDRv4, ZodCIDRv6, ZodBase64, ZodBase64URL, ZodE164, ZodCreditCard, ZodIBAN, ZodJWT, ZodCustomStringFormat, ZodNumber, ZodNumberFormat, ZodBoolean, ZodBigInt, ZodBigIntFormat, ZodSymbol, ZodUndefined, ZodNull, ZodAny, ZodUnknown, ZodNever, ZodVoid, ZodDate, ZodArray, ZodObject, ZodUnion, ZodXor, ZodDiscriminatedUnion, ZodIntersection, ZodTuple, ZodRecord, ZodMap, ZodSet, ZodEnum, ZodLiteral, ZodFile, ZodTransform, ZodOptional, ZodExactOptional, ZodNullable, ZodDefault, ZodPrefault, ZodNonOptional, ZodSuccess, ZodCatch, ZodNaN, ZodPipe, ZodCodec, ZodPreprocess, ZodReadonly, ZodTemplateLiteral, ZodLazy, ZodPromise, ZodFunction, ZodCustom, describe4, meta2, ZodInstanceOf, stringbool;
 var init_schemas2 = __esm({
   "node_modules/zod/v4/classic/schemas.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core2();
     init_core2();
@@ -68327,6 +68588,7 @@ function getErrorMap() {
 var ZodIssueCode, ZodFirstPartyTypeKind;
 var init_compat = __esm({
   "node_modules/zod/v4/classic/compat.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core2();
     ZodIssueCode = {
@@ -68373,6 +68635,7 @@ function duration2(params) {
 }
 var init_iso = __esm({
   "node_modules/zod/v4/classic/iso.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core2();
     init_schemas2();
@@ -69012,6 +69275,7 @@ function fromJSONSchema(schema, params) {
 var z, RECOGNIZED_KEYS, SCHEMA_KEYWORDS, SCHEMA_MAP_KEYWORDS, fullTime;
 var init_from_json_schema = __esm({
   "node_modules/zod/v4/classic/from-json-schema.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_registries();
     init_util();
@@ -69280,6 +69544,7 @@ function visit(schema, fnOrHandlers) {
 var RESOLVING;
 var init_visit = __esm({
   "node_modules/zod/v4/core/visit.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_schemas();
     init_util();
@@ -69300,6 +69565,7 @@ function deepPartial(schema) {
 }
 var init_deep_partial = __esm({
   "node_modules/zod/v4/classic/deep-partial.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_visit();
     init_schemas2();
@@ -69337,6 +69603,7 @@ function output(schema) {
 }
 var init_in_out = __esm({
   "node_modules/zod/v4/classic/in-out.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_util();
     init_visit();
@@ -69370,6 +69637,7 @@ function date5(params) {
 }
 var init_coerce = __esm({
   "node_modules/zod/v4/classic/coerce.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core2();
     init_schemas2();
@@ -69640,6 +69908,7 @@ __export(external_exports, {
 });
 var init_external = __esm({
   "node_modules/zod/v4/classic/external.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_core2();
     init_schemas2();
@@ -69662,6 +69931,7 @@ var init_external = __esm({
 // node_modules/zod/index.js
 var init_zod = __esm({
   "node_modules/zod/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_external();
     init_external();
@@ -69835,6 +70105,7 @@ function restoreUserQuestionError(reason) {
 var TIMED_WAIT_PARAMETER, toolOptionSchema, toolQuestionSchema, toolArgumentsSchema, optionSchema, questionSchema, pendingQuestionsSchema, answerSchema, settledQuestionsSchema, projectionViewSchema, answerBatchSchema, initialFold, userQuestionProjectionDefinition, TimedQuestionWait, __runInitializers3, __esDecorate3, UserQuestionError, UserQuestionService;
 var init_lib24 = __esm({
   "node_modules/@deepseek-ai/dsh-user-questions/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib9();
     init_lib10();
@@ -70329,6 +70600,7 @@ function TerminalSessionId(value) {
 var TerminalBackendCleanupError, TerminalError, TerminalSessionService;
 var init_lib25 = __esm({
   "node_modules/@deepseek-ai/dsh-terminal/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     TerminalBackendCleanupError = class extends AggregateError {
@@ -70682,6 +70954,7 @@ function FsVersion(v) {
 var FsError, FileSystem;
 var init_lib26 = __esm({
   "node_modules/@deepseek-ai/dsh-fs/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib9();
@@ -70740,6 +71013,7 @@ var init_lib26 = __esm({
 var require_sandbox_runner = __commonJS({
   "src/main/sandbox-runner.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { spawnSync, execFileSync } = require("child_process");
     var path2 = require("path");
@@ -70981,6 +71255,7 @@ var require_sandbox_runner = __commonJS({
 var require_filesystem = __commonJS({
   "src/main/ds-compat/filesystem.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var fsp = require("node:fs/promises");
@@ -71330,6 +71605,7 @@ function proxyEnvironmentForChild() {
 var POLICY_ENV_NAMES, PROXY_ENV_NAMES, SUPPORTED_PROTOCOLS, OCTET, LOOPBACK_IPV4, active, inheritedProxyEnv;
 var init_lib27 = __esm({
   "node_modules/@deepseek-ai/dsh-http-proxy/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     POLICY_ENV_NAMES = {
       httpProxy: ["http_proxy", "HTTP_PROXY"],
@@ -71367,6 +71643,7 @@ function scrubbedParentEnv() {
 var DSH_ENV_PREFIX, SENSITIVE_ENV_PATTERN, SubprocessRuntime, SubprocessExecutableNotFoundError;
 var init_lib28 = __esm({
   "node_modules/@deepseek-ai/dsh-subprocess/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib27();
@@ -71417,6 +71694,7 @@ function parseExitStatus(text) {
 var ShellExecutor;
 var init_lib29 = __esm({
   "node_modules/@deepseek-ai/dsh-shell/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib28();
@@ -71439,6 +71717,7 @@ var init_lib29 = __esm({
 var require_vm_paths = __commonJS({
   "src/main/vm/vm-paths.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("fs");
     var path2 = require("path");
@@ -71521,6 +71800,7 @@ var require_vm_paths = __commonJS({
 var require_terminal_shell = __commonJS({
   "src/main/core/terminal-shell.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -71639,6 +71919,7 @@ var require_terminal_shell = __commonJS({
 var require_terminal_process = __commonJS({
   "src/main/ds-compat/terminal-process.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var cp = require("node:child_process");
@@ -71848,6 +72129,7 @@ var require_terminal_process = __commonJS({
 var require_process = __commonJS({
   "src/main/ds-compat/process.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var childProcess = require("node:child_process");
     var fs2 = require("node:fs");
@@ -72424,6 +72706,7 @@ var require_process = __commonJS({
 var require_llm = __commonJS({
   "src/main/ds-compat/llm.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { randomUUID: randomUUID7 } = require("node:crypto");
     var { LlmRuntime: LlmRuntime2, LlmAdapter: LlmAdapter2 } = (init_lib9(), __toCommonJS(lib_exports5));
@@ -72705,6 +72988,7 @@ ${block.attachment.path}` : "[File attachment]"
 var require_settings = __commonJS({
   "src/main/ds-compat/settings.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { Service: Service3 } = (init_lib2(), __toCommonJS(lib_exports2));
     var path2 = require("node:path");
@@ -73033,6 +73317,7 @@ function assembleContextFor(agent2, signal) {
 var import_node_async_hooks, import_types, NO_FACTORY_MESSAGE, NO_INITIATOR_MESSAGE, DISPOSED_INITIATOR_MESSAGE, AgentRegistry;
 var init_lib30 = __esm({
   "node_modules/@deepseek-ai/dsh-agent/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     import_node_async_hooks = require("node:async_hooks");
@@ -73425,6 +73710,7 @@ var init_lib30 = __esm({
 var require_agents = __commonJS({
   "src/main/ds-compat/agents.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var path2 = require("node:path");
     var { randomUUID: randomUUID7 } = require("node:crypto");
@@ -74211,6 +74497,7 @@ function setApprovalPolicy(session, policy) {
 var import_node_crypto2, OUTCOMES, APPROVAL_POLICIES, NEVER_SENTENCE, ASK_SENTENCE, ApprovalService;
 var init_lib31 = __esm({
   "node_modules/@deepseek-ai/dsh-user-approval/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     import_node_crypto2 = require("node:crypto");
     init_lib2();
@@ -74353,6 +74640,7 @@ var init_lib31 = __esm({
 var require_services = __commonJS({
   "src/main/ds-compat/services.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { Service: Service3 } = (init_lib2(), __toCommonJS(lib_exports2));
     var { ApprovalService: ApprovalService2 } = (init_lib31(), __toCommonJS(lib_exports26));
@@ -74439,6 +74727,7 @@ function dshCachePath(optionsOrSegment = {}, ...segments) {
 var import_node_os2, import_node_path3, DSH_HOME_DIR_NAME, DEFAULT_DSH_HOME_DISPLAY, DSH_HOME_ENV;
 var init_lib32 = __esm({
   "node_modules/@deepseek-ai/dsh-home-paths/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     import_node_os2 = require("node:os");
     import_node_path3 = require("node:path");
@@ -74463,6 +74752,7 @@ function apply3(ctx, config2 = {}) {
 var name4, inject3, Config3, DSH_SHELL_KEY, DSH_SESSION_ID_KEY, DSH_PROFILE_KEY, DSH_PROFILE_DIR_KEY, RESERVED_BASH_ENV_KEYS, BASH_ENV_KEY_SUFFIX, ShellEnvRegistry;
 var init_lib33 = __esm({
   "node_modules/@deepseek-ai/dsh-shell-env/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib7();
@@ -74635,6 +74925,7 @@ function assertContiguous(id, events, cursor) {
 var SessionPersistenceNotFoundError, SessionAlreadyExistsError, SessionAlreadyOwnedError, SessionReadOnlyError, SessionOwnershipLostError, SessionHandleClosedError, SessionPersistenceCorruptionError, SessionFormatUnsupportedError, SessionPersistence;
 var init_lib34 = __esm({
   "node_modules/@deepseek-ai/dsh-session-persistence/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib22();
@@ -74736,6 +75027,7 @@ var init_lib34 = __esm({
 var require_persistence = __commonJS({
   "src/main/ds-compat/persistence.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs/promises");
     var path2 = require("node:path");
@@ -74941,6 +75233,7 @@ function cursorBefore(offset) {
 var SessionProjectionRegistry;
 var init_lib35 = __esm({
   "node_modules/@deepseek-ai/dsh-session-projection/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib22();
@@ -75342,6 +75635,7 @@ var init_lib35 = __esm({
 var require_util = __commonJS({
   "node_modules/zod/v4/core/util.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.CONSTANT_CATCH = exports2.Class = exports2.BIGINT_FORMAT_RANGES = exports2.NUMBER_FORMAT_RANGES = exports2.primitiveTypes = exports2.propertyKeyTypes = exports2.getParsedType = exports2.allowsEval = exports2.captureStackTrace = void 0;
@@ -76199,6 +76493,7 @@ var require_util = __commonJS({
 var require_core = __commonJS({
   "node_modules/zod/v4/core/core.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var _a3;
     Object.defineProperty(exports2, "__esModule", { value: true });
@@ -76349,6 +76644,7 @@ var require_core = __commonJS({
 var require_errors = __commonJS({
   "node_modules/zod/v4/core/errors.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -76599,6 +76895,7 @@ var require_errors = __commonJS({
 var require_parse = __commonJS({
   "node_modules/zod/v4/core/parse.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -76826,6 +77123,7 @@ var require_parse = __commonJS({
 var require_regexes = __commonJS({
   "node_modules/zod/v4/core/regexes.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -76993,6 +77291,7 @@ var require_regexes = __commonJS({
 var require_checks = __commonJS({
   "node_modules/zod/v4/core/checks.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -77523,6 +77822,7 @@ var require_checks = __commonJS({
 var require_doc = __commonJS({
   "node_modules/zod/v4/core/doc.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Doc = void 0;
@@ -77589,6 +77889,7 @@ ${content.join("\n")}
 var require_versions = __commonJS({
   "node_modules/zod/v4/core/versions.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.version = void 0;
@@ -77620,6 +77921,7 @@ var require_versions = __commonJS({
 var require_schemas = __commonJS({
   "node_modules/zod/v4/core/schemas.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -80113,6 +80415,7 @@ var require_schemas = __commonJS({
 var require_memoizer = __commonJS({
   "node_modules/zod/v4/core/memoizer.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -80446,6 +80749,7 @@ var require_memoizer = __commonJS({
 var require_ar = __commonJS({
   "node_modules/zod/v4/locales/ar.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -80595,6 +80899,7 @@ var require_ar = __commonJS({
 var require_az = __commonJS({
   "node_modules/zod/v4/locales/az.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -80743,6 +81048,7 @@ var require_az = __commonJS({
 var require_be = __commonJS({
   "node_modules/zod/v4/locales/be.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -80949,6 +81255,7 @@ var require_be = __commonJS({
 var require_bg = __commonJS({
   "node_modules/zod/v4/locales/bg.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -81112,6 +81419,7 @@ var require_bg = __commonJS({
 var require_bn = __commonJS({
   "node_modules/zod/v4/locales/bn.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -81263,6 +81571,7 @@ var require_bn = __commonJS({
 var require_ca = __commonJS({
   "node_modules/zod/v4/locales/ca.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -81414,6 +81723,7 @@ var require_ca = __commonJS({
 var require_ckb = __commonJS({
   "node_modules/zod/v4/locales/ckb.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -81584,6 +81894,7 @@ var require_ckb = __commonJS({
 var require_cs = __commonJS({
   "node_modules/zod/v4/locales/cs.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -81738,6 +82049,7 @@ var require_cs = __commonJS({
 var require_da = __commonJS({
   "node_modules/zod/v4/locales/da.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -81896,6 +82208,7 @@ var require_da = __commonJS({
 var require_de = __commonJS({
   "node_modules/zod/v4/locales/de.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -82047,6 +82360,7 @@ var require_de = __commonJS({
 var require_el = __commonJS({
   "node_modules/zod/v4/locales/el.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -82197,6 +82511,7 @@ var require_el = __commonJS({
 var require_en = __commonJS({
   "node_modules/zod/v4/locales/en.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -82359,6 +82674,7 @@ var require_en = __commonJS({
 var require_eo = __commonJS({
   "node_modules/zod/v4/locales/eo.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -82511,6 +82827,7 @@ var require_eo = __commonJS({
 var require_es = __commonJS({
   "node_modules/zod/v4/locales/es.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -82685,6 +83002,7 @@ var require_es = __commonJS({
 var require_fa = __commonJS({
   "node_modules/zod/v4/locales/fa.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -82842,6 +83160,7 @@ var require_fa = __commonJS({
 var require_fi = __commonJS({
   "node_modules/zod/v4/locales/fi.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -82997,6 +83316,7 @@ var require_fi = __commonJS({
 var require_fr = __commonJS({
   "node_modules/zod/v4/locales/fr.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -83164,6 +83484,7 @@ var require_fr = __commonJS({
 var require_fr_CA = __commonJS({
   "node_modules/zod/v4/locales/fr-CA.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -83314,6 +83635,7 @@ var require_fr_CA = __commonJS({
 var require_gu = __commonJS({
   "node_modules/zod/v4/locales/gu.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -83465,6 +83787,7 @@ var require_gu = __commonJS({
 var require_he = __commonJS({
   "node_modules/zod/v4/locales/he.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -83704,6 +84027,7 @@ var require_he = __commonJS({
 var require_hi = __commonJS({
   "node_modules/zod/v4/locales/hi.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -83853,6 +84177,7 @@ var require_hi = __commonJS({
 var require_hr = __commonJS({
   "node_modules/zod/v4/locales/hr.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -84017,6 +84342,7 @@ var require_hr = __commonJS({
 var require_hu = __commonJS({
   "node_modules/zod/v4/locales/hu.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -84168,6 +84494,7 @@ var require_hu = __commonJS({
 var require_hy = __commonJS({
   "node_modules/zod/v4/locales/hy.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -84364,6 +84691,7 @@ var require_hy = __commonJS({
 var require_id = __commonJS({
   "node_modules/zod/v4/locales/id.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -84513,6 +84841,7 @@ var require_id = __commonJS({
 var require_is = __commonJS({
   "node_modules/zod/v4/locales/is.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -84665,6 +84994,7 @@ var require_is = __commonJS({
 var require_it = __commonJS({
   "node_modules/zod/v4/locales/it.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -84816,6 +85146,7 @@ var require_it = __commonJS({
 var require_ja = __commonJS({
   "node_modules/zod/v4/locales/ja.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -84966,6 +85297,7 @@ var require_ja = __commonJS({
 var require_ka = __commonJS({
   "node_modules/zod/v4/locales/ka.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -85121,6 +85453,7 @@ var require_ka = __commonJS({
 var require_km = __commonJS({
   "node_modules/zod/v4/locales/km.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -85274,6 +85607,7 @@ var require_km = __commonJS({
 var require_kh = __commonJS({
   "node_modules/zod/v4/locales/kh.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -85292,6 +85626,7 @@ var require_kh = __commonJS({
 var require_kn = __commonJS({
   "node_modules/zod/v4/locales/kn.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -85445,6 +85780,7 @@ var require_kn = __commonJS({
 var require_ko = __commonJS({
   "node_modules/zod/v4/locales/ko.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -85599,6 +85935,7 @@ var require_ko = __commonJS({
 var require_lt = __commonJS({
   "node_modules/zod/v4/locales/lt.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -85844,6 +86181,7 @@ var require_lt = __commonJS({
 var require_mk = __commonJS({
   "node_modules/zod/v4/locales/mk.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -85996,6 +86334,7 @@ var require_mk = __commonJS({
 var require_ms = __commonJS({
   "node_modules/zod/v4/locales/ms.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -86146,6 +86485,7 @@ var require_ms = __commonJS({
 var require_ne = __commonJS({
   "node_modules/zod/v4/locales/ne.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -86295,6 +86635,7 @@ var require_ne = __commonJS({
 var require_nl = __commonJS({
   "node_modules/zod/v4/locales/nl.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -86448,6 +86789,7 @@ var require_nl = __commonJS({
 var require_nn = __commonJS({
   "node_modules/zod/v4/locales/nn.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -86599,6 +86941,7 @@ var require_nn = __commonJS({
 var require_no = __commonJS({
   "node_modules/zod/v4/locales/no.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -86750,6 +87093,7 @@ var require_no = __commonJS({
 var require_ota = __commonJS({
   "node_modules/zod/v4/locales/ota.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -86902,6 +87246,7 @@ var require_ota = __commonJS({
 var require_ps = __commonJS({
   "node_modules/zod/v4/locales/ps.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -87059,6 +87404,7 @@ var require_ps = __commonJS({
 var require_pl = __commonJS({
   "node_modules/zod/v4/locales/pl.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -87211,6 +87557,7 @@ var require_pl = __commonJS({
 var require_pt = __commonJS({
   "node_modules/zod/v4/locales/pt.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -87392,6 +87739,7 @@ var require_pt = __commonJS({
 var require_pt_BR = __commonJS({
   "node_modules/zod/v4/locales/pt-BR.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -87574,6 +87922,7 @@ var require_pt_BR = __commonJS({
 var require_ro = __commonJS({
   "node_modules/zod/v4/locales/ro.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -87734,6 +88083,7 @@ var require_ro = __commonJS({
 var require_ru = __commonJS({
   "node_modules/zod/v4/locales/ru.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -87940,6 +88290,7 @@ var require_ru = __commonJS({
 var require_sk = __commonJS({
   "node_modules/zod/v4/locales/sk.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -88094,6 +88445,7 @@ var require_sk = __commonJS({
 var require_sl = __commonJS({
   "node_modules/zod/v4/locales/sl.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -88246,6 +88598,7 @@ var require_sl = __commonJS({
 var require_sv = __commonJS({
   "node_modules/zod/v4/locales/sv.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -88399,6 +88752,7 @@ var require_sv = __commonJS({
 var require_ta = __commonJS({
   "node_modules/zod/v4/locales/ta.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -88552,6 +88906,7 @@ var require_ta = __commonJS({
 var require_tg = __commonJS({
   "node_modules/zod/v4/locales/tg.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -88706,6 +89061,7 @@ var require_tg = __commonJS({
 var require_th = __commonJS({
   "node_modules/zod/v4/locales/th.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -88859,6 +89215,7 @@ var require_th = __commonJS({
 var require_tk = __commonJS({
   "node_modules/zod/v4/locales/tk.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -89004,6 +89361,7 @@ var require_tk = __commonJS({
 var require_tr = __commonJS({
   "node_modules/zod/v4/locales/tr.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -89152,6 +89510,7 @@ var require_tr = __commonJS({
 var require_uk = __commonJS({
   "node_modules/zod/v4/locales/uk.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -89303,6 +89662,7 @@ var require_uk = __commonJS({
 var require_ua = __commonJS({
   "node_modules/zod/v4/locales/ua.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -89321,6 +89681,7 @@ var require_ua = __commonJS({
 var require_ur = __commonJS({
   "node_modules/zod/v4/locales/ur.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -89474,6 +89835,7 @@ var require_ur = __commonJS({
 var require_uz = __commonJS({
   "node_modules/zod/v4/locales/uz.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -89625,6 +89987,7 @@ var require_uz = __commonJS({
 var require_vi = __commonJS({
   "node_modules/zod/v4/locales/vi.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -89776,6 +90139,7 @@ var require_vi = __commonJS({
 var require_zh_CN = __commonJS({
   "node_modules/zod/v4/locales/zh-CN.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -89928,6 +90292,7 @@ var require_zh_CN = __commonJS({
 var require_zh_TW = __commonJS({
   "node_modules/zod/v4/locales/zh-TW.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -90078,6 +90443,7 @@ var require_zh_TW = __commonJS({
 var require_yo = __commonJS({
   "node_modules/zod/v4/locales/yo.cjs"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -90228,6 +90594,7 @@ var require_yo = __commonJS({
 var require_locales = __commonJS({
   "node_modules/zod/v4/locales/index.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -90510,6 +90877,7 @@ var require_locales = __commonJS({
 var require_registries = __commonJS({
   "node_modules/zod/v4/core/registries.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var _a3;
     Object.defineProperty(exports2, "__esModule", { value: true });
@@ -90586,6 +90954,7 @@ var require_registries = __commonJS({
 var require_compile = __commonJS({
   "node_modules/zod/v4/core/compile.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -92250,6 +92619,7 @@ ${code}
 var require_api = __commonJS({
   "node_modules/zod/v4/core/api.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -93487,6 +93857,7 @@ var require_api = __commonJS({
 var require_to_json_schema = __commonJS({
   "node_modules/zod/v4/core/to-json-schema.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.createStandardJSONSchemaMethod = exports2.createToJSONSchemaMethod = void 0;
@@ -94053,6 +94424,7 @@ Set the \`cycles\` parameter to \`"ref"\` to resolve cyclical schemas with defs.
 var require_json_schema_processors = __commonJS({
   "node_modules/zod/v4/core/json-schema-processors.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -94897,6 +95269,7 @@ var require_json_schema_processors = __commonJS({
 var require_json_schema_generator = __commonJS({
   "node_modules/zod/v4/core/json-schema-generator.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.JSONSchemaGenerator = void 0;
@@ -95002,6 +95375,7 @@ var require_json_schema_generator = __commonJS({
 var require_json_schema = __commonJS({
   "node_modules/zod/v4/core/json-schema.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     (function() {
@@ -95027,6 +95401,7 @@ var require_json_schema = __commonJS({
 var require_core2 = __commonJS({
   "node_modules/zod/v4/core/index.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -95111,6 +95486,7 @@ var require_core2 = __commonJS({
 var require_checks2 = __commonJS({
   "node_modules/zod/v4/classic/checks.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.slugify = exports2.toUpperCase = exports2.toLowerCase = exports2.trim = exports2.normalize = exports2.overwrite = exports2.mime = exports2.properties = exports2.property = exports2.endsWith = exports2.startsWith = exports2.includes = exports2.uppercase = exports2.lowercase = exports2.regex = exports2.length = exports2.minLength = exports2.maxLength = exports2.size = exports2.minSize = exports2.maxSize = exports2.multipleOf = exports2.nonnegative = exports2.nonpositive = exports2.negative = exports2.positive = exports2.gte = exports2.gt = exports2.lte = exports2.lt = void 0;
@@ -95228,6 +95604,7 @@ var require_checks2 = __commonJS({
 var require_errors2 = __commonJS({
   "node_modules/zod/v4/classic/errors.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -95328,6 +95705,7 @@ var require_errors2 = __commonJS({
 var require_parse2 = __commonJS({
   "node_modules/zod/v4/classic/parse.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -95402,6 +95780,7 @@ var require_parse2 = __commonJS({
 var require_schemas2 = __commonJS({
   "node_modules/zod/v4/classic/schemas.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -97029,6 +97408,7 @@ var require_schemas2 = __commonJS({
 var require_compat = __commonJS({
   "node_modules/zod/v4/classic/compat.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -97116,6 +97496,7 @@ var require_compat = __commonJS({
 var require_iso = __commonJS({
   "node_modules/zod/v4/classic/iso.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -97200,6 +97581,7 @@ var require_iso = __commonJS({
 var require_from_json_schema = __commonJS({
   "node_modules/zod/v4/classic/from-json-schema.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -97989,6 +98371,7 @@ var require_from_json_schema = __commonJS({
 var require_visit = __commonJS({
   "node_modules/zod/v4/core/visit.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -98197,6 +98580,7 @@ var require_visit = __commonJS({
 var require_deep_partial = __commonJS({
   "node_modules/zod/v4/classic/deep-partial.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -98262,6 +98646,7 @@ var require_deep_partial = __commonJS({
 var require_in_out = __commonJS({
   "node_modules/zod/v4/classic/in-out.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -98347,6 +98732,7 @@ var require_in_out = __commonJS({
 var require_coerce = __commonJS({
   "node_modules/zod/v4/classic/coerce.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -98421,6 +98807,7 @@ var require_coerce = __commonJS({
 var require_external = __commonJS({
   "node_modules/zod/v4/classic/external.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -98588,6 +98975,7 @@ var require_external = __commonJS({
 var require_zod = __commonJS({
   "node_modules/zod/index.cjs"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -98648,6 +99036,7 @@ var require_zod = __commonJS({
 var require_projections = __commonJS({
   "src/main/ds-compat/projections.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { z: z2 } = require_zod();
     function setupProjections(ctx) {
@@ -98730,6 +99119,7 @@ function offloadMessageImages(message, indexes) {
 }
 var init_project_message = __esm({
   "node_modules/@deepseek-ai/dsh-compaction-image-offload/lib/types/project-message.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib4();
   }
@@ -98745,6 +99135,7 @@ function isIndex(value) {
 var imageOffloadProjection;
 var init_projection = __esm({
   "node_modules/@deepseek-ai/dsh-compaction-image-offload/lib/types/projection.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_project_message();
     imageOffloadProjection = {
@@ -98789,6 +99180,7 @@ var init_projection = __esm({
 var currentSessionMessageProjections;
 var init_message_projections = __esm({
   "node_modules/@deepseek-ai/dsh-session-format-catalog/lib/types/message-projections.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_projection();
     currentSessionMessageProjections = [imageOffloadProjection];
@@ -98883,6 +99275,7 @@ function foldSessionTitle(events) {
 var OSC_SEQUENCE, CSI_SEQUENCE, ESC_SEQUENCE, CONTROL_CHARACTER, DIRECTIONAL_CONTROL, SessionTitleInvalidError, EMPTY_TITLE_INPUT, sessionTitleUserMessageSchema, titleInputStateSchema, titleViewSchema, titleProjectionDefinition, SessionTitleService;
 var init_lib36 = __esm({
   "node_modules/@deepseek-ai/dsh-session-title/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib7();
@@ -99938,6 +100331,7 @@ function SessionSearchCursor(value) {
 var SESSION_QUERY_READ_WINDOW_MAX, SESSION_QUERY_DEFAULT_PERSISTED_INSPECT_CONCURRENCY, SESSION_QUERY_DEFAULT_PREPARED_SESSION_CACHE_SIZE, SessionQueryError, SessionCorpus, SessionObservationReader, SessionQueryEngine;
 var init_lib37 = __esm({
   "node_modules/@deepseek-ai/dsh-session-query/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_message_projections();
     init_lib2();
@@ -100524,6 +100918,7 @@ var init_lib37 = __esm({
 var require_session_query = __commonJS({
   "src/main/ds-compat/session-query.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { createHash: createHash2 } = require("node:crypto");
     var { SessionQueryEngine: SessionQueryEngine2 } = (init_lib37(), __toCommonJS(lib_exports30));
@@ -100802,6 +101197,7 @@ function validateConfigKeys(config2) {
 var CHARS_PER_TOKEN, BLOCK_OVERHEAD, tokenCount, sessionSeq, breakdownSchema, contextBreakdownProjectionDefinition, zeroBuckets, bucketsFrom, bucketsEqual, addReplacing, projectionSchema, tokenUsageStateSchema, pressureSchema, pressureFrom, contextPressureStateSchema, tokenUsageProjectionDefinition, contextPressureProjectionDefinition, TokenMeter;
 var init_lib38 = __esm({
   "node_modules/@deepseek-ai/dsh-token-meter/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib7();
@@ -101219,6 +101615,7 @@ function createLazyRequire(specifier, parentURL) {
 var import_node_module;
 var init_lib39 = __esm({
   "node_modules/@deepseek-ai/dsh-lazy-require/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     import_node_module = require("node:module");
   }
@@ -101836,6 +102233,7 @@ function abortReason(signal) {
 var import_node_path4, import_node_crypto3, import_node_fs2, import_promises2, CompressionLimiter, IMAGE_ENCODING_QUALITIES, requireSharp, MEDIA_TYPES, ID_PATTERN, durableHomes, FILE_ID_PATTERN, WINDOWS_DEVICE_NAME, REQUEST_IMAGE_TRANSFORM_VERSION, DEFAULT_MAX_IMAGE_BYTES, DEFAULT_MAX_IMAGES_PER_MESSAGE, DEFAULT_MAX_MESSAGE_IMAGE_BYTES, DEFAULT_MAX_IMAGE_PIXELS, DEFAULT_MAX_IMAGE_DIMENSION, DEFAULT_NORMALIZED_IMAGE_MAX_PIXELS, DEFAULT_NORMALIZED_IMAGE_MAX_DIMENSION, DEFAULT_NORMALIZED_IMAGE_MAX_BYTES, DEFAULT_IMAGE_COMPRESSION_CONCURRENCY, MAX_IMAGE_COMPRESSION_CONCURRENCY, SharedRequest, LocalAttachmentStore;
 var init_lib40 = __esm({
   "node_modules/@deepseek-ai/dsh-attachment-local/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     import_node_path4 = require("node:path");
     init_lib7();
@@ -102090,6 +102488,7 @@ function normalizeExtension(ext) {
 var LspError, EXTENSION_PATTERN, Lsp;
 var init_lib41 = __esm({
   "node_modules/@deepseek-ai/dsh-lsp/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib9();
@@ -102146,6 +102545,7 @@ var init_lib41 = __esm({
 var require_language = __commonJS({
   "src/main/ds-compat/language.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var path2 = require("node:path");
     var { pathToFileURL } = require("node:url");
@@ -102240,6 +102640,7 @@ function WorkspaceId(id) {
 var import_node_crypto4, import_promises3, import_node_path5, WorkspaceMoveInvalidError, unchangedSentinel, WorkspaceEntity, workspaceId, sessionId, workspaceRecord, workspacePendingMutation, workspaceDomainState, workspaceDomainSpec, WorkspaceUnknownSessionError, WorkspaceActiveSessionError, WorkspaceArchivedSessionPinError, WorkspaceOrderInvalidError, sameIds, compareHeaders, WorkspaceRegistry, sameSessionIds;
 var init_lib42 = __esm({
   "node_modules/@deepseek-ai/dsh-workspace/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     import_node_crypto4 = require("node:crypto");
     import_promises3 = require("node:fs/promises");
@@ -103146,6 +103547,7 @@ function isCompactCheckpointSource(source) {
 var balanceCacheBySession, COMPACT_CHECKPOINT_MARKER, ManualCompactionError, CompactionEngine;
 var init_lib43 = __esm({
   "node_modules/@deepseek-ai/dsh-compaction/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     balanceCacheBySession = /* @__PURE__ */ new WeakMap();
@@ -103186,6 +103588,7 @@ function canonicalClientTimeZone(value) {
 var IANA_TIME_ZONE;
 var init_lib44 = __esm({
   "node_modules/@deepseek-ai/dsh-util-time/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     IANA_TIME_ZONE = /^[A-Za-z][A-Za-z0-9_+.-]*(?:\/[A-Za-z0-9_+.-]+)+$/;
   }
@@ -103217,6 +103620,7 @@ function chunkedListSchema(valueSchema) {
 var CHUNK_CAPACITY;
 var init_lib45 = __esm({
   "node_modules/@deepseek-ai/dsh-chunked-list/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_zod();
     CHUNK_CAPACITY = 64;
@@ -103988,6 +104392,7 @@ async function settleRun(run) {
 var import_node_crypto5, import_node_fs3, import_node_path6, SubagentError, SESSION_ID_SCHEMA, CONTROL_ID_SCHEMAS, AssistantOutputFold, SubagentDepthError, SUBAGENT_DELEGATION_CONTEXT, SubagentInbox, ActivationPool, ChildLock, ContinuableActivationRegistry, SUBAGENT_DESCRIPTOR_VERSION, DESCRIPTOR_BASE_KEYS, ONE_SHOT_DESCRIPTOR_KEYS, CONTINUABLE_DESCRIPTOR_KEYS, TOOL_FILTER_KEYS, sessionIdSchema, oneShotCatalogSchema, continuableCatalogSchema, unknownCatalogSchema, eventDataSchema, viewSchema, stateSchema, subagentCatalogProjectionDefinition, adjacentAgentSendMessageTool, deliverSubagentPrompt, __addDisposableResource$2, __disposeResources$2, SubagentContinuationManager, __addDisposableResource$1, __disposeResources$1, __addDisposableResource2, __disposeResources2, activeIntervalSchema, projectionSchema2, subagentTimingProjectionDefinition, identityValueSchema, identitySchema, identityStateSchema, subagentIdentityProjectionDefinition, MAX_SUBAGENT_DIAGNOSTIC_BYTES, DIAGNOSTIC_TRUNCATION_SUFFIX, utf8Encoder, utf8Decoder, NO_START_CAPABILITIES, __runInitializers4, __esDecorate4, SubagentRuntime;
 var init_lib46 = __esm({
   "node_modules/@deepseek-ai/dsh-subagent/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib7();
     init_lib10();
@@ -105857,6 +106262,7 @@ var init_lib46 = __esm({
 var require_charset = __commonJS({
   "node_modules/compression/node_modules/negotiator/lib/charset.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = preferredCharsets;
     module2.exports.preferredCharsets = preferredCharsets;
@@ -105945,6 +106351,7 @@ var require_charset = __commonJS({
 var require_encoding = __commonJS({
   "node_modules/compression/node_modules/negotiator/lib/encoding.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = preferredEncodings;
     module2.exports.preferredEncodings = preferredEncodings;
@@ -106059,6 +106466,7 @@ var require_encoding = __commonJS({
 var require_language2 = __commonJS({
   "node_modules/compression/node_modules/negotiator/lib/language.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = preferredLanguages;
     module2.exports.preferredLanguages = preferredLanguages;
@@ -106155,6 +106563,7 @@ var require_language2 = __commonJS({
 var require_mediaType = __commonJS({
   "node_modules/compression/node_modules/negotiator/lib/mediaType.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = preferredMediaTypes;
     module2.exports.preferredMediaTypes = preferredMediaTypes;
@@ -106318,6 +106727,7 @@ var require_mediaType = __commonJS({
 var require_negotiator = __commonJS({
   "node_modules/compression/node_modules/negotiator/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var preferredCharsets = require_charset();
     var preferredEncodings = require_encoding();
@@ -106373,6 +106783,7 @@ var require_negotiator = __commonJS({
 // node_modules/safe-buffer/index.js
 var require_safe_buffer = __commonJS({
   "node_modules/safe-buffer/index.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var buffer = require("buffer");
     var Buffer4 = buffer.Buffer;
@@ -106433,6 +106844,7 @@ var require_safe_buffer = __commonJS({
 var require_bytes = __commonJS({
   "node_modules/bytes/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = bytes;
     module2.exports.format = format;
@@ -115870,6 +116282,7 @@ var require_db = __commonJS({
 // node_modules/mime-db/index.js
 var require_mime_db = __commonJS({
   "node_modules/mime-db/index.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = require_db();
   }
@@ -115879,6 +116292,7 @@ var require_mime_db = __commonJS({
 var require_compressible = __commonJS({
   "node_modules/compressible/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var db = require_mime_db();
     var COMPRESSIBLE_TYPE_REGEXP = /^text\/|\+(?:json|text|xml)$/i;
@@ -115902,6 +116316,7 @@ var require_compressible = __commonJS({
 // node_modules/compression/node_modules/ms/index.js
 var require_ms2 = __commonJS({
   "node_modules/compression/node_modules/ms/index.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var s = 1e3;
     var m = s * 60;
@@ -116005,6 +116420,7 @@ var require_ms2 = __commonJS({
 // node_modules/compression/node_modules/debug/src/debug.js
 var require_debug = __commonJS({
   "node_modules/compression/node_modules/debug/src/debug.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     exports2 = module2.exports = createDebug.debug = createDebug["default"] = createDebug;
     exports2.coerce = coerce;
@@ -116111,6 +116527,7 @@ var require_debug = __commonJS({
 // node_modules/compression/node_modules/debug/src/browser.js
 var require_browser = __commonJS({
   "node_modules/compression/node_modules/debug/src/browser.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     exports2 = module2.exports = require_debug();
     exports2.log = log;
@@ -116198,6 +116615,7 @@ var require_browser = __commonJS({
 // node_modules/compression/node_modules/debug/src/node.js
 var require_node = __commonJS({
   "node_modules/compression/node_modules/debug/src/node.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var tty = require("tty");
     var util = require("util");
@@ -116319,6 +116737,7 @@ var require_node = __commonJS({
 // node_modules/compression/node_modules/debug/src/index.js
 var require_src2 = __commonJS({
   "node_modules/compression/node_modules/debug/src/index.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     if (typeof process !== "undefined" && process.type === "renderer") {
       module2.exports = require_browser();
@@ -116332,6 +116751,7 @@ var require_src2 = __commonJS({
 var require_destroy = __commonJS({
   "node_modules/destroy/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var EventEmitter = require("events").EventEmitter;
     var ReadStream = require("fs").ReadStream;
@@ -116420,6 +116840,7 @@ var require_destroy = __commonJS({
 var require_on_headers = __commonJS({
   "node_modules/on-headers/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = onHeaders;
     var http = require("http");
@@ -116519,6 +116940,7 @@ var require_on_headers = __commonJS({
 var require_vary = __commonJS({
   "node_modules/vary/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = vary;
     module2.exports.append = append2;
@@ -116593,6 +117015,7 @@ var require_vary = __commonJS({
 var require_compression = __commonJS({
   "node_modules/compression/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Negotiator2 = require_negotiator();
     var Buffer4 = require_safe_buffer().Buffer;
@@ -116776,6 +117199,7 @@ var require_compression = __commonJS({
 var require_charset2 = __commonJS({
   "node_modules/negotiator/lib/charset.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = preferredCharsets;
     module2.exports.preferredCharsets = preferredCharsets;
@@ -116864,6 +117288,7 @@ var require_charset2 = __commonJS({
 var require_encoding2 = __commonJS({
   "node_modules/negotiator/lib/encoding.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = preferredEncodings;
     module2.exports.preferredEncodings = preferredEncodings;
@@ -116978,6 +117403,7 @@ var require_encoding2 = __commonJS({
 var require_language3 = __commonJS({
   "node_modules/negotiator/lib/language.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = preferredLanguages;
     module2.exports.preferredLanguages = preferredLanguages;
@@ -117074,6 +117500,7 @@ var require_language3 = __commonJS({
 var require_mediaType2 = __commonJS({
   "node_modules/negotiator/lib/mediaType.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = preferredMediaTypes;
     module2.exports.preferredMediaTypes = preferredMediaTypes;
@@ -117237,6 +117664,7 @@ var require_mediaType2 = __commonJS({
 var require_negotiator2 = __commonJS({
   "node_modules/negotiator/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var preferredCharsets = require_charset2();
     var preferredEncodings = require_encoding2();
@@ -117391,6 +117819,7 @@ function createGzipMiddleware(config2) {
 var import_node_http, import_compression, import_negotiator, READY_MARKUP, DEFAULT_COMPRESSION, DEFAULT_COMPRESSION_LEVEL, DEFAULT_COMPRESSION_THRESHOLD_BYTES, WebServer;
 var init_lib47 = __esm({
   "node_modules/@deepseek-ai/dsh-host-webserver/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     import_node_http = require("node:http");
     init_lib2();
@@ -117631,6 +118060,7 @@ var init_lib47 = __esm({
 var require_auxiliary_services = __commonJS({
   "src/main/ds-compat/auxiliary-services.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { randomUUID: randomUUID7 } = require("node:crypto");
     var { Service: Service3 } = (init_lib2(), __toCommonJS(lib_exports2));
@@ -117891,6 +118321,7 @@ function assertServiceablePwshConfig(config2) {
 var import_node_fs4, import_node_path7, ENV_OVERRIDES, ENCODING_PREAMBLE, DEFAULT_GRACE_MS, DEFAULT_MAX_SPILL_BYTES, PwshLocalExecutor;
 var init_lib48 = __esm({
   "node_modules/@deepseek-ai/dsh-pwsh-local/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib7();
     init_lib29();
@@ -118204,6 +118635,7 @@ ${errText}` : ""),
 // node_modules/@xterm/headless/lib-headless/xterm-headless.js
 var require_xterm_headless = __commonJS({
   "node_modules/@xterm/headless/lib-headless/xterm-headless.js"(exports2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (() => {
       "use strict";
@@ -123421,6 +123853,7 @@ function apply4(ctx, config2) {
 var import_node_buffer2, DEFAULT_BASH_SHELL, DEFAULT_BASH_ARGS, DEFAULT_PWSH_ARGS, Config4, CONTROLLED_PROMPT, TerminalSanitizer, requireHeadless, COALESCED_CHUNK_UNITS, BoundedTextBuffer, LocalSendOperation, LocalPtySession, name5, inject4, sandboxModeFences, PWSH_PROMPT_SETUP, BashTerminalBackend;
 var init_lib49 = __esm({
   "node_modules/@deepseek-ai/dsh-terminal-bash/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib25();
     init_lib48();
@@ -124297,6 +124730,7 @@ var init_lib49 = __esm({
 var require_service_setup = __commonJS({
   "src/main/ds-compat/service-setup.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var path2 = require("node:path");
     var os2 = require("node:os");
@@ -124538,6 +124972,7 @@ var require_service_setup = __commonJS({
 var require_compatibility_policy = __commonJS({
   "src/main/ds-compat/compatibility-policy.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs/promises");
     var path2 = require("node:path");
@@ -124567,6 +125002,7 @@ var require_compatibility_policy = __commonJS({
 var require_plugin_host = __commonJS({
   "src/main/ds-compat/plugin-host.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { Context: Context3, Service: Service3, symbols: symbols2 } = (init_lib2(), __toCommonJS(lib_exports2));
     var { pathToFileURL } = require("url");
@@ -125077,6 +125513,7 @@ var require_plugin_host = __commonJS({
 var require_dsl = __commonJS({
   "src/main/automation/dsl.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var MAX_STEPS = 2e5;
     var MAX_DEPTH = 120;
@@ -125787,6 +126224,7 @@ var require_dsl = __commonJS({
 var require_automation_manager = __commonJS({
   "src/main/automation/automation-manager.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("fs");
     var path2 = require("path");
@@ -126245,6 +126683,7 @@ var require_automation_manager = __commonJS({
 var require_guide = __commonJS({
   "src/main/automation/guide.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var GUIDE = {
       trigger: `
@@ -126349,6 +126788,7 @@ curl -X POST http://127.0.0.1:<\u7AEF\u53E3>/trigger/<taskId> \\
 var require_node_extensions = __commonJS({
   "src/agent/node-extensions.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var path2 = require("node:path");
     function createNodeExtensions({
@@ -126510,6 +126950,7 @@ var require_node_extensions = __commonJS({
 var require_data_path = __commonJS({
   "src/main/core/data-path.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var path2 = require("node:path");
     function dataPath(directory, id, suffix = "") {
@@ -126530,6 +126971,7 @@ var require_data_path = __commonJS({
 var require_history = __commonJS({
   "src/main/services/history.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { dataPath } = require_data_path();
     module2.exports = function createHistoryService({
@@ -126973,6 +127415,7 @@ var require_history = __commonJS({
 var require_graphical_environment = __commonJS({
   "src/main/core/graphical-environment.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -127049,6 +127492,7 @@ var require_graphical_environment = __commonJS({
 var require_open_directory = __commonJS({
   "src/main/services/open-directory.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs").promises;
     var path2 = require("node:path");
@@ -127090,6 +127534,7 @@ var require_open_directory = __commonJS({
 // node_modules/adm-zip/util/constants.js
 var require_constants = __commonJS({
   "node_modules/adm-zip/util/constants.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = {
       /* The local file header */
@@ -127310,6 +127755,7 @@ var require_constants = __commonJS({
 // node_modules/adm-zip/util/errors.js
 var require_errors3 = __commonJS({
   "node_modules/adm-zip/util/errors.js"(exports2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var errors = {
       /* Header error messages */
@@ -127374,6 +127820,7 @@ var require_errors3 = __commonJS({
 // node_modules/adm-zip/util/utils.js
 var require_utils = __commonJS({
   "node_modules/adm-zip/util/utils.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fsystem = require("fs");
     var pth = require("path");
@@ -127733,6 +128180,7 @@ var require_utils = __commonJS({
 // node_modules/adm-zip/util/fattr.js
 var require_fattr = __commonJS({
   "node_modules/adm-zip/util/fattr.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var pth = require("path");
     module2.exports = function(path2, { fs: fs2 }) {
@@ -127803,6 +128251,7 @@ var require_fattr = __commonJS({
 // node_modules/adm-zip/util/decoder.js
 var require_decoder = __commonJS({
   "node_modules/adm-zip/util/decoder.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = {
       efs: true,
@@ -127815,6 +128264,7 @@ var require_decoder = __commonJS({
 // node_modules/adm-zip/util/index.js
 var require_util2 = __commonJS({
   "node_modules/adm-zip/util/index.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = require_utils();
     module2.exports.Constants = require_constants();
@@ -127827,6 +128277,7 @@ var require_util2 = __commonJS({
 // node_modules/adm-zip/headers/entryHeader.js
 var require_entryHeader = __commonJS({
   "node_modules/adm-zip/headers/entryHeader.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Utils = require_util2();
     var Constants = Utils.Constants;
@@ -128102,6 +128553,7 @@ var require_entryHeader = __commonJS({
 // node_modules/adm-zip/headers/mainHeader.js
 var require_mainHeader = __commonJS({
   "node_modules/adm-zip/headers/mainHeader.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Utils = require_util2();
     var Constants = Utils.Constants;
@@ -128227,6 +128679,7 @@ var require_mainHeader = __commonJS({
 // node_modules/adm-zip/headers/index.js
 var require_headers = __commonJS({
   "node_modules/adm-zip/headers/index.js"(exports2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     exports2.EntryHeader = require_entryHeader();
     exports2.MainHeader = require_mainHeader();
@@ -128236,6 +128689,7 @@ var require_headers = __commonJS({
 // node_modules/adm-zip/methods/deflater.js
 var require_deflater = __commonJS({
   "node_modules/adm-zip/methods/deflater.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = function(inbuf) {
       var zlib = require("zlib");
@@ -128270,6 +128724,7 @@ var require_deflater = __commonJS({
 // node_modules/adm-zip/methods/inflater.js
 var require_inflater = __commonJS({
   "node_modules/adm-zip/methods/inflater.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var version3 = +(process?.versions?.node ?? "").split(".")[0] || 0;
     var Errors = require_errors3();
@@ -128323,6 +128778,7 @@ var require_inflater = __commonJS({
 var require_zipcrypto = __commonJS({
   "node_modules/adm-zip/methods/zipcrypto.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { randomFillSync } = require("crypto");
     var Errors = require_errors3();
@@ -128439,6 +128895,7 @@ var require_zipcrypto = __commonJS({
 // node_modules/adm-zip/methods/index.js
 var require_methods = __commonJS({
   "node_modules/adm-zip/methods/index.js"(exports2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     exports2.Deflater = require_deflater();
     exports2.Inflater = require_inflater();
@@ -128449,6 +128906,7 @@ var require_methods = __commonJS({
 // node_modules/adm-zip/zipEntry.js
 var require_zipEntry = __commonJS({
   "node_modules/adm-zip/zipEntry.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Utils = require_util2();
     var Headers = require_headers();
@@ -128768,6 +129226,7 @@ var require_zipEntry = __commonJS({
 // node_modules/adm-zip/zipFile.js
 var require_zipFile = __commonJS({
   "node_modules/adm-zip/zipFile.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var ZipEntry = require_zipEntry();
     var Headers = require_headers();
@@ -129118,6 +129577,7 @@ var require_zipFile = __commonJS({
 // node_modules/adm-zip/adm-zip.js
 var require_adm_zip = __commonJS({
   "node_modules/adm-zip/adm-zip.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Utils = require_util2();
     var pth = require("path");
@@ -129936,6 +130396,7 @@ var require_adm_zip = __commonJS({
 var require_safer = __commonJS({
   "node_modules/safer-buffer/safer.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var buffer = require("buffer");
     var Buffer4 = buffer.Buffer;
@@ -130005,6 +130466,7 @@ var require_safer = __commonJS({
 var require_bom_handling = __commonJS({
   "node_modules/iconv-lite/lib/bom-handling.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var BOMChar = "\uFEFF";
     exports2.PrependBOM = PrependBOMWrapper;
@@ -130052,6 +130514,7 @@ var require_bom_handling = __commonJS({
 var require_merge_exports = __commonJS({
   "node_modules/iconv-lite/lib/helpers/merge-exports.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var hasOwn = typeof Object.hasOwn === "undefined" ? Function.call.bind(Object.prototype.hasOwnProperty) : Object.hasOwn;
     function mergeModules(target, module3) {
@@ -130069,6 +130532,7 @@ var require_merge_exports = __commonJS({
 var require_internal = __commonJS({
   "node_modules/iconv-lite/encodings/internal.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Buffer4 = require_safer().Buffer;
     module2.exports = {
@@ -130251,6 +130715,7 @@ var require_internal = __commonJS({
 var require_utf32 = __commonJS({
   "node_modules/iconv-lite/encodings/utf32.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Buffer4 = require_safer().Buffer;
     exports2._utf32 = Utf32Codec;
@@ -130487,6 +130952,7 @@ var require_utf32 = __commonJS({
 var require_utf16 = __commonJS({
   "node_modules/iconv-lite/encodings/utf16.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Buffer4 = require_safer().Buffer;
     exports2.utf16be = Utf16BECodec;
@@ -130631,6 +131097,7 @@ var require_utf16 = __commonJS({
 var require_utf7 = __commonJS({
   "node_modules/iconv-lite/encodings/utf7.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Buffer4 = require_safer().Buffer;
     exports2.utf7 = Utf7Codec;
@@ -130850,6 +131317,7 @@ var require_utf7 = __commonJS({
 var require_sbcs_codec = __commonJS({
   "node_modules/iconv-lite/encodings/sbcs-codec.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Buffer4 = require_safer().Buffer;
     exports2._sbcs = SBCSCodec;
@@ -130913,6 +131381,7 @@ var require_sbcs_codec = __commonJS({
 var require_sbcs_data = __commonJS({
   "node_modules/iconv-lite/encodings/sbcs-data.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = {
       // Not supported by iconv, not sure why.
@@ -131069,6 +131538,7 @@ var require_sbcs_data = __commonJS({
 var require_sbcs_data_generated = __commonJS({
   "node_modules/iconv-lite/encodings/sbcs-data-generated.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = {
       "437": "cp437",
@@ -131525,6 +131995,7 @@ var require_sbcs_data_generated = __commonJS({
 var require_dbcs_codec = __commonJS({
   "node_modules/iconv-lite/encodings/dbcs-codec.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Buffer4 = require_safer().Buffer;
     exports2._dbcs = DBCSCodec;
@@ -133234,6 +133705,7 @@ var require_big5_added = __commonJS({
 var require_dbcs_data = __commonJS({
   "node_modules/iconv-lite/encodings/dbcs-data.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = {
       // == Japanese/ShiftJIS ====================================================
@@ -133482,6 +133954,7 @@ var require_dbcs_data = __commonJS({
 var require_encodings = __commonJS({
   "node_modules/iconv-lite/encodings/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var mergeModules = require_merge_exports();
     var modules = [
@@ -133508,6 +133981,7 @@ var require_encodings = __commonJS({
 var require_streams = __commonJS({
   "node_modules/iconv-lite/lib/streams.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Buffer4 = require_safer().Buffer;
     module2.exports = function(streamModule) {
@@ -133606,6 +134080,7 @@ var require_streams = __commonJS({
 var require_lib = __commonJS({
   "node_modules/iconv-lite/lib/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var Buffer4 = require_safer().Buffer;
     var bomHandling = require_bom_handling();
@@ -133739,6 +134214,7 @@ var require_lib = __commonJS({
 var require_node2 = __commonJS({
   "node_modules/chardet/lib/fs/node.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     var fsModule;
@@ -133756,6 +134232,7 @@ var require_node2 = __commonJS({
 var require_match = __commonJS({
   "node_modules/chardet/lib/match.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.default = (ctx, rec, confidence) => ({
@@ -133770,6 +134247,7 @@ var require_match = __commonJS({
 var require_ascii = __commonJS({
   "node_modules/chardet/lib/encoding/ascii.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -133799,6 +134277,7 @@ var require_ascii = __commonJS({
 var require_utf8 = __commonJS({
   "node_modules/chardet/lib/encoding/utf8.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -133871,6 +134350,7 @@ var require_utf8 = __commonJS({
 var require_unicode = __commonJS({
   "node_modules/chardet/lib/encoding/unicode.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -133971,6 +134451,7 @@ var require_unicode = __commonJS({
 var require_mbcs = __commonJS({
   "node_modules/chardet/lib/encoding/mbcs.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -134717,6 +135198,7 @@ var require_mbcs = __commonJS({
 var require_sbcs = __commonJS({
   "node_modules/chardet/lib/encoding/sbcs.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -139506,6 +139988,7 @@ var require_sbcs = __commonJS({
 var require_iso2022 = __commonJS({
   "node_modules/chardet/lib/encoding/iso2022.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -139626,6 +140109,7 @@ var require_iso2022 = __commonJS({
 var require_utils2 = __commonJS({
   "node_modules/chardet/lib/utils.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.isByteArray = void 0;
@@ -139642,6 +140126,7 @@ var require_utils2 = __commonJS({
 var require_lib2 = __commonJS({
   "node_modules/chardet/lib/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -139823,6 +140308,7 @@ var require_lib2 = __commonJS({
 var require_file_encoding = __commonJS({
   "src/main/file-encoding.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("fs");
     var path2 = require("path");
@@ -139977,6 +140463,7 @@ var require_file_encoding = __commonJS({
 var require_vm_fs = __commonJS({
   "src/main/vm/vm-fs.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var path2 = require("path");
     var fileEncoding = require_file_encoding();
@@ -140476,6 +140963,7 @@ var require_vm_fs = __commonJS({
 var require_workspace_target = __commonJS({
   "src/main/services/workspace-target.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -140517,6 +141005,7 @@ var require_workspace_target = __commonJS({
 var require_tool_location = __commonJS({
   "src/main/vm/tool-location.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { AsyncLocalStorage: AsyncLocalStorage2 } = require("node:async_hooks");
     var location = new AsyncLocalStorage2();
@@ -140544,6 +141033,7 @@ var require_tool_location = __commonJS({
 var require_workspaces = __commonJS({
   "src/main/ipc/workspaces.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { dataPath } = require_data_path();
     module2.exports = function registerWorkspacesIpc({
@@ -141047,6 +141537,7 @@ var require_workspaces = __commonJS({
 var require_files = __commonJS({
   "src/main/ipc/files.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = function registerFilesIpc({
       ipcMain,
@@ -141539,6 +142030,7 @@ var require_files = __commonJS({
 var require_skill_store = __commonJS({
   "src/main/services/skill-store.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -141594,6 +142086,7 @@ var require_skill_store = __commonJS({
 var require_tarot = __commonJS({
   "src/data/tarot.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = [
       // Major Arcana
@@ -141687,6 +142180,7 @@ var require_tarot = __commonJS({
 var require_tarot_spreads = __commonJS({
   "src/data/tarot-spreads.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = [
       {
@@ -141800,6 +142294,7 @@ var require_tarot_spreads = __commonJS({
 var require_dist = __commonJS({
   "node_modules/@serialport/parser-byte-length/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ByteLengthParser = void 0;
@@ -141848,6 +142343,7 @@ var require_dist = __commonJS({
 var require_dist2 = __commonJS({
   "node_modules/@serialport/parser-cctalk/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.CCTalkParser = void 0;
@@ -141893,6 +142389,7 @@ var require_dist2 = __commonJS({
 var require_dist3 = __commonJS({
   "node_modules/@serialport/parser-delimiter/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.DelimiterParser = void 0;
@@ -141937,6 +142434,7 @@ var require_dist3 = __commonJS({
 var require_dist4 = __commonJS({
   "node_modules/@serialport/parser-inter-byte-timeout/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.InterByteTimeoutParser = void 0;
@@ -142002,6 +142500,7 @@ var require_dist4 = __commonJS({
 var require_dist5 = __commonJS({
   "node_modules/@serialport/parser-packet-length/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.PacketLengthParser = void 0;
@@ -142066,6 +142565,7 @@ var require_dist5 = __commonJS({
 var require_dist6 = __commonJS({
   "node_modules/@serialport/parser-readline/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ReadlineParser = void 0;
@@ -142091,6 +142591,7 @@ var require_dist6 = __commonJS({
 var require_dist7 = __commonJS({
   "node_modules/@serialport/parser-ready/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ReadyParser = void 0;
@@ -142145,6 +142646,7 @@ var require_dist7 = __commonJS({
 var require_dist8 = __commonJS({
   "node_modules/@serialport/parser-regex/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RegexParser = void 0;
@@ -142190,6 +142692,7 @@ var require_dist8 = __commonJS({
 var require_decoder2 = __commonJS({
   "node_modules/@serialport/parser-slip-encoder/dist/decoder.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.SlipDecoder = void 0;
@@ -142269,6 +142772,7 @@ var require_decoder2 = __commonJS({
 var require_encoder = __commonJS({
   "node_modules/@serialport/parser-slip-encoder/dist/encoder.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.SlipEncoder = void 0;
@@ -142327,6 +142831,7 @@ var require_encoder = __commonJS({
 var require_dist9 = __commonJS({
   "node_modules/@serialport/parser-slip-encoder/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -142354,6 +142859,7 @@ var require_dist9 = __commonJS({
 var require_utils3 = __commonJS({
   "node_modules/@serialport/parser-spacepacket/dist/utils.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.convertHeaderBufferToObj = exports2.HEADER_LENGTH = void 0;
@@ -142397,6 +142903,7 @@ var require_utils3 = __commonJS({
 var require_dist10 = __commonJS({
   "node_modules/@serialport/parser-spacepacket/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.SpacePacketParser = void 0;
@@ -142514,6 +143021,7 @@ var require_dist10 = __commonJS({
 // node_modules/ms/index.js
 var require_ms3 = __commonJS({
   "node_modules/ms/index.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var s = 1e3;
     var m = s * 60;
@@ -142631,6 +143139,7 @@ var require_ms3 = __commonJS({
 // node_modules/@serialport/stream/node_modules/debug/src/common.js
 var require_common = __commonJS({
   "node_modules/@serialport/stream/node_modules/debug/src/common.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function setup(env) {
       createDebug.debug = createDebug;
@@ -142809,6 +143318,7 @@ var require_common = __commonJS({
 // node_modules/@serialport/stream/node_modules/debug/src/browser.js
 var require_browser2 = __commonJS({
   "node_modules/@serialport/stream/node_modules/debug/src/browser.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     exports2.formatArgs = formatArgs;
     exports2.save = save;
@@ -142981,6 +143491,7 @@ var require_browser2 = __commonJS({
 var require_has_flag = __commonJS({
   "node_modules/has-flag/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = (flag, argv = process.argv) => {
       const prefix = flag.startsWith("-") ? "" : flag.length === 1 ? "-" : "--";
@@ -142995,6 +143506,7 @@ var require_has_flag = __commonJS({
 var require_supports_color = __commonJS({
   "node_modules/supports-color/index.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var os2 = require("os");
     var tty = require("tty");
@@ -143097,6 +143609,7 @@ var require_supports_color = __commonJS({
 // node_modules/@serialport/stream/node_modules/debug/src/node.js
 var require_node3 = __commonJS({
   "node_modules/@serialport/stream/node_modules/debug/src/node.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var tty = require("tty");
     var util = require("util");
@@ -143272,6 +143785,7 @@ var require_node3 = __commonJS({
 // node_modules/@serialport/stream/node_modules/debug/src/index.js
 var require_src3 = __commonJS({
   "node_modules/@serialport/stream/node_modules/debug/src/index.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     if (typeof process === "undefined" || process.type === "renderer" || process.browser === true || process.__nwjs) {
       module2.exports = require_browser2();
@@ -143285,6 +143799,7 @@ var require_src3 = __commonJS({
 var require_dist11 = __commonJS({
   "node_modules/@serialport/stream/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -143629,6 +144144,7 @@ var require_dist11 = __commonJS({
 // node_modules/debug/src/common.js
 var require_common2 = __commonJS({
   "node_modules/debug/src/common.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function setup(env) {
       createDebug.debug = createDebug;
@@ -143807,6 +144323,7 @@ var require_common2 = __commonJS({
 // node_modules/debug/src/browser.js
 var require_browser3 = __commonJS({
   "node_modules/debug/src/browser.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     exports2.formatArgs = formatArgs;
     exports2.save = save;
@@ -143978,6 +144495,7 @@ var require_browser3 = __commonJS({
 // node_modules/debug/src/node.js
 var require_node4 = __commonJS({
   "node_modules/debug/src/node.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var tty = require("tty");
     var util = require("util");
@@ -144153,6 +144671,7 @@ var require_node4 = __commonJS({
 // node_modules/debug/src/index.js
 var require_src4 = __commonJS({
   "node_modules/debug/src/index.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     if (typeof process === "undefined" || process.type === "renderer" || process.browser === true || process.__nwjs) {
       module2.exports = require_browser3();
@@ -144166,6 +144685,7 @@ var require_src4 = __commonJS({
 var require_dist12 = __commonJS({
   "node_modules/@serialport/binding-mock/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     var debugFactory = require_src4();
@@ -144446,6 +144966,7 @@ var require_dist12 = __commonJS({
 var require_serialport_mock = __commonJS({
   "node_modules/serialport/dist/serialport-mock.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.SerialPortMock = void 0;
@@ -144469,6 +144990,7 @@ var require_serialport_mock = __commonJS({
 // node_modules/serialport/node_modules/debug/src/common.js
 var require_common3 = __commonJS({
   "node_modules/serialport/node_modules/debug/src/common.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function setup(env) {
       createDebug.debug = createDebug;
@@ -144647,6 +145169,7 @@ var require_common3 = __commonJS({
 // node_modules/serialport/node_modules/debug/src/browser.js
 var require_browser4 = __commonJS({
   "node_modules/serialport/node_modules/debug/src/browser.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     exports2.formatArgs = formatArgs;
     exports2.save = save;
@@ -144818,6 +145341,7 @@ var require_browser4 = __commonJS({
 // node_modules/serialport/node_modules/debug/src/node.js
 var require_node5 = __commonJS({
   "node_modules/serialport/node_modules/debug/src/node.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var tty = require("tty");
     var util = require("util");
@@ -144993,6 +145517,7 @@ var require_node5 = __commonJS({
 // node_modules/serialport/node_modules/debug/src/index.js
 var require_src5 = __commonJS({
   "node_modules/serialport/node_modules/debug/src/index.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     if (typeof process === "undefined" || process.type === "renderer" || process.browser === true || process.__nwjs) {
       module2.exports = require_browser4();
@@ -145005,6 +145530,7 @@ var require_src5 = __commonJS({
 // node_modules/node-gyp-build/node-gyp-build.js
 var require_node_gyp_build = __commonJS({
   "node_modules/node-gyp-build/node-gyp-build.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("fs");
     var path2 = require("path");
@@ -145175,6 +145701,7 @@ var require_node_gyp_build = __commonJS({
 // node_modules/node-gyp-build/index.js
 var require_node_gyp_build2 = __commonJS({
   "node_modules/node-gyp-build/index.js"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var runtimeRequire = typeof __webpack_require__ === "function" ? __non_webpack_require__ : require;
     if (typeof runtimeRequire.addon === "function") {
@@ -145189,6 +145716,7 @@ var require_node_gyp_build2 = __commonJS({
 var require_serialport_bindings = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/serialport-bindings.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -145205,6 +145733,7 @@ var require_serialport_bindings = __commonJS({
 var require_load_bindings = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/load-bindings.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.asyncWrite = exports2.asyncRead = exports2.asyncUpdate = exports2.asyncSet = exports2.asyncOpen = exports2.asyncList = exports2.asyncGetBaudRate = exports2.asyncGet = exports2.asyncFlush = exports2.asyncDrain = exports2.asyncClose = void 0;
@@ -145250,6 +145779,7 @@ var require_load_bindings = __commonJS({
 var require_errors4 = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/errors.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.BindingsError = void 0;
@@ -145267,6 +145797,7 @@ var require_errors4 = __commonJS({
 var require_poller = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/poller.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -145374,6 +145905,7 @@ var require_poller = __commonJS({
 var require_unix_read = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/unix-read.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -145434,6 +145966,7 @@ var require_unix_read = __commonJS({
 var require_unix_write = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/unix-write.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -145495,6 +146028,7 @@ var require_unix_write = __commonJS({
 var require_darwin = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/darwin.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -145647,6 +146181,7 @@ var require_darwin = __commonJS({
 var require_dist13 = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/node_modules/@serialport/parser-delimiter/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.DelimiterParser = void 0;
@@ -145691,6 +146226,7 @@ var require_dist13 = __commonJS({
 var require_dist14 = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/node_modules/@serialport/parser-readline/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ReadlineParser = void 0;
@@ -145716,6 +146252,7 @@ var require_dist14 = __commonJS({
 var require_linux_list = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/linux-list.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.linuxList = linuxList;
@@ -145832,6 +146369,7 @@ var require_linux_list = __commonJS({
 var require_linux = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/linux.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -145986,6 +146524,7 @@ var require_linux = __commonJS({
 var require_win32_sn_parser = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/win32-sn-parser.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.serialNumParser = void 0;
@@ -146010,6 +146549,7 @@ var require_win32_sn_parser = __commonJS({
 var require_win32 = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/win32.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -146174,6 +146714,7 @@ var require_win32 = __commonJS({
 var require_dist15 = __commonJS({
   "node_modules/@serialport/bindings-interface/dist/index.js"() {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
   }
 });
@@ -146182,6 +146723,7 @@ var require_dist15 = __commonJS({
 var require_dist16 = __commonJS({
   "node_modules/serialport/node_modules/@serialport/bindings-cpp/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -146234,6 +146776,7 @@ var require_dist16 = __commonJS({
 var require_serialport = __commonJS({
   "node_modules/serialport/dist/serialport.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.SerialPort = void 0;
@@ -146259,6 +146802,7 @@ var require_serialport = __commonJS({
 var require_dist17 = __commonJS({
   "node_modules/serialport/dist/index.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? (function(o, m, k, k2) {
       if (k2 === void 0) k2 = k;
@@ -146296,6 +146840,7 @@ var require_dist17 = __commonJS({
 var require_tarot_tools = __commonJS({
   "src/main/tarot-tools.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var tarotCards = require_tarot();
     var tarotSpreads = require_tarot_spreads();
@@ -146520,6 +147065,7 @@ var require_tarot_tools = __commonJS({
 var require_json_store = __commonJS({
   "src/main/core/json-store.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -146566,6 +147112,7 @@ var require_json_store = __commonJS({
 var require_todo_service = __commonJS({
   "src/main/services/todo-service.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs/promises");
     var path2 = require("node:path");
@@ -146706,6 +147253,7 @@ var require_todo_service = __commonJS({
 var require_babe_relationship2 = __commonJS({
   "src/main/services/babe-relationship.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -146983,6 +147531,7 @@ var require_babe_relationship2 = __commonJS({
 var require_budget = __commonJS({
   "src/main/services/budget.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = function createBudgetService({ calculateTokenCost, getSettings }) {
       function getTodayKey(date6) {
@@ -147365,6 +147914,7 @@ var require_budget = __commonJS({
 var require_opencode_models = __commonJS({
   "src/main/opencode-models.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var zenCosts = /* @__PURE__ */ new Map();
     var zenLimits = /* @__PURE__ */ new Map();
@@ -147432,6 +147982,7 @@ var require_opencode_models = __commonJS({
 var require_llm_providers = __commonJS({
   "src/main/llm-providers.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var ocHeaders = require_opencode_headers();
     var TokenUsage2 = require_token_usage();
@@ -148100,6 +148651,7 @@ var require_llm_providers = __commonJS({
 var require_llm_retry = __commonJS({
   "src/main/llm-retry.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { ts, maskUrl, lastUserSnippet, bodyMeta } = require_req_log();
     var TokenUsage2 = require_token_usage();
@@ -148877,6 +149429,7 @@ var require_llm_retry = __commonJS({
 var require_account_vault = __commonJS({
   "src/main/services/account-vault.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs/promises");
     var path2 = require("node:path");
@@ -148965,6 +149518,7 @@ var require_account_vault = __commonJS({
 var require_codex_limits = __commonJS({
   "src/main/services/codex-limits.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { spawn } = require("node:child_process");
     var fs2 = require("node:fs/promises");
@@ -149139,6 +149693,7 @@ var require_codex_limits = __commonJS({
 var require_chatgpt_accounts = __commonJS({
   "src/main/services/chatgpt-accounts.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var crypto2 = require("node:crypto");
     var http = require("node:http");
@@ -149725,6 +150280,7 @@ var require_chatgpt_accounts = __commonJS({
 var require_api_format = __commonJS({
   "src/main/services/api-format.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var crypto2 = require("node:crypto");
     function candidates(address) {
@@ -149836,6 +150392,7 @@ var require_api_format = __commonJS({
 var require_llm2 = __commonJS({
   "src/main/ipc/llm.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var TokenPolicy2 = require_token_policy();
     module2.exports = function registerLlmIpc({
@@ -150921,6 +151478,7 @@ var require_llm2 = __commonJS({
 var require_automatic_memory = __commonJS({
   "src/main/services/automatic-memory.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -151297,6 +151855,7 @@ var require_automatic_memory = __commonJS({
 var require_shell_jobs = __commonJS({
   "src/main/services/shell-jobs.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var os2 = require("node:os");
@@ -151627,6 +152186,7 @@ var require_shell_jobs = __commonJS({
 var require_vm_process = __commonJS({
   "src/main/vm/vm-process.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { EventEmitter } = require("node:events");
     var { VmFs } = require_vm_fs();
@@ -151926,6 +152486,7 @@ var require_package2 = __commonJS({
 // node_modules/@deepseek-ai/schemastery/lib/index.cjs
 var require_lib3 = __commonJS({
   "node_modules/@deepseek-ai/schemastery/lib/index.cjs"(exports2, module2) {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var _deepseek_ai_cosmokit = (init_lib(), __toCommonJS(lib_exports));
     var kSchema2 = /* @__PURE__ */ Symbol.for("schemastery");
@@ -152598,6 +153159,7 @@ function apply5(ctx, config2) {
 var name6, inject5, Config5;
 var init_lib50 = __esm({
   "node_modules/@deepseek-ai/dsh-persona/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib7();
     init_lib13();
@@ -152628,6 +153190,7 @@ function selection(settings) {
 var AgentDefaultModelConfig;
 var init_lib51 = __esm({
   "node_modules/@deepseek-ai/dsh-agent-default-model/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_lib2();
     init_lib7();
@@ -152720,6 +153283,7 @@ function renderPolicyContext(policy) {
 var import_node_path8, SANDBOX_MODES, sandboxModeStateSchema, SandboxPolicyService;
 var init_lib52 = __esm({
   "node_modules/@deepseek-ai/dsh-sandbox-policy/lib/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     import_node_path8 = require("node:path");
     init_lib2();
@@ -152804,6 +153368,7 @@ var init_lib52 = __esm({
 var require_sdk_catalog = __commonJS({
   "src/main/ds-compat/sdk-catalog.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = {
       cordis: (init_lib2(), __toCommonJS(lib_exports2)),
@@ -152850,6 +153415,7 @@ var require_sdk_catalog = __commonJS({
 var require_index_min = __commonJS({
   "node_modules/tar/dist/commonjs/index.min.js"(exports2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var d = (s, e) => () => (e || s((e = { exports: {} }).exports, e), e.exports);
     var We = d((F) => {
@@ -156096,6 +156662,7 @@ var require_index_min = __commonJS({
 var require_plugin_sdk_files = __commonJS({
   "src/main/vm/plugin-sdk-files.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function sdkFiles(worker, name7, api) {
       const names = Object.keys(api).filter(
@@ -156117,6 +156684,7 @@ var require_plugin_sdk_files = __commonJS({
 var require_rpc_peer = __commonJS({
   "src/main/ds-compat/rpc-peer.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { randomUUID: randomUUID7 } = require("node:crypto");
     var { StringDecoder } = require("node:string_decoder");
@@ -156256,6 +156824,7 @@ var require_rpc_peer = __commonJS({
 var require_plugin_runtime_client = __commonJS({
   "src/main/vm/plugin-runtime-client.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { RpcPeer } = require_rpc_peer();
     var { shellQuote } = require_vm_paths();
@@ -156469,6 +157038,7 @@ var require_plugin_runtime_client = __commonJS({
 var require_vm_tool_runtime = __commonJS({
   "src/main/vm/vm-tool-runtime.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -156695,6 +157265,7 @@ var require_vm_tool_runtime = __commonJS({
 var require_vm_tools = __commonJS({
   "src/main/vm/vm-tools.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var { VmFs } = require_vm_fs();
     var TOOL_ROUTES = {
@@ -156966,6 +157537,7 @@ var require_vm_tools = __commonJS({
 var require_mcp_service = __commonJS({
   "src/main/mcp-service.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = function registerMcpIpc({ ipcMain, getSettings, persist, appVersion, notifyRenderer, defaultTimeoutMs, shutdownTermGraceMs, shutdownKillGraceMs, getVmService }) {
       const SUPPORTED_PROTOCOL_VERSION = "2025-06-18";
@@ -157840,6 +158412,7 @@ var require_mcp_service = __commonJS({
 var require_terminal_command = __commonJS({
   "src/main/services/terminal-command.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var crypto2 = require("node:crypto");
     var OSC_PATTERN = /\x1b\](?:[^\x07\x1b]|\x1b(?!\\))*(?:\x07|\x1b\\|$)/g;
@@ -157962,6 +158535,7 @@ var require_terminal_command = __commonJS({
 var require_vm_pty = __commonJS({
   "src/main/vm/vm-pty.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var path2 = require("path");
     var { StringDecoder } = require("node:string_decoder");
@@ -158104,6 +158678,7 @@ var require_vm_pty = __commonJS({
 var require_terminal_service = __commonJS({
   "src/main/terminal-service.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("fs");
     var os2 = require("os");
@@ -158504,6 +159079,7 @@ function replaceCodePointXML(codePoint) {
 var c1;
 var init_decode_codepoint = __esm({
   "node_modules/htmlparser2/node_modules/entities/dist/decode-codepoint.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     c1 = [
       8364,
@@ -158639,6 +159215,7 @@ function decodeTrieDict(input2, resultLength, atomCount, dict1AtomCount, ngramCo
 var BASE91_INVERSE;
 var init_decode_shared = __esm({
   "node_modules/htmlparser2/node_modules/entities/dist/internal/decode-shared.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     BASE91_INVERSE = /* @__PURE__ */ (() => {
       const table = new Uint8Array(127);
@@ -158657,6 +159234,7 @@ var init_decode_shared = __esm({
 var htmlDecodeTree;
 var init_decode_data_html = __esm({
   "node_modules/htmlparser2/node_modules/entities/dist/generated/decode-data-html.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_decode_shared();
     htmlDecodeTree = /* @__PURE__ */ decodeTrieDict("!}.&u%}'&}*'~!6*)%&,~!J~!J~%L~y<~!R,~~%Lu~~#GD~~#|)1#%}^%}2%+#.##%##%}&%##%'#%##&%#%#'%#&#%#&#'#%%#&#%##%#)%''%&%#%#'%#%%#%%}%%%#%#&(23#%%#&-%0%('1#(##%#'##+%'*.:1}#%#6-+(%'%%#%%%}#L'2351&('%}&/N'(0(/*-%(%%}#'+&T%7.2}#&%&#%#36/5##%&%%#&#%%#))2%%##%&&'0~!#*+&'%1~!%).'3q?&%'1~!.##%6(~!+%%%(Gw'rT~!E#<nA%#jZ~!H%(~!42##~!*31&~!G%U~#)5~#`3~!J~!Z~%]~%Y~%C~!q~!u~#kz~%#~!6'~!D~!U~!?~#T~!c%~!G#'~%7|~!G~!J~!G&~#pb~(Df}#%}*&}#%##%##%##&#-}&'#'&%#.++}%mI,#,@&(}*%}*'%&##&#%##%}&0}#.},U},%}+%}&%}#%##&}B%(}(%}+%)})%##%#&}&%##%&}<%}>%#%&}*%}(%}9%}/%})%}*%}*%}?&}&%}3%}&*#%})%#%#)}#&#-#+*%E%%'%'#%}#*V##&##I}#&&##%&%#&&Qf%%))w/0+&%#(#.%-''''++++7}>%4'',##1,#%#&%##&#'##&#*#9)%&%}#*}%,#+P(%A&%#'&##wSD',9E00#y#@}(+}&%&>~!#~!X}#*}(&&}(&}(,%}%&#+&}#&}I%#%}%)#(},'%#*}4%%#%}(''}#/##(##),%-##%%)#&}(.}&%#&}%%}*&#%},&&}&%}#%*'#%})%}D&}&%}-&}6&#&}-,%}#%})-(~+`~,=?~I9'9%~!,#%})%})%}@%}?%}(~!?~#<~#pP~#BG~#=1#%K+~#?#~%;)~#A~#mF1~#A'~'X%'~#lR~#N~'N~#r~#m#-~#i'?%#'%~#B%##%,%#~#_%#0%~#]732~,w~2+#:&#%&'0%&>%}#>##F+)#%&&#(+_}4&}-%}(&}@&}O7Fdf0@+/v4}&WU##&/0#&'('B#%}.%}'+#%}#%%&#&%#%##+#&#)#6#'#.},%}c%},%#%##%&#&%#&~#>'*-.%##%##%}#%%}%'~#)D1}#%*&~#_%%'(~#S2%'.}#~#=##*'*-%}&'%'##&&~'E%.#&~#M4}%%##&'%#~#O1##%&#'+~#<B%##%%'%+~#;#@%}#&%#&&%#(~#H1}'%'##&&~#?A}&'~#D#%32}'&&&&~#[}'(#%}'~#;C})&}%%#%~#=&%,3}%'(#%%~#^'#&&)#%'~#Y%-~#d-%'~#^%%&#&&&}#~#b~2t*&'~&(~&@~0%~e~3}%*''0})&}+~!9##-}#%-hD*)1fC#%/&/fB#40~!+#)*4~!+~!K'&:~!/*7~!.#~!H~!L':~%x&~!H#~!*~%1~!I#~!+A~#p'~!F~~#-#~,,(~.Z~!V~%;'B'mq-W~!N~%I%#&&#&}#%},%%}'%}+X#%}#&}(%}'%}<%}#%}%%'}'%}:~![)9@~%>~#UA%-%##&~!C%~!-.9:~!1~!-^2/:a~!y,D*J#-5)/4~%23,~#G~!L1~!0X3`~!2+~!!0-~&E~!W~!o,>Y&]~%cZx_&~#O*9#A#'#+I'%#)~!0B*-5A+-((F&*M#)(-7-5+'-3a5Vi~!Y~!?+[)%3),ERHm~!+:D,VG.+)?fB%%*(%)'(#&80%1'8`K8?`+'Z#&O&'H5#*9)A%%5&3))0%39+.*7#()&&*=4@**L)<'_&*+..;(#*+)./&0#3)%')-8(4ixD(&.}%,('aI:,)%,k2231T)I'#/-W7,/'Q#.'Y24+h')37</31&83##&0#),H(?'&?/1##%#&&#%''-%&&&#(&''&#.-'%#%%(,')*'&#&#'##%(%(#%('#&##%%%%('%#%#%%#%#&%##h>w+v<ayvyvcg.uuhKr}g/v|g>u9i[~>g5uI~=RvdwEg;v/g;uk!!TTSx]@RT!U!#!@VBRUU!'UTe-d0c`e&gSdicedFcrdTaqb.kYcAohdYd@a3e+d}dMdtd.aJ#bqcK`dle/e.e'dwdPdodddjbEb}ogd^ofdpduc6j?l%d{drdqc)d7bacOdQ%T#Y)X.sR[yH>6Vyv3[xwLu>vo'!*.[yBacahoj>6Rew3[xqdZa#!a&#^(X-[yG>6Vyu3[xvg3sEr|g.u/Ri9db0T#^(Xa)!-[y;>6Vylg4wKs{JwNZt3@3r=c4Z([xlg;wKt!cpq's@v7A'*a(a+!-a#[y<3Dt?3Dt'>6Vym3[xmg9rxsNJwLZt4~?r?db1T#`-!(Xa,!0[yS>6Vz%NuQs.g4wKtnJwNZtS@3r>c4Z([y%g;wKtrdga8!a(!#&T*Y-Xa#!a0<or[yc3Dtq>6Vz43[y3JwNZtf@3s!Ju}!%Dti:pm3c_%X#tjB5pkd6q!r]u?voC'*-a.a2!0a&a+[yI3DtI3Ds~3DtH>6Vyw3[xx;:s#~<5pKJwNZtE@3r~d`a)!a2T#a.(!+U.X1[yT3Dt`3Dtv>6Vz&3[y&g9rxwzcxstPu.<rAJwLZtT~?r@dZa%!a.&^*Za(/Reu[ya>6Vz23[y1g3sEr}wkg{NuQRg{ci(U#5@b`~,cg#U(2WnH5wugcRh7dX#T(Y,a'Ta!!a,[yZ<]mj>6Vz,3[y+Pv#5ReZKu+=,%!H}7ABwkaS?Rh:BcW(X#<]mrj:ubv/ARekdg%!(!a.*Ta(Y.X1!#sP>Rl*Dt6[y>>6Vyo3Wf*jOvuumvuRgRJuq*!:9<B@bX~3jVv&v@s@5Re[d/rQt{uAvo&a&a*)a2!,0Wf!3Dt0=Bs'>6Re}3[xy~<5s%JwJZt1~Gs)c;&!#2sJkNuXvzq7rxu,Re8dka4!a8(aEZ+a@Y.X1Xa)[yd=Bs(3DtP>6Vz53[y4cX#X&Re:avRe9~<5s&JwJZtQ~Gs*i^rzvdRg+Jv{%!2sbB@bX}kdga,!Za?&^*T1/!a'Dt+[y6>6Vyf3Wf%g/u;s4hGu6?Rh-JvZ,!c%#&RoX54Rivj7uyvf8RgTKvZB%*!2sGh<vu5Rgq<=C::9bb~#dZ#T&Ta6Y.X*Dt>[y93Wf)coZ(T,6VyifluvRgC@95@B@bX~/hFu34cC#T,k/unq8w8Q5RkUklwQuzunq8w8Q5Rk8d/rJu?v8w9)-&!a0a;a&aIWejg3sEr/h1s<DtDJvyZqY5aws3Jvy!&Wei~Hr1:au5@Bag>23E~5c:Z&bX};kKv?w&unuVu5Rjc;>bs)#~@:Rh.=ay<a]C;b`}Vd6s/t{uAvoaxa()!a,a7%-a#a2Dt,[yF2Wo[>6Vyt3[xuNuPRi&NuPwpi#RoWh?vf8Ri%Jv]!%Ri:KvxD!.'2WeAjZu`q9rxu,Re7woeAg-unLq(qA_/*2Wg_g3u5q^9:4E}/jTrxrzv=Wkkd~0UX#^^Xa-a1a5T&a=U1a'*aEa]!a*aPaA-adok[y54Rn>;:p3~Dp5g9rpsFNvZqjg3uJp4~<5p0Pw;5qlJwNZt*@3p1Pw:5p/Ou!5p2JvG'!6Vye=<qnJvh_[xhg3v,Rh3kOwOw-sDuev/Re^dha[a%!%!a+#Ta7)-5TaCaO!aka!a)sf[yb2>Rl!9ARiq5E}Qg=ucRkBE|oJrJ_@Wk~@Wk{JrJ_@Wk|@WkyJrJ_@Wk}@WkzJvO_[y2g-vMRmiKuYC!)&>Ri;>Ri<@3RkNc](X#@9Rk=g5vuRmhKvDB!+'=]meg3u4Rmgd)#Y'Vz3CARmfd`a+!%T'!+#Ta1Ta6TaM-sTDt9[yA9sYd'%Y#s[[xpj:ueunaXRgEjRq,v-vuqdd2'`#6Rev<32@5>:2<E}5xIo9a*X#Y(;5RePJvD_g>vyRgNj8w)v8<wggs:RgXiZt|vjx,hSq3ah!-(~@:Ro/Ou!5RhWj^v(pyw8unRhUdx-UY#^Ua.a3a70!)%UX1TaDa)'omRiRRhE[y:3Dsz=Br,>6Vyj3[xkg6ruwjcqsrPw;5r*Ku]D'Zt-@3r(~?r.i[vwv]dU1a--U#`a4(g/vsRhPOu!5RhLj:rmu9Wo!~@:wdh@g/vsRiTjXuvvNr}:RhBj^v(pyw8unRn]dz1UYa'a+^Y(!aETZalaRY.Ta?a4[yDJw1!#qLsW>6Vyrfzq-pLflpwRe|Js>%!Dt@3Dt&Jvy_[xs~HrnjMuwpsw'RecKu+D#'!t<~Grl~?rjg5u-x,gwp{ah!-(~@:Rg~Ou!5Rh'jXuvvNr}:Rh#cW#X/c;&!#2sLi[v7u7RgpJv)(!iLrxu,Re6j7v@s@5Se[e7d`aW!Za(a`T.a#!a3!&aDa-!9)Dt_=6s+3[x~~DR|h~DS6avhGun5RkZj3w)v-]mkKunB!&*]kb97R|i<ARk<c:Z(6Vy}Juh'!wziMRoS:F|vkLuauJv5vtvQRh1d='T+Y#VyO~DR|jcF#T'7R|g97R|kJv3'!ay<Rj,Jvh&!:ReXcsa6*a+#a#_aIRf9aLRf?c,Z&Rf5Rf7c.Z&Rf;Rf>cQ#%T'p-Rf8Rf=ct#%'(*!,p,Rf4p+Rf6Rf:Rf<d~'Ua%U*^UYa(!a,-!#a4YaTalaEX0a8a<Weo3Dt/3Dsx=Br93Wen~Dr;~<5p<JwNZt2@3p=Pw:5p;Ou!5r3c7&!#:p>3Ds}KvGB)_6Vyk2sM=<r7x'eovA(!hFu1ARf}cV#X&@r5j6rvwQa^Rf3c=Za'wkghJv__g;unRggA53B9=b^}%j6uduo5Jq;!(hIv%2Re`Ou4ARe_e%a#^^^Xa&!a*a2!&a6YaP!*ad!#a:aE/5Rn?[y@>6Vyp;:pE~DrY~<5pBJwNZt8@3pCh=rt3rWPw:5pAJup_[xoNuPpF9c!#'45pD5ARn)d8#X'X*3@rU72s]h>v<<sSjJpqvewOJq/(!hNw'5ReBk0s2u3w/w'5ReE5@Jq.!a+JQ!&WeU23d(#Y&RjG5]jBk!u7w&u0udARjEe#+^^^Ub#!a2/a`Z(agT1!a-a;|@TaG!aS[yV=Re~fow'RguNuPRe?bz#'>RoUWeL>:Cbb|?JwPZtVg6ruRmzJvD'!6Vz(g/vmRh~Jvy_[y(g9voRgyx*cy(#2>Ri2B9b]~9kIw9u7rluJu3Rg]dI#a%UY'@=p%CAx.gQZ&RhwwygtRm{x5g_Z'+ABqR9Woa=Bp&dV#^*Xa'!&@o{g4v]Rk;Jv{!%Rk[wkkiA5RkiwwfUB=x,fUuqC&*!>RfTg8v0RfV~ARfSd;rJsAuAv9wR'ae+/aO!a@aza/a#[yQ@Wg!2Wemg3sEr0JvB_g>uvReWg2v+Re=KupB_+[y!2AbY~-~Hr2AJwD!(h<~El>h<~El?Kun@+_:9b`}Kg-v/Ri3g;vtwyk_9]k_d=&T#*U.6qh@Ab`|K9:H|CJv[!&3Dtex'fDwC%!Rf[9WlMd[(^X,!a%Z06Vz!@WgBg=v~Rgvg,QRe@awd,#Y+jTv|Q~EfWj]uNr|~FRfXdy#Y&^Ua%!aO.!(a)Ua;=!a@aKap!a-,a!Ta]a[rSa]p?[y82sK=Bq~;:p:~<5p8Pw:5p7d'#Y'Wf(;RnRi[u4w&RgJJvG'!6Vyh=<r#ijuuv/sIKuYD'ZtG@3p9~Gr&d2#`(g<vtRgFj`u5w&rqpxRf2CJuY!+:wfnTOu!5Rg}jNs1ucv&RfwJvA!&3@q|BDcC#T,k/unq8w8Q5RkTklwQuzunq8w8Q5Rk9dga#!a'!a=#a0!:+Tb*b@aO.a4!aba8aFJv^}?!VyR~Dr<g;u%Rn.~<5p[x'e`wNZtR@3p]Pw:5pZhNvjBp.woe_g5u-r4JwF!%DtO3:ooc7&!#:p^3DtpLuGw(!+%)Dtk6Vz#2sd=<r8d'#Y([y#<x3gJt`w@!)%}MRiowzikRij=]ilxAf3,U(#B2Rf#g0v-Rm[ck{`U#]giKv3>)!&6Ri154s,KuGB_%@r68r:dJ|t`#X(9<E|u2@H|rx3gJu?w'!+'1Nu7Reg4=H~+9<wxgY95Rm]xLggZ-`(X}U2:Ri4h<uOawRmsJv__5@bb{jbV~3dka#a'a]!,#a+U=a>b6a3b%!/aKa/)!arwve^VyJ;:pR~DpTg3uJpS~<5pOPw;5qmPw:5pNOu!5pQJvG'!6Vyx=<qoJvA!{~Jup!%@qk7Rn/KvyD!}''[xz;>wkh'?Rh,x8gyt`w5D!&),(SgyccRgztJ@3pPB5p#d'(Y#<]mmifubw&RgoJvE&!82s^JvF&!8Rf,ADb]~;x=h'rNu]vK!,%'*0RnORh)4Rh*AqQg-vaRnNg;wHwkh'ba~4cE#Ta*x3gctyw@'!+%RnFRnD<4Rn@hFvK5RnCxWg[#`&a0Ua()`1Rm75Rg[c]%X#qi8Rg^NvdRj>BwzgZauwji7Rm6A4wgg]d1#&(*,.0a#Rm;Rm<Rm=Rm>Rm?Rm@RmARmBe%#^^^Xaea?aC/b+(,!a+a#!a/!>a&Ta<aKbD!2wphBRnk[yPw}hE|.=Br-3Dtm>6Vy~g6urRf.x,hPrNav!%'RnqRo%Ro#Nu;q[Pw;5r+JwNZtM@3r)d'#Y'Weh;xChL#`&RnmRnoKu}>%(!Rne~Bs-;2wjcussJv+'!aYSO}6@B<5?ba~8LrNvj!.%*ROwungw~ng~:9;Ri^>wtnig;wHRnixDh@|(UZ.x1h@|)!#:2<H|*xHn]#-UX'3Ro)z=iT}6ARns=Bwsn_wpnaRncw]aR(#UXa&Ua*a/=]iPd'#Y&Ro'WnXf{QRm2hNvj]nZd`'T~&1`{|`#9b]{}c:'!#Wl{>@=be}]?cl{{U#:5Abb}Jds#^YaF!a*b4a#a3aPa>&Tb!bH!*a_!Eau?/a&RjY<]gj>6Vz*;:pe~DrZg,QRj1JwNZtX@wihspcJvZ&!VyX9WmOJu|!|N2WmHJvh&!]ht~Bpbcn&T(!#RmQ<s7Nu;padH#X'`+WmJ@>RmKCARhnKup=!)&Wf+:RhqNuPpf9c!#'45pd5AwghpARn(Ls@w!%,)!RmP@Wfe<E|IJva!&WmNg8vsRmLd`*.`#Y'Xa!axRn*]hrA8Rhug5s@rXg8u!RmMd8#X'X*3@rV72smdI*#UY&RmICARho~GsgxVgd)Ta'U-Y&Xa!T#RnEWnA@Wffg1uDRi0hFvK5RnBxGnG&#`%owp)@wsf+bX}Ze-*1!a*^^^Ua|!#a.aq&Ya2!a>.a6!a:aO`aJDtL[y`@Wg#>6Vz12@wzoYRoZNuPRi!NuPRhzg=ucRi,@=b`{Yg=ucRi-ACJvB!&Sh[ebSh]ebi`wUuFRm4Jw2_[y0JvB!.<Ju(!&SoG}6Shd}6<Ju(!&SoH}6She}6Kur@._g5vHRieJvx!{L2G{Kx6gd'T#?Rh82Wi5cZ#X(g1w)Rm5dW-Y(Ta#!a)!#aYa=wnfE=su2>>bU{0j9udv:<svj8uQv-7RgHdE%#^'sq9sp=>Bb_{TJv`!&g/r|snj6v(us5d,#Y(56H}[978H}]Jw5!&g1rushJvB!+j;v{u5?zDhd}6}bj;v{u5?zDhe}6}ce*#`(^^^a[aea!=!a6a*aoXb1a.!aAbL!b>,b'aL!aV@Wf|2Wlg3[y/JwNZt^@3piPw:5pgJunZou3@rsJva&!Vy_g<v~Rm#JvG'!6Vz0=<r{Ju{%!:pj@WfsiXuJu3Rm:JvZ&!WfA~Bph@c4Z&Dtwax5rubx(#:awRk1@d,#Y&RfjRfid1#,Y(@Wfp2Wlrg5s@ryKu[@!,'=]ig9wlk?Rk>g5u-rqJvy'!@9RkQcH(T#=>Ri~@<wkj(Wj(KuZB*!&<7rw@9RkRcH(T#=>Ri}@<wkj)Wj)dg(Ta2Xa9X#`-!a*CARhg@@=I}d9x;c~#X%so=<sj>2@@=aybb}XjWv0Q~EfEj3vLv;<d,#Y(56H}`978H}_dgaPaFa'a/!#a3Y0a_a;a|!1(a7-[yE3[xt;:pJNvZrrg3uJrvJwNZt=@3pIh=rt3rxPw:5pGOu!5rpJvG'!6Vys=<rz@c4Z&Dt(ax5rtJvZ!&~BpH@wsfNg-vaRlNci*U#=<wei<F}a5@Jq.!a*JQ!%@qZ23d(#Y&RjH5]jCk!u7w&u0udARjFd/prq=tyvpaEa(a:.!a1aZ(@@=I}:9wpd%=<sX55w_h}@@=I{t=ay<aU@@=I}T=ay<2@@=I})?C9:9au@9Cb]}DP~=x-fAZ(2Wl1=ay<aU@@=I}>5@d##Y+jTv|vV~EfFj]uNpn~FRfGdgaK!Z2&!a8a-Tb({E!acTbM*!a(DtY[yYd'%Y#sl[y*hHvh>Re5x2c{Z}.j4uCvcawRiMd+#X+_x&d!},<5RkX;2Hzw@x,gavfB-!{CcF&T#Roe;RodwWbBg5urRgaKvHC*_6Vz+<4opieuew&Rmq@d]&Y)X,T#X0Rh}<BqP=4qS9:ReMg/ujReNJw0!/<Jui%!bd{kawwnemRelAxUa?a3#*.&UX(Ya+a/RhvRnQ<o}9Wmtd-#Y&RgSRmw9;Rmxay=Rmyg-vaRmuxEhSrNu,v-voC!%(aR.a(a7+1Ro1>Ro5CE{A9b]{@;5x#eO{:g;urRi+KrNA!%(Ro3>Ro79;Ri_Ku@>{;&!x%gX|{KunA_+g5QRj/g3u5Rj#g>uERj%wio/xRhS&!,!#^1U}wba{8>>@=be}qC@:D5ba{7Ku+A&!}x?ba}t>>@=be}se(aA^^^Uat!b0#{pa+awUazbGa#aLb9bgaWac'a5TbS=Br!d1#`%scp_Jvl!#rT>Re0JvX&!VyN=H{Fcm#U&:pY=ReaJv2&!]h0=]nUJvG'!6Vy|=<r%JrM_=]h2@Wlud'#)U'Wf'b]{i=]h/Jvh!&~BpWg=v]RnMx+ny#'Nu;pVwjnu=]nwxJnx,T#`&Reqwjnt=]nvieu9vrRjLLuYwP(#+!th@wih5pX~Gr'g5v/Rh4KunA'!-CARnP@wwiN:Rm_9x'cvw>!|l=<saKvAA!0&3@q}>w^e1bp#&Re2Re3BDx7gH#T|f5H|eKuZ>!%(:qNAH{]Jv6!+3B2B9=b^{X<5<B92:E{ZLvhwA(a;a%!igQuyRmad+#Y}m@3Rh5d8#X'X*:AqUAHzmaxwbh<aXRnVcF}RT#Nw&cj#U(BWnug/vsRntdka)(a3+.Zb7aYYan1!bVa@Xa}[y^@b[{G=H{+hFu73Rj&Pv#5ReQcK%T#sig1v{Rj'Ku+D#'!t]~Grm~?rkKuMB!01d5#`'Vy.ta3Dtu~Hroc8#'{^45s85AwZbP&!#Rn!wghxWn#KvEA!)&2RlA2RlBx:h|#(T,=]j09Wobz>x]z/@awRoTd+#Y(az]hFhCrm4d,#Y+jTv|Q~EfMj]uNr|~FRfOdCa!Xa9_X#@<plJvf!%b`{(9;Rgwc;.!#2x7cw#T|UDb]|T5Ju={(!=@E{&Jv)&!Ab`{'awJvf!~*>>@=be{#KuY>!+&4Ezyi[ugv&RjIdea+T)#UXa&T-T&a!Rh9auRmW=]kLg5vuRn+g3u4Rn-Ow6ARn,hHus5xNk?#UX(U~)/g8v0RkD~AwkkF?Ri.OuNBwkkA?Ri/d|a2`a*^UYa.!aBTZaTa'Xa;!(!2!-a#b2[yC>6Vyq3[xr2Wi?g1rusVh%s?DtF~<5rbJs;%!DtBfswKtCj[uvuSsEu3RgVx3o:u+wN'*Zt;@3rd~Grh~?rfg8w)Lq)qE&-a%!>bI|`jWv0vV~EfCjTv|vV~Ef@j]uNpn~FRfBcK#T']gWNu7x,k7q4ai(0!hHv8<RhmkMu9vrsBuev/RhlCJvB!,g<v{wchh~@:Rhji[vrv{wchi~@:RhkdS&a5UY#Ta!RgPwwiI5BwciI~@:Rh`x'iJvj'!5]iJPu8Bwch]~@:Rhach)U#h3rp]gLh@t|Ax,hTq3ah!-(~@:Ro0Ou!5RhXj^v(pyw8unRhVd|)`,^UYas!a?/a2Z'a^Ta{Tb7Ta(a#!a,Wf&9sZ3DtAadamov=Bqt3[xig8vsRm~>waiL2b`{QJv*_Ouv2qgj<v]v2BqfdR'X*X#Y-@3qr~Gqv~?p6hHv-]glPup5Lq+q?_%*b_{qF{n9b^{rOu4ARhpKvCD!+&~Bqp:5Dbb}nwoiKl&unuTuBv]v+ueunaXRf0=Jvh!0nKufu8v1w&w7q%w&uHrz:Rgnj5w,uxDJq/(!hNw'5ReCk0s2u3w/w'5ReFd>Za&!*UaA=<wkgsRnSJv^!%Refifw3vyRgOKu_B'!,<]gkiiu:w&Rh<=C@a^<B57@2F{[<B5@aW:=3away9A5aW=<B=C@a^<B57@2F{Ie-#`(^^^bCara.b8aza6!/bZ,!adTbnTbOb+aFaS!aAT9@Wf~2Wli3Dtl2@d,#Y&RfnRfmJwJZtN~GqyJva&!VyMg<v~Rm%iXuJu3Rm9Jv[_=]ih9wlkDRkCd1#`(@Wg>2Wls3cH#T(@<Rj*=>Ri|b~'#23s9h<~El.d'#Y&Dtxi^rzvdRl#d*#U%(o|B2s`hJwSaxRmDKv4B&!1:Rmdd5#`'Vx}to~Hq{x'f1v3(!BA5ba|bJv_&!Wfug1v]ReIdO+U/Y#&G}-8wze=Rh{g1v]ReHg/uQRf/by#)ibQwERl/cH#T(@<Rj+=>Ri{cNu+vlax-!(#a0qa9<Rii2;;bU{H;x<i=&X#Rk`<4wwi=C9H~8xAI(Y#<azRi@45wXI<B9;5bb~7dL(X#Xa(+!aL6Vy{g5QqOau:5au2@ay547EzbxOcU(UX-T#Ta#:Cbb|A?wjh/b_|SOw6ARgtihr}u7Rhy<d1#T)X1@@=I|~=ay<2@@=aybb}Sj3vLv;<d,#Y(56H}A978H}@dGpvs@uAu`vcw9*!aFa+ai%(b!aXa8.a?a[ozWey=sU2@G}Nch&U#Rf_WexKu+D#'!t:~Gr`~?r^j]uNr|~FRg*j^psurwJt|RmcKv)@&!)7Rkv~Br[@wxfO:Rl3co#U'6Rezj_q#vIuavjRltwzeyh@vr5JqD0!>aY?C9:9au@9Cb]}9cl#U*5;5<H||jbuus1ucv&Rfvg1v~d/pppzqFr^a--a~!aMat1(hFv;Wiz@@=Izoj5uuv-7Rix~Cw`fk2WlVcZ#X,k)u3vWs@u2]ktg;wEx'fBq(_2Wg/jTv|vV~EfoJv]!15x'hzqG!(P~EfU~CRl_j6v(us5x4i-#T(2WmZ?C2F|d>Kq<aj1!*jTqIsBv=Wl`~Cw`fi2WlWj`v0u*~>RlR=c>Z,k#u3vWs@u2]kr<c1Z+jTqIsBv=Wla~Cw`fm2WlXdmb3!a{(arZa`bkTa%TbQTa-a9+c'!aM!/[yL=Bqug.w'RifhFvyDRj.g>vgwyk^9]k^Jv3_@WfbAARkhJw2_[x|JvB_wkoIRoKwkoJRoLd'(Y#<]gm=<9<H|yd'%_X#skDtb3awwqkgNulRkgdB#^',9:p'hJwSaxRmEBwVb8@4=H|qLu+w50&!)@3qs~?pU>Awwn;;Rn=c:Z'ARn<=<qwKvC@!/&~BqqJv6!&]eVb^z^xRge'/a%+^`#Sge}6<4Rn3=]n0Pw2>Rn8Jw0!&>Rn:>Rn6cY#a7+!a&=<wkaNw~h3z_c5Z{=wjh#=]nLKv^D!&)Vyz=bW|swYb<WetcG#T(2wxa@qVx@gD#Y&b^|V5JwG&!5bb|pg/w&RgD@x=kHs=uAvn!a%%/'+RmSRh694Ro`g-vaRmRhHv-]mlxCcS#`&ba~.5cD#Ta)P~=d,#Y(56H{>978H{Dd_#{2^Y%_+qbbb{6g3sERhsbU{?dfa.,`a(Xa<!aiX#(55RiG54RiHcI#T'WiU3RiVNvdwtfcRlKNvdd,#Y&RlHRlExQgf.1*^T'X#Sgf}6Wn4=]hfPrk>Rn7Jw0!&>Rn5>Rn9Lunw?&a2!,5<oq@@wqfdRlJj5Q~=d,#Y(~ARfcOuN]fdDKw;ay(}i!547E}j?cI#T(@5bV}iCbV}hdv(^^Tb?a40,b##Tbo!a*bR!a<b|a/!aKai!aU[yK=]o^g:v>ReGJwPZtK<7Rh+h<~El,Pv#5ReR@awwxjCg,ulRjDJv6&!]j!z?aQeeg>w=Sh<eeJw;!&axEzOg,Qosc!#*:wkeJ]eJ>x'h-u(!%Ro.w~h.zPdNZ(X,Ya![x{;9ReY;wkgxRiF:x?ap#Y&RmUg<s2Rkod]+UY0TZ'!a&A9sw<=bczLNvuw{gqzNhJwSaxRmCKuLay!#&s_Rf-55b^{uJvZa!!c%#(55Ri654wmiu5RiuawLu,vp!+}^%b_}Y9;wkgxba}o>A9:=b^}zKuh=a''!3awRk3c*'!#aHRk6c+Z&Rk5Rk4Jv)&!awRjSawd9*`#0?C2@EzMj8u<uJ5RmbjQrquJu3x,k>uq@_+=ayb^|W~ARkEOuN]k@7dhzV^X/X&a-#zRzSb`zXcJzTT#2WkVKvDBzW!%FzY9;5bbzWjQrquJu3Jw3%!b`zU=ayb^zQd:#X(T-a!6Vyywxh}=b]{Jg=u1RiAdGp~qHtzv!w(wA+a+a;<!aJaYai'anasb(=azRmV:Cbb{MLq2vb!%')RjuRjrRjtRjqx3jnqCw3!%')Rk(Rk+Rk&Rk)Lq2vb!%')Rj{RjxRjzRjwLq2vb!%')RjsRjpRjfRjex3jcqCw3!%')Rk'Rk*RjkRjl9<CbbzfOu4ARhxLq2vb!%')RjyRjvRjhRjgx=joq*uKvb!%')+-Rk.Rk%Rj~Rk-Rk#Rj}x=jdq*uKvb!%')+-Rk,Rk!Rj|RjmRjjRjidAq&qKs@uAv8Aa.'*-a@a&0!aM@a5[y73Dsy3Ds|3Dt):wxgI2sHJwJZt.~Gqxwsf0ikrzt}Rl0Jvy_[xj~HqzKv_A|D!&WfP8axRoVcf,U#k(v]v+ueunaXRf1Ju}'!g8u#Ri=jQw!sCunLprq>!,')~<5qeGzq9F{W=c##%s5au:5aU3CBE|;d4#X(D!a&6Vygx(b;#(=]ed?C2F{N<capoq2r[a&!aPa9,'Pw;5s:@@=I|,55w_h|@@=IzcP~=x'fCqB_2Wl2>aU@@=I|1OuNBc1Z+jTqIsBv=Wlc~Cw`fl2WlZ~AcTa%!Z+jTqIsBv=Wlb~Cw`fh2WlYk+uNqJsBv=WlSg,u3dca3#UXaMYa)TaB-=cM|7T#<bI}l5@B932:aV2G{BOuNBJq:|M!5Ezt=<B=C@a^<B57@2F{v>cB{/T#=ay<bI{3Jv6!a.6BKq0ah&+!5E}HP~Ef{978BaU@@=Iza<7d#.Y#978BaU@@=IzH~AJq0!(@@=IzG978BaU@@=IzFe,aU*Y&^^^bvJb,b:bFad!a,c2Ta>aL.bo6!a#CbTa'T#Re{2Wlh2@G{yg6t~Ro_NvdRfticuRQRllJv3&!x&c|zs@Jw3!%RflwpfkRlpKuL;%(!Re<@G|C2GzdhIvuBwgjAg-u0RjAKQB%!(GzZ@G|5NuuRl7d='T+Y#Vy[g<v~Rm!==G|>JvA!)@wma=]m1ifuaw&RmnLs@vT'!|/+[y,g:v>ReTJw1!#qX=x!eC{bLu+wT&)ZtZauq_~Graci&U#F|89:r_Lupvq!.)&2RlG8RfaC=x!eF{_h?rpWlmd&'!#X|&]k::xJey#`'T|+<E|&2@H|%dE#(^,g;u.RiEg6vjRiC9xCkA{O|zY#g=ucRmXKs0@!&*@G|m@awRknJuh!,3d(}gY}eJvj!%Rm):Jw3!%Rm+Rm-Ls0w(&!a(a#@b[|6cZ#X'7RkxWgAOu4ARn'dH'U#Y*Vz-Wm'CARm}d]*#a%^a*T'aK!a<9bV{PC=p*Jw4!&SgxcbB5r]idw(wBRmF7xFkt#&`(Rm/Rm8E|!JuY_9:Rl5=wrgr2:bbxd@xXfB(a*#T+!.X0X1Ta/a'T&RlDRfL>RlyARl9b[z[>RfZ:RlL:RfRwlg/ARl;9;RlxKv,A/!%7s69<74=BA5ba{-8Bde#`a<XaKYa1,a'P~=wxfB2bZ}}?C972@@=I}r8@55B9;5bb}G978B2@@=aybb}3j3vLv;<Jw3&!>Rfk=ayb^}4~Ad1#`*@@=aybb{w2@>==<bbz]dx+UY#^UaF!a9!bB'Ya1.!ajXa#%olRhD[y=3Dt#Ov5BrHKuMB%!(Rf^Wep~HrJwkiQjKr|~FRg)Ku+D#'!t5~GrF~?rDdV)UY,Z/_7RkuG{<~BrBg,rlsO:235B@bX}|d?a1!#`(6Vyn5@d##Y+jTv|vV~EfIj]uNpn~FRfH7Lq2vb1!a9-978BaU@@=Iz9978BbU}#~AJq0!(@@=Iz8978BaU@@=Iz7~AJQ|}!978BbU}!JvkaK!AdUa21-U#`a+(g/vsRn~Ou!5RPj:rmu9WhOjXuvvNr}:RhAj^v(pyw8unRn[kPr}p|u7vwv]RiSBd;pppzq@qHQa?(b.!a.a`@.|xa(hFv;Wiyj5uuv-7Riw~Cw`fg2WlU978BbU|wOuNBJqG!(P~EfD~CRlQcZ#X,k)u3vWs@u2]ksg;wEx'f@q1_2Wg.j]uNpn~FRfqJv]!15x'h{qG!(@@=IzK~CRl^j6v(us5x4i,#T(2WmY?C2F{1>Kq<aj1!*jTqIsBv=Wld~Cw`fj2Wl[j`v0u*~>RlT=c>Z,k#u3vWs@u2]kq<c1Z+jTqIsBv=Wle~Cw`fn2Wl]dn1#c(a(b^a2!b/bAT(bj!aDa7bu,a_a{c0!2T0g:v>ReD2@G{42@G{5~DpM~<5rc=Bx6i>{RT#RnI@zCx]y]z:2Jv[!zr5Awyk]9]k]dD(Y+X#6Vz.g=wKtgwhaCwgmTWj2Lu,w%_+/[y-B;b^xeg3u3Rj-2@bX{*KrJ<!+'@Wg(g?QRlC@Jv`!%b[zIwsfII}8JQ_@w|kW|=Jv(%!AqcOuNBJvEzh!bYzjLs@wP#(0!oy@>RkdJwMZtc3Dtd@BcG#T'9bWxg2@2Fznd*#Y+;2x'c}w<zizixNgwa#Z'U+!/!a'!a+w~g~z6wcn{Rn}wcnzRn|5Rh%=]nJg5vuRmvNvdRlvcprJu}w*az*a#!%.a.'Bot9qT]kj@Wg'ay2Gzv@Jv`!%b[zEwsfHI}1;ck#Ux`<Cbbx_Lu+w!a&0*!wko*wwo,So,}6Juqxf!E}PigQuyRm`d3(`#8>Rn%:A5B;bZ~%KvhCa!a2!x>k7#Uxb@b{#xaRk7Jw0!)>wwhlShl}6>wwhmShm}6CJvB!.x'hhvj{!!5Bwkhhbaz}x'hivjz~!5Bwkhibaz|xEhTrNu,v-vpD!a%&/)a3a.,%Ro2t[CE{)@3re9b]{%wjo09:rgc:Z&Ro6=<riifuaw&RmoKrNA!%(Ro4>Ro89;Ri`dSaL'UYzxZb)7Rka3xRhT&!,!#^1U}vbaz{>>@=be}yC@:D5bazzKu+A&!}{?ba}y>>@=be}wxBh[t`u~vJvr!%a!a()a,a0a4RoC=]o;Ju(!%RoGRhdwjh`=]oAg>w#Ro?g5vuRo=NvdRl|Ku]C.!&;RoEJvB!%RoORoMBx'h[v+_?w~h`}~5?w~hd~!xKh]oiptu-utv.vp!#%&a30a@a'a+(a/aOp(o~p!RoDJu(!%RoHRhewjha=]oBNvdRl}g>w#Ro@g5vuRo>c[#X']o<CauRoRAd-#Y':RkpauRoQKu]C.!&;RoFJvB!%RoNRoPBx'h]v+_?w~ha}t5?w~he}ue!/UbhYacXaW^Tc&a;b:a-c/#b&aja1(!cL+!bKbt!bmcRc9aIc?8[yW3Dtt94Rg`Jv}!&SiRMzBhEebShEMNuPRe>x7gL#TzuwjirRipc<Z&>on;>z=h-MSh.Mwqczx'a7vj&!>Re4@=ResJt__NuPRi*NuPRi)j]uNr|~FRfzKrJ>_+@Wfy@Wf]2WocKrJ<!+'@Wg%g/QRl@@Jv`!&awRl<wsfFIzgLu(w*!.*&ShBMwvhIRhI9;RhNx1hK'!#Sn]Mx1hK~0!#:2<H~7cNu+w7D*'1ZtW>Rn1~?rOc:Z&Rn2=<rQ<7wjh&=BSnLMc]#X(6Vz)w[b=a!U#9wzgMc3#&(RgMRitRis<x,gKt`ax!&+SioM=BSilMc3#&(RgKRinRimKurB,!&SiQMzBhDebShDM6BJQ!(P~Efx978B2@@=I}WLrJw!!,a*&@G}O@9wkibRid@@x'fKwC!&SlDMSfLMjUv~Q~EfKKv3@a+!(hFv-]mpx/hYZ(C5RiWz<o/MwkhY?So/M@x,gbvfB*&!SgEM:SoeeehFu3:Rgbda(,^TZa)X/7Sg[eb:2RgI~BrMC@wgkc:wwkcRerx3h(uUvK!&*,SnOM4Sh*MArRg;wHRh(x=h;rJvPwI!a4',a'0@Wg&=BSh/Mg>w=Rh=g3w*wwgGRgGcW(X#;Sg}M2Gzk@Jv`!&awRl=wsfGIz`dKZ*T'Y-:RhR7RhQg5u-p`j6v(us5d,#Y+~Awkia?RicOuNBwkibba}Ld6p~tyu_vbAa'a+!a/'a3aEa8a!>Sh,ebJv{!&Sh@ebSaReb9;SgwebNuPRi(NvdRl)NuPRi'hHu^<Rm^Jvv_@Wl(g;u1Si/ebKu'B&!*Sh?eb@Wl'z@aPeb95Si.ebcpputyvjB)!,&a+0a%ShAMWeK@G}C@WfJ9;RhMwvhH9w{ia}ix,hJvRA1(!zAn[MRhHx1hJ~*!#hFv(BSn[MBJQ!(@@=I~'978B2@@=I}2db.Ua<'X}+T#a0XaG2G}E;wkg|wuh!Rh!x,hZu,@)!&So0MVy)C5RiXACJvB!&5RiY5RiZg8w)cG}*T#2@bU}=KsA>(!a.3wkhZba~(x,h^u(A!&(SoCMRhb5Bz=h[eb?w~hb~6x,h_u(A!&(SoDMRhc5Bz=h]eb?w~hc~6e)aA1T#T,^^^c-bMb&blcPaP(a/!0!bA=b5c@a(!bfbrc#2afwmhARnjwchORnp2Wlf3DtsNvdRl-2@wpa<]m0bx(#:awRk2@Jw3!%RfhwpfgRlnKQB%!(G{V@G|'NuuRl6d='T+Y#VyUg<v~Rl~==G|<Jv+'!aYShC}6@B<5?ba~8@Jw3'!g2QRljhLrpWlOd+#Y'g.w'rIg>w*wgj@g-u0Rj@Lu+wT&)ZtUauq]~GrGci&U#F|39:rELrNvj!.%*RhCwunfw~nf~:9;Ri]>wtnhg;wHRnhx3hDs@v~!/+'@Wfr@9RkSNu&Rlo=@<5GzoKs0@_+@Wl+@awRkmJuh!-3d(}pY#qWJvj!%Rm(:Jw3!%Rm,Rm*de&!1U-U#`)Re;@G|.@9Ri82@wjfvRlq=@<5GzpLvOvr!).&2RlF8Rf`C=x!eE{.Jw3_g2QRlkhLrpWlPde(!#U{s,UXa*Ta'[y'g:v>ReS;x0PZ&RnlRnn~HrKJw1}f!=x!eB|2w]aP(#Xa&a*Ta.Ua2a7=]iOd'#Y&Ro&WnWg;u.RiDg6vjRiBNvdRlzhNvj]nYJuW_2Wm3x)kFze{9d])!a.!,Y01!#&aC!a3RndC=ox~BrC@2b^{pg,rlse7x'ksuq!%Rm.E{xidw(wBRmGx9o+)X#wwo-So-}69:Rl4@xSf@a#XZ'X)X,Ta(/ARl8b[xc>RfY:RlI:RfQwlg.ARl:9;Rlwdn'#^XafaQa1X1TaHTa)@b[{zcZ#X'7RkwWg@Ou4ARn&x)kG#{,g7u/RkGdH'U#Y*Vz'Wm&CARm|bx#(A]gUbUzJj9Q~=d,#Y(56H}l978H{U7d,0#U*2>ABb_xZ978BbU{e~AJQ{g!978BbU{hxMh?ad{oUYZ.x1h?{l!#:2<H{mx3n[t{vl!,&a%3Ro(z=iS}6ARnr=Bwsn^wvn`Rnbd`*T}B0!#^X'BG{c9b]{a>>@=be}F?JvS!&BG{d7BG}(Bde#`a1X,Ya@!a'P~=wxf@2bZ}I56B2@@=aybb}08@55B9;5bb}<j3vLv;<Jw3&!>Rfg=ayb^}&OuNBKuLA!)a!P~=x#fD{f2@>==<bbzl?C972@@=Ix^d6rSu,v7w*C(0a)a6#B+a%!sQ[y?3Dt%3[xn~<5rLOu!5p@Ku+D#'!t7~GrP~?rNKvlaya7'!h+v-5qMg=t|cd,U#5AAaa5Abb{S@52B5@a[@52B5Gx[iXueu;d<#`a(!/549C;ag>23ExY5@Dah89b^~689Jv)!~2b[~1Lv'w(%*!a#bX|aPrmawRe]keu7uhv-q6rxu,q`xTo]/a5aU!bNaDXbi!b-!ao!b<bwA!#5@B932:aV2G|:d-)Y#hJrL>RhG<7@C5<H|_=Cau:5aj5@B932:bJ|ng>vIbs)#?C2F|9jPv0w.vISh-MKvUaz(.!9ABbb|[5;5<H|Eg>unwfh;9:4E|YjQsBt|vjx'hYq3!(?C2F|J:2<BaY?C2F|GOu!5x,g|p{ah!-(?C2F|c9:4E|OjXuvvNr}:Rh&i[w*t|cd+U#jJvsu)vsSn~Mkfrmu9p}u7vwv]So!McW#Xa!ax5@A5aY:5;5<H|>kJv~vYrquJu3x4ib#T)2@SmZM?C2F|Bj:rmu9@xPhI(a*a#U#`a3-5Abb|L~@:RhK9:4E|0@52B5G|#C::aY?C2F|-:2<BaY?C2F|.5Jvk!a)javYrquJu3x4ia#T)2@SmYM?C2F|HAxPhH(!a#U#`a*-5Abb|4~@:RhJ9:4E|R@52B5G|F:2<BaY?C2F|Sc^#Xa2j=Qq5CJvB!-g<v{z;hhM?C2F|Zi[vrv{z;hiM?C2F|XKsA>!a)-g<v{z;h[eb?C2F|]i[vrv{z;h]eb?C2F|^iZu.vix,hZq3ah!.(?C2F|QOu!5ShXM:2<BaY?C2F|P", 13494, 2713, 49, 25, 61);
@@ -158667,6 +159245,7 @@ var init_decode_data_html = __esm({
 var xmlDecodeTree;
 var init_decode_data_xml = __esm({
   "node_modules/htmlparser2/node_modules/entities/dist/generated/decode-data-xml.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     xmlDecodeTree = /* @__PURE__ */ new Uint16Array([
       512,
@@ -158701,6 +159280,7 @@ var init_decode_data_xml = __esm({
 var BinTrieFlags;
 var init_bin_trie_flags = __esm({
   "node_modules/htmlparser2/node_modules/entities/dist/internal/bin-trie-flags.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(BinTrieFlags2) {
       BinTrieFlags2[BinTrieFlags2["VALUE_LENGTH"] = 49152] = "VALUE_LENGTH";
@@ -158757,6 +159337,7 @@ function determineBranch(decodeTree, current, nodeIndex, char) {
 var CharCodes, TO_LOWER_BIT, EntityDecoderState, DecodingMode, EntityDecoder;
 var init_decode = __esm({
   "node_modules/htmlparser2/node_modules/entities/dist/decode.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_decode_codepoint();
     init_decode_data_xml();
@@ -159183,6 +159764,7 @@ function isASCIIAlpha(c) {
 var CharCodes2, State, QuoteType, Sequences, specialStartSequences, Tokenizer;
 var init_Tokenizer = __esm({
   "node_modules/htmlparser2/dist/Tokenizer.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_decode();
     (function(CharCodes3) {
@@ -160133,6 +160715,7 @@ var init_Tokenizer = __esm({
 var fromCodePoint, formTags, pTag, headingTags, tableSectionTags, ddtTags, rtpTags, openImpliesClose, DOCUMENT_TYPE, voidElements, foreignContextElements, htmlIntegrationElements, svgTagNameAdjustments, ForeignContext, reNameEnd, Parser;
 var init_Parser = __esm({
   "node_modules/htmlparser2/dist/Parser.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_Tokenizer();
     ({ fromCodePoint } = String);
@@ -160735,6 +161318,7 @@ function isTag(element) {
 var ElementType, Root, Text, Directive, Comment, Script, Style, Tag, CDATA, Doctype;
 var init_dist = __esm({
   "node_modules/htmlparser2/node_modules/domelementtype/dist/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(ElementType3) {
       ElementType3["Root"] = "root";
@@ -160846,6 +161430,7 @@ function cloneChildren(childs) {
 var Node, DataNode, Text2, Comment2, ProcessingInstruction, NodeWithChildren, CDATA2, Document, Element;
 var init_node = __esm({
   "node_modules/htmlparser2/node_modules/domhandler/dist/node.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_dist();
     Node = class {
@@ -161041,6 +161626,7 @@ var init_node = __esm({
 var defaultOptions, DomHandler;
 var init_dist2 = __esm({
   "node_modules/htmlparser2/node_modules/domhandler/dist/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_dist();
     init_node();
@@ -161199,6 +161785,7 @@ function isTag3(element) {
 var ElementType2, Root2, Text3, Directive2, Comment3, Script2, Style2, Tag2, CDATA3, Doctype2;
 var init_dist3 = __esm({
   "node_modules/domutils/node_modules/domelementtype/dist/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     (function(ElementType3) {
       ElementType3["Root"] = "root";
@@ -161241,6 +161828,7 @@ function hasChildren(node2) {
 }
 var init_node2 = __esm({
   "node_modules/domutils/node_modules/domhandler/dist/node.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_dist3();
   }
@@ -161249,6 +161837,7 @@ var init_node2 = __esm({
 // node_modules/domutils/node_modules/domhandler/dist/index.js
 var init_dist4 = __esm({
   "node_modules/domutils/node_modules/domhandler/dist/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_node2();
   }
@@ -161324,6 +161913,7 @@ function findAll(test, nodes) {
 }
 var init_querying = __esm({
   "node_modules/domutils/dist/querying.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_dist4();
   }
@@ -161371,6 +161961,7 @@ function getElementsByTagType(type, nodes, recurse = true, limit = Number.POSITI
 var Checks;
 var init_legacy = __esm({
   "node_modules/domutils/dist/legacy.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_dist4();
     init_querying();
@@ -161478,6 +162069,7 @@ function escapeText2(data) {
 var XML_BITSET_VALUE, xmlEncodeRegex, attributeEscapeRegex, textEscapeRegex;
 var init_escape = __esm({
   "node_modules/domutils/node_modules/entities/dist/escape.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     XML_BITSET_VALUE = 1342177476;
     xmlEncodeRegex = /["&'<>\u0080-\uFFFF]/g;
@@ -161490,6 +162082,7 @@ var init_escape = __esm({
 var EntityLevel, EncodingMode;
 var init_dist5 = __esm({
   "node_modules/domutils/node_modules/entities/dist/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_escape();
     (function(EntityLevel2) {
@@ -161510,6 +162103,7 @@ var init_dist5 = __esm({
 var elementNames, attributeNames;
 var init_foreign_names = __esm({
   "node_modules/domutils/node_modules/dom-serializer/dist/foreign-names.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     elementNames = new Map("altGlyph altGlyphDef altGlyphItem animateColor animateMotion animateTransform clipPath feBlend feColorMatrix feComponentTransfer feComposite feConvolveMatrix feDiffuseLighting feDisplacementMap feDistantLight feDropShadow feFlood feFuncA feFuncB feFuncG feFuncR feGaussianBlur feImage feMerge feMergeNode feMorphology feOffset fePointLight feSpecularLighting feSpotLight feTile feTurbulence foreignObject glyphRef linearGradient radialGradient textPath".split(" ").map((name7) => [name7.toLowerCase(), name7]));
     attributeNames = new Map("definitionURL attributeName attributeType baseFrequency baseProfile calcMode clipPathUnits diffuseConstant edgeMode filterUnits glyphRef gradientTransform gradientUnits kernelMatrix kernelUnitLength keyPoints keySplines keyTimes lengthAdjust limitingConeAngle markerHeight markerUnits markerWidth maskContentUnits maskUnits numOctaves pathLength patternContentUnits patternTransform patternUnits pointsAtX pointsAtY pointsAtZ preserveAlpha preserveAspectRatio primitiveUnits refX refY repeatCount repeatDur requiredExtensions requiredFeatures specularConstant specularExponent spreadMethod startOffset stdDeviation stitchTiles surfaceScale systemLanguage tableValues targetX targetY textLength viewBox viewTarget xChannelSelector yChannelSelector zoomAndPan".split(" ").map((name7) => [name7.toLowerCase(), name7]));
@@ -161610,6 +162204,7 @@ function formatAttributes(attributes, options, xmlMode) {
 var unencodedElements, voidElements2, foreignElements, foreignModeIntegrationPoints, dist_default;
 var init_dist6 = __esm({
   "node_modules/domutils/node_modules/dom-serializer/dist/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_dist3();
     init_dist5();
@@ -161662,6 +162257,7 @@ function innerText(node2) {
 }
 var init_stringify = __esm({
   "node_modules/domutils/dist/stringify.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_dist6();
     init_dist3();
@@ -161780,6 +162376,7 @@ function isValidFeed(value) {
 var MEDIA_KEYS_STRING, MEDIA_KEYS_INT;
 var init_feeds = __esm({
   "node_modules/domutils/dist/feeds.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_legacy();
     init_stringify();
@@ -161871,6 +162468,7 @@ function uniqueSort(nodes) {
 var DocumentPosition;
 var init_helpers = __esm({
   "node_modules/domutils/dist/helpers.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_dist4();
     (function(DocumentPosition2) {
@@ -161979,6 +162577,7 @@ function prepend(element, previous) {
 }
 var init_manipulation = __esm({
   "node_modules/domutils/dist/manipulation.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
   }
 });
@@ -162031,6 +162630,7 @@ function prevElementSibling(element) {
 }
 var init_traversal = __esm({
   "node_modules/domutils/dist/traversal.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_dist4();
   }
@@ -162077,6 +162677,7 @@ __export(dist_exports3, {
 });
 var init_dist7 = __esm({
   "node_modules/domutils/dist/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_feeds();
     init_helpers();
@@ -162118,6 +162719,7 @@ function parseFeed(feed, options = parseFeedDefaultOptions) {
 var parseFeedDefaultOptions;
 var init_dist8 = __esm({
   "node_modules/htmlparser2/dist/index.js"() {
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     init_Parser();
     init_Parser();
@@ -162136,6 +162738,7 @@ var init_dist8 = __esm({
 var require_web_research = __commonJS({
   "src/main/services/web-research.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var crypto2 = require("node:crypto");
     var { parseDocument: parseDocument2, DomUtils } = (init_dist8(), __toCommonJS(dist_exports4));
@@ -162550,6 +163153,7 @@ ${row.snippet}`).join("\n\n");
 var require_math_tools = __commonJS({
   "src/main/math-tools.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function gcdBigInt(a, b) {
       let x = a < 0n ? -a : a;
@@ -163612,6 +164216,7 @@ var require_math_tools = __commonJS({
 var require_node_tools = __commonJS({
   "src/agent/node-tools.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     function registerNodeTools({ bind, getSettings }) {
       const { WebResearch, requestText, normalizeResults } = require_web_research();
@@ -163705,6 +164310,7 @@ var require_node_tools = __commonJS({
 var require_backend_discovery = __commonJS({
   "src/main/core/backend-discovery.js"(exports2, module2) {
     "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
     init_define_CIBYP_I18N_SOURCES();
     var fs2 = require("node:fs");
     var path2 = require("node:path");
@@ -163752,6 +164358,7 @@ var require_backend_discovery = __commonJS({
 });
 
 // src/agent/node-host.js
+init_define_CIBYP_AVATAR_FRAMES();
 init_define_CIBYP_I18N_SOURCES();
 var fs = require("node:fs");
 var path = require("node:path");
@@ -163981,6 +164588,45 @@ async function createNodeRuntime({
       return { ok: true };
     });
     bind("theme:get", () => settings.theme);
+    const frames = typeof define_CIBYP_AVATAR_FRAMES_default === "undefined" ? Object.fromEntries(
+      fs.readdirSync(path.join(__dirname, "../renderer/assets/avatar-frames")).filter((name7) => name7.endsWith(".svg")).map((name7) => [
+        path.basename(name7, ".svg"),
+        fs.readFileSync(
+          path.join(__dirname, "../renderer/assets/avatar-frames", name7),
+          "utf8"
+        )
+      ])
+    ) : define_CIBYP_AVATAR_FRAMES_default;
+    bind("avatar-frames:list", () => ({
+      ok: true,
+      frames: Object.keys(frames).map((id) => ({ id, file: id + ".svg" }))
+    }));
+    bind(
+      "avatar-frames:get",
+      (id) => typeof id === "string" && Object.hasOwn(frames, id) ? { ok: true, content: frames[id] } : { ok: false }
+    );
+    bind("avatar:encodeFile", (source) => {
+      try {
+        if (typeof source !== "string") return { ok: false };
+        if (/^data:image\/(?:png|jpeg|webp|gif);base64,[A-Za-z0-9+/=]+$/.test(source))
+          return source.length <= 512 * 1024 ? { ok: true, dataUrl: source } : { ok: false };
+        const target = confinePath(path.join(dataDir, "avatars"), source);
+        const stat2 = fs.statSync(target), mime = {
+          ".png": "image/png",
+          ".jpg": "image/jpeg",
+          ".jpeg": "image/jpeg",
+          ".webp": "image/webp",
+          ".gif": "image/gif"
+        }[path.extname(target).toLowerCase()];
+        if (!mime || !stat2.isFile() || stat2.size > 384 * 1024) return { ok: false };
+        return {
+          ok: true,
+          dataUrl: `data:${mime};base64,${fs.readFileSync(target).toString("base64")}`
+        };
+      } catch {
+        return { ok: false };
+      }
+    });
     for (const [channel, action] of [
       ["status", "status"],
       ["check", "check"],
@@ -164045,7 +164691,10 @@ async function createNodeRuntime({
       DEFAULT_MODEL
     } = require_decision_service();
     const decision = new DecisionService({ getSettings, persistSettings });
-    bind("decision:call", (p) => decision.call(p.state, p.questions, { sessionKey: p.sessionKey }));
+    bind("decision:call", (p = {}) => {
+      if (p.usage && !decision.enabledFor(p.usage)) return { ok: false, error: "Usage disabled" };
+      return decision.call(p.state, p.questions, { sessionKey: p.sessionKey });
+    });
     for (const action of ["noul", "choice", "score"])
       bind("decision:" + action, (p) => {
         if (p.usage && !decision.enabledFor(p.usage))

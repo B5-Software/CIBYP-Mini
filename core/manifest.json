@@ -3,7 +3,7 @@
   "protocol": 2,
   "version": "1.9.0-alpha.25",
   "node": ">=24",
-  "sha256": "9d569fcd1e4f60829cb852c08bfca88fc3a5dd36327453cc0c3b86e94c6936e1",
+  "sha256": "e33bc244886618349d885b2210e7115ff1f7f1b055149da9674c1e838f9362ee",
   "source": {
     "repository": "https://github.com/B5-Software/Could-I-Be-Your-Partner",
     "revision": "943a868e63a82194c89fcbcec5d3bb8640726725",
