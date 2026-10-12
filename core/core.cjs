@@ -71917,6 +71917,24 @@ var require_terminal_shell = __commonJS({
   }
 });
 
+// src/main/core/terminal-pty-cleanup.js
+var require_terminal_pty_cleanup = __commonJS({
+  "src/main/core/terminal-pty-cleanup.js"(exports2, module2) {
+    "use strict";
+    init_define_CIBYP_AVATAR_FRAMES();
+    init_define_CIBYP_I18N_SOURCES();
+    var released = /* @__PURE__ */ new WeakSet();
+    function releaseExitedPty(terminal) {
+      if (process.platform !== "win32" || released.has(terminal)) return;
+      released.add(terminal);
+      const agent2 = terminal._agent;
+      agent2?.inSocket?.destroy();
+      agent2?._conoutSocketWorker?.dispose();
+    }
+    module2.exports = { releaseExitedPty };
+  }
+});
+
 // src/main/ds-compat/terminal-process.js
 var require_terminal_process = __commonJS({
   "src/main/ds-compat/terminal-process.js"(exports2, module2) {
@@ -72142,6 +72160,7 @@ var require_process = __commonJS({
     var { SubprocessRuntime: SubprocessRuntime2, scrubbedParentEnv: scrubbedParentEnv2 } = (init_lib28(), __toCommonJS(lib_exports23));
     var { ShellExecutor: ShellExecutor2 } = (init_lib29(), __toCommonJS(lib_exports24));
     var { resolveHostShell, hostExecutable } = require_terminal_shell();
+    var { releaseExitedPty } = require_terminal_pty_cleanup();
     var sandbox = require_sandbox_runner();
     var { currentExecution, execution } = require_execution_context();
     function environment(overlay = {}) {
@@ -72487,6 +72506,7 @@ var require_process = __commonJS({
         });
         const exit = pty.onExit(({ exitCode, signal }) => {
           ended = true;
+          releaseExitedPty(pty);
           output2.end();
           resolveDone({ exitCode, signal: signal || null });
           data.dispose();
@@ -72529,11 +72549,9 @@ var require_process = __commonJS({
             return foreground.processGroupId;
           },
           terminate: () => cleanup ||= (async () => {
-            if (process.platform === "win32") {
+            if (process.platform === "win32" && !ended) {
               pty.kill();
-              try {
-                await waitBounded(done, AbortSignal.timeout(3e3));
-              } catch {
+              if (!await waitBounded(done, AbortSignal.timeout(3e3))) {
                 if (!ended) await killTree(pty.pid, "SIGKILL");
               }
             } else if (!ended) {
@@ -158687,6 +158705,7 @@ var require_terminal_service = __commonJS({
     var { abortAllRequests, abortRequests } = require_llm_retry();
     var { TerminalCommand } = require_terminal_command();
     var { resolveTerminalShell } = require_terminal_shell();
+    var { releaseExitedPty } = require_terminal_pty_cleanup();
     module2.exports = function registerTerminalIpc({ ipcMain, getMainWindow, getSettings, getVmService, selectShellBinary, publishEvent }) {
       const terminals = /* @__PURE__ */ new Map();
       let terminalIdCounter = 0;
@@ -158889,6 +158908,7 @@ var require_terminal_service = __commonJS({
           entry.commandTracker = new TerminalCommand(term, entry.shellName);
           term.onData((data) => _appendTerminalData(id, entry, data));
           term.onExit(({ exitCode }) => {
+            releaseExitedPty(term);
             entry.commandTracker.end();
             terminals.delete(id);
             _broadcastTerminalEvent("terminal:exit", { id, exitCode });

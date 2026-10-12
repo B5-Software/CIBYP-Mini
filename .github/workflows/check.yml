@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: B5-Software/CIBYP-Micro
-          ref: 3ea1f2708a65996feb74abb78710a9a6aabd21c2
+          ref: 166c459e77a35521f91d52d3d6415b20ad7f8289
           path: conformance/micro
       - run: cmake -S conformance/micro -B conformance/micro/build -DCMAKE_BUILD_TYPE=Debug
       - run: cmake --build conformance/micro/build --config Debug

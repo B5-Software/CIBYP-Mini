@@ -3,10 +3,10 @@
   "protocol": 2,
   "version": "1.9.0-alpha.25",
   "node": ">=24",
-  "sha256": "5b533f16d699679165b1993cd41f92d160c146bd3588250513ab565722bec093",
+  "sha256": "3d126145bc6a6642fe40496d863a2eb935f42f347a557b630cd659fd607bacce",
   "source": {
     "repository": "https://github.com/B5-Software/Could-I-Be-Your-Partner",
-    "revision": "26b35302dadf6c5a1addd6508fb980994d288f4b",
+    "revision": "76551db83f049e163815f77b372e3816ddcee772",
     "dirty": false,
     "sourceMap": "core.cjs.map"
   },
