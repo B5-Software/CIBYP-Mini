@@ -16579,6 +16579,7 @@ var require_text_extra = __commonJS({
     init_define_CIBYP_I18N_SOURCES();
     module2.exports = {
       en: {
+        "ui.tui.args.devices": "[ID]",
         "ui.tui.cmd.devices": "List paired Remote devices and resource grants",
         "ui.tui.cmd.hardware": "List available hardware tools",
         "ui.tui.cmd.usage": "Show tokens, spending and subscription quotas",
@@ -16647,6 +16648,7 @@ var require_text_extra = __commonJS({
         "ui.tui.configGroup.language": "Language"
       },
       de: {
+        "ui.tui.args.devices": "[ID]",
         "ui.tui.cmd.devices": "Gekoppelte Remote-Ger\xE4te und Freigaben anzeigen",
         "ui.tui.cmd.hardware": "Verf\xFCgbare Hardware-Werkzeuge anzeigen",
         "ui.tui.cmd.usage": "Tokens, Kosten und Abonnementkontingente anzeigen",
